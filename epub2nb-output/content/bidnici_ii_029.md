@@ -3,8 +3,8 @@ title: KNIHA ŠESTÁProbdělá noc
 contentType: prose
 ---
 
-(1)  
-Dne 16. února 1833
+## _(1)  
+Dne 16. února 1833_
 
   
 

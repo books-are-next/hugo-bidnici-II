@@ -3,8 +3,8 @@ title: "KNIHA JEDENÁCTÁAtom se bratří s\_uragánem"
 contentType: prose
 ---
 
-(1)  
-Několik vysvětlivek ke Gavrochově poezii. Akademikův vliv na tuto poezii
+## _(1)  
+Několik vysvětlivek ke Gavrochově poezii. Akademikův vliv na tuto poezii_
 
   
 

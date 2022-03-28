@@ -3,8 +3,8 @@ title: "KNIHA DESÁTÁ5.\_června 1832"
 contentType: prose
 ---
 
-(1)  
-Povrch otázky
+## _(1)  
+Povrch otázky_
 
   
 

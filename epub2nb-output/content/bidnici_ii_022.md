@@ -3,8 +3,8 @@ title: KNIHA PATNÁCTÁUlice Homme-Armé
 contentType: prose
 ---
 
-(1)  
-Pijavý papír všechno vyzvonil
+## _(1)  
+Pijavý papír všechno vyzvonil_
 
   
 
@@ -56,11 +56,11 @@ Přecházel dlouhými, volnými kroky po pokoji až do chvíle, kdy jeho pohled 
 
 Před sebou v nakloněném zrcadle, které viselo nad kredencí, spatřil čtyři řádky, jež mohl jasně přečíst:
 
-Můj drahý,
+_Můj drahý,_
 
-otec bohužel chce, abychom odešli ihned. Dnes večer budeme v ulici Homme-Armé číslo 7. Za týden jsme v Anglii.
+_otec bohužel chce, abychom odešli ihned. Dnes večer budeme v ulici Homme-Armé číslo 7. Za týden jsme v Anglii._
 
-4. června
+_4. června_
 
 COSETTA
 

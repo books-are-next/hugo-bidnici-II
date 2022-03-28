@@ -3,9 +3,9 @@ title: KNIHA OSMÁZlý chuďas
 contentType: prose
 ---
 
-(1)  
+## _(1)  
 Marius hledá dívku s kloboukem  
-a nachází muže s čepicí
+a nachází muže s čepicí_
 
   
 
@@ -84,14 +84,14 @@ Marius si řekl, že se snad z obsahu dozví potřebné a že mu nic nebrání
 
 Dopis zněl:
 
-Paní markýzo!
+_Paní markýzo!_
 
-Ctnost dobrotivosti a soucytu pojí úzce celou lidskou společnost. Dokašte svou křesťanskou lásku a soucytně se podiveje na nešťastného Španěla, oběť věrnosti a oddanosti, který zaplatil krví a obětoval jmění, aby hájil svatou věc legitimity, a dnes žije ve velké bídě. Nepochybuje, že Vaše ctihodná osobnost poskytne pomoc v krajně trapném postavení vojínovi, zahrnutému poctami a pokrytému ranami. Předem spoléhán na Vaše dobré srdce a na soucyt, který má paní markýza s národem tak nešťastným. Jeho prozba nebude marná a zachová milou vzpomínku na Vás.
+_Ctnost dobrotivosti a soucytu pojí úzce celou lidskou společnost. Dokašte svou křesťanskou lásku a soucytně se podiveje na nešťastného Španěla, oběť věrnosti a oddanosti, který zaplatil krví a obětoval jmění, aby hájil svatou věc legitimity, a dnes žije ve velké bídě. Nepochybuje, že Vaše ctihodná osobnost poskytne pomoc v krajně trapném postavení vojínovi, zahrnutému poctami a pokrytému ranami. Předem spoléhán na Vaše dobré srdce a na soucyt, který má paní markýza s národem tak nešťastným. Jeho prozba nebude marná a zachová milou vzpomínku na Vás._
 
-S nejhlubší úctou mám čest se znamenat,
+_S nejhlubší úctou mám čest se znamenat,_
 
-milostivá paní,  
-DON ALVAREZ, setník španělské jízdy, roajalista, který utekl do Francie a je právě na cestě do vlasti, ale nemá dostatečných prostředků, aby v cestě pokračoval.
+_milostivá paní,  
+DON ALVAREZ, setník španělské jízdy, roajalista, který utekl do Francie a je právě na cestě do vlasti, ale nemá dostatečných prostředků, aby v cestě pokračoval._
 
 K dopisu nebyla připojena adresa. Marius doufal, že ji najde ve druhém dopise, který byl adresován
 
@@ -99,35 +99,35 @@ _Paní hraběnce Montvernetové, ulice Casette č. 9._
 
 Marius v něm četl:
 
-Paní hraběnko!
+_Paní hraběnko!_
 
-Jsem nešťastná matka šesti dětí; nejmladšímu je teprve osm měsíců. Od posledního porodu stůňu, muš mně opustil přet pěti měsíci a žiju sama na světě, bes prostřetků a v hrozném nedostatku.
+_Jsem nešťastná matka šesti dětí; nejmladšímu je teprve osm měsíců. Od posledního porodu stůňu, muš mně opustil přet pěti měsíci a žiju sama na světě, bes prostřetků a v hrozném nedostatku._
 
-V naději ve Vás, paní hraběnko, zůstávám vaše
+_V naději ve Vás, paní hraběnko, zůstávám vaše_
 
-BALIZARDOVÁ.
+_BALIZARDOVÁ._
 
 Marius přešel ke třetímu listu, který byl jako předešlé prosbou o almužnu, a četl:
 
-Pan Pabourgeot, volič, obchodník s punčochami ve velkém, ulice Saint-Denis na rohu ulice Fers.
+_Pan Pabourgeot, volič, obchodník s punčochami ve velkém, ulice Saint-Denis na rohu ulice Fers._
 
-Dovoluji si Vám poslat tento dopis a požádat Vás, abiste vlídně věnoval soucyt a zájem spysovateli, který právě poslal drama francouzskému divadlu. Námět je hystorycký a děj se odehrává v Auvergne za doby císařství. Styl je, jak se domnívám, přirozený, stručný a jistě by měl úspěch. Na čtyřech místech jsou v něm zpěvní vložky. Komyka, vážné myšlenky, nečekané události se tam mýsí s růzností povach a romantické zabarvení lechce halí všechny zápletky, které tajně pokračují a rosuzlují se skvělými obraty uprostřet spousty efektních výjevů.
+_Dovoluji si Vám poslat tento dopis a požádat Vás, abiste vlídně věnoval soucyt a zájem spysovateli, který právě poslal drama francouzskému divadlu. Námět je hystorycký a děj se odehrává v Auvergne za doby císařství. Styl je, jak se domnívám, přirozený, stručný a jistě by měl úspěch. Na čtyřech místech jsou v něm zpěvní vložky. Komyka, vážné myšlenky, nečekané události se tam mýsí s růzností povach a romantické zabarvení lechce halí všechny zápletky, které tajně pokračují a rosuzlují se skvělými obraty uprostřet spousty efektních výjevů._
 
-Mým jediným přáním bilo uspokojit chuť, kterou se vyznačuje človjek našeho století, to jest MÓDU, tu rozmarnou a podivnou korouhvičku, která mění směr skoro při každém zavanutí větru.
+_Mým jediným přáním bilo uspokojit chuť, kterou se vyznačuje človjek našeho století, to jest MÓDU, tu rozmarnou a podivnou korouhvičku, která mění směr skoro při každém zavanutí větru._
 
-Ačkolif kus má přednosti, přece se obávám, že žárlivost a sobectví privylegovaných spysovatelů se přičiní, aby můj kus zamýtli, protože dobře vím, jaké překážky se kladou do cesty začátečníkům.
+_Ačkolif kus má přednosti, přece se obávám, že žárlivost a sobectví privylegovaných spysovatelů se přičiní, aby můj kus zamýtli, protože dobře vím, jaké překážky se kladou do cesty začátečníkům._
 
-Pane Pabourgeote, Vaše pověst chvalně známého ochránce literátů mi dodává odvahy, abych vám poslal cerku, která Vám vyloží naše hrozné poměry, nedostatek chleba a tepla v nastalé zimě. Dovolte, abych Vás poprosil, abyste přijal poctu, kterou Vám hodlám prokázat svým dramatem a všemi ostatními; toužím po cti uchýlit se pod Vaší ochranu a ozdobyt svá díla Vaším jménem. Ráčíte-li mně obdařit sebenepatrnějším příspěvkem, pustím se hnet do psaní, abych vám projevil svou vděčnost. Drama si Vám dovolým poslat, než bude ohlášeno a provozováno na jevišti.
+_Pane Pabourgeote, Vaše pověst chvalně známého ochránce literátů mi dodává odvahy, abych vám poslal cerku, která Vám vyloží naše hrozné poměry, nedostatek chleba a tepla v nastalé zimě. Dovolte, abych Vás poprosil, abyste přijal poctu, kterou Vám hodlám prokázat svým dramatem a všemi ostatními; toužím po cti uchýlit se pod Vaší ochranu a ozdobyt svá díla Vaším jménem. Ráčíte-li mně obdařit sebenepatrnějším příspěvkem, pustím se hnet do psaní, abych vám projevil svou vděčnost. Drama si Vám dovolým poslat, než bude ohlášeno a provozováno na jevišti._
 
-Panu a paní Pabourgeotovým
+_Panu a paní Pabourgeotovým_
 
-s projevem nejpokornější úcty
+_s projevem nejpokornější úcty_
 
-GENFLOT, spysovatel
+_GENFLOT, spysovatel_
 
-PS. Stačilo by i čtyřicet sou.
+_PS. Stačilo by i čtyřicet sou._
 
-Promiňte, že posílám tceru a že nepřicházím sám, ale smutné nedostatky v oblečení mi bohužel nedovolují vycházet…
+_Promiňte, že posílám tceru a že nepřicházím sám, ale smutné nedostatky v oblečení mi bohužel nedovolují vycházet…_
 
 Konečně Marius otevřel čtvrtý dopis. Byl adresován:
 
@@ -135,19 +135,19 @@ _Panu dobrodinci z kostela Saint-Jacques-du-Haut-Pas._
 
 Ten dopis měl jenom několik řádek:
 
-Dobrodinče!
+_Dobrodinče!_
 
-Ráčíte-li doprovodit mou tceru, uvidíte hroznou bídu a já Vám ukáži svá vysvědčení.
+_Ráčíte-li doprovodit mou tceru, uvidíte hroznou bídu a já Vám ukáži svá vysvědčení._
 
-Až schlédnete tyto řádky, vaše srdce pocýtí dojemný soucyt, protože praví filozofově vždycky zakoušejí nejhlubší pohnutí.
+_Až schlédnete tyto řádky, vaše srdce pocýtí dojemný soucyt, protože praví filozofově vždycky zakoušejí nejhlubší pohnutí._
 
-Jako soucytný člověk uznáte, že jsme-li nuceni potvrdit bídu úřadem, abychom dosáhli nějaké pomoci, je to kruté a bolestné; jako by nebožák nemohl svobodně trpjet a umírat f očekávání, že někdo jeho bídu umenší. Osud je často zlý k jedněm a velmi štědře poskytuje záštitu druhým.
+_Jako soucytný člověk uznáte, že jsme-li nuceni potvrdit bídu úřadem, abychom dosáhli nějaké pomoci, je to kruté a bolestné; jako by nebožák nemohl svobodně trpjet a umírat f očekávání, že někdo jeho bídu umenší. Osud je často zlý k jedněm a velmi štědře poskytuje záštitu druhým._
 
-Očekávám Váš příchod nebo Váš dar, ráčíte-li mi něco věnovat, a prosím Vás, abyste přijal výraz mé nejhlupší úcty, s nímž se znamenám muži skutečně velkodušnému.
+_Očekávám Váš příchod nebo Váš dar, ráčíte-li mi něco věnovat, a prosím Vás, abyste přijal výraz mé nejhlupší úcty, s nímž se znamenám muži skutečně velkodušnému._
 
-Váš nejponíženější a nejoddanější služebník
+_Váš nejponíženější a nejoddanější služebník_
 
-P.  FABANTOU, dramatický umělec.
+_P.  FABANTOU, dramatický umělec._
 
 Když si Marius přečetl ty čtyři dopisy, nevěděl o mnoho víc než předtím.
 
@@ -218,19 +218,19 @@ V ruce skutečně držela dopis a podala jej Mariovi.
 
 Když jej Marius otvíral, povšiml si, že velká a široká oplatka na zalepování listů je ještě vlhká. Poselství tedy nepřicházelo zdaleka.
 
-Četl:
+_Četl:_
 
-Milý sousede a mladý muži!
+_Milý sousede a mladý muži!_
 
-Dovjeděl jsem se, jakou laskavost jste mi projevil, když jste za mne před půl rokem zaplatil nájemné. Žehnám vám, mladý muži.
+_Dovjeděl jsem se, jakou laskavost jste mi projevil, když jste za mne před půl rokem zaplatil nájemné. Žehnám vám, mladý muži._
 
-Má starší tcera Vám řekne, že už dva dny nemáme chleba a že má manželka je nemocná. Nejsem-li naprosto na omylu, doufám, že Vaše šlechetné srce bude dojato touto podivnou a probudí přání obšťastnit mě nepatrným dobrodiním.
+_Má starší tcera Vám řekne, že už dva dny nemáme chleba a že má manželka je nemocná. Nejsem-li naprosto na omylu, doufám, že Vaše šlechetné srce bude dojato touto podivnou a probudí přání obšťastnit mě nepatrným dobrodiním._
 
-S obzvláštní úctou, kterou jsme povinni dobrodincům, zůstevám váš
+_S obzvláštní úctou, kterou jsme povinni dobrodincům, zůstevám váš_
 
-JONDRETTE
+_JONDRETTE_
 
-PS. Tcera počká na Vaše rozkazy, drahý pane Marie.
+_PS. Tcera počká na Vaše rozkazy, drahý pane Marie._
 
 Tento dopis pomohl rozluštit temnou příhodu, která Mariovi od včerejška nedala pokoje, jako bys rozsvítil ve sklepě svíčku; rázem se všechno vysvětlilo.
 

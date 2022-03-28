@@ -1,0 +1,1839 @@
+{
+  "author": "Victor Hugo",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "hugo-bidnici-ii-1e7d2d3",
+  "languagecode": "cs",
+  "modified": "2019-08-29T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Bídníci II",
+  "revision": "1e7d2d3",
+  "generatedAt": {
+    "date": "Mon Mar 28 2022 09:01:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648458099963
+  },
+  "documents": [
+    {
+      "title": "Bídníci II",
+      "file": "bidnici_ii_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "bidnici_ii_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KNIHA SEDMÁPatron–Minette • Bídníci II",
+      "file": "bidnici_ii_005.html",
+      "words": 2668,
+      "chars": 17175,
+      "ideas": 78,
+      "role": "chapter",
+      "order": 1,
+      "prev": "bidnici_ii_002.html",
+      "next": "bidnici_ii_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA SEDMÁPatron–Minette",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA OSMÁZlý chuďas • Bídníci II",
+      "file": "bidnici_ii_006.html",
+      "words": 24654,
+      "chars": 151246,
+      "ideas": 1271,
+      "role": "chapter",
+      "order": 2,
+      "prev": "bidnici_ii_005.html",
+      "next": "bidnici_ii_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA OSMÁZlý chuďas",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "(5)",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "(6)",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "(7)",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "(8)",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "(9)",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "(10)",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "(11)",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "(12)",
+              "id": "12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "(13)",
+              "id": "13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "(14)",
+              "id": "14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "(15)",
+              "id": "15",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "(16)",
+              "id": "16",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "(17)",
+              "id": "17",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "(18)",
+              "id": "18",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "(19)",
+              "id": "19",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "(20)",
+              "id": "20",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "(21)",
+              "id": "21",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "(22)",
+              "id": "22",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ČÁST ČTVRTÁIdyla ulice Plumet aEpopej uliceSaint-Denis • Bídníci II",
+      "file": "bidnici_ii_007.html",
+      "words": 6,
+      "chars": 54,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 3,
+      "prev": "bidnici_ii_006.html",
+      "next": "bidnici_ii_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČÁST ČTVRTÁIdyla ulice Plumet aEpopej uliceSaint-Denis",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KNIHA PRVNÍNěkolik stránek dějin • Bídníci II",
+      "file": "bidnici_ii_008.html",
+      "words": 10826,
+      "chars": 69994,
+      "ideas": 418,
+      "role": "chapter",
+      "order": 4,
+      "prev": "bidnici_ii_007.html",
+      "next": "bidnici_ii_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA PRVNÍNěkolik stránek dějin",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "(5)",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "(6)",
+              "id": "6",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA DRUHÁEponina • Bídníci II",
+      "file": "bidnici_ii_009.html",
+      "words": 5274,
+      "chars": 32316,
+      "ideas": 211,
+      "role": "chapter",
+      "order": 5,
+      "prev": "bidnici_ii_008.html",
+      "next": "bidnici_ii_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA DRUHÁEponina",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA TŘETÍDům v ulici Plumet • Bídníci II",
+      "file": "bidnici_ii_010.html",
+      "words": 11259,
+      "chars": 69540,
+      "ideas": 299,
+      "role": "chapter",
+      "order": 6,
+      "prev": "bidnici_ii_009.html",
+      "next": "bidnici_ii_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA TŘETÍDům v ulici Plumet",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "(5)",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "(6)",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "(7)",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "(8)",
+              "id": "8",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA ČTVRTÁPomoc zdola může být pomocí shora • Bídníci II",
+      "file": "bidnici_ii_011.html",
+      "words": 2913,
+      "chars": 17835,
+      "ideas": 107,
+      "role": "chapter",
+      "order": 7,
+      "prev": "bidnici_ii_010.html",
+      "next": "bidnici_ii_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA ČTVRTÁPomoc zdola může být pomocí shora",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA PÁTÁKonec se nepodobá začátku • Bídníci II",
+      "file": "bidnici_ii_012.html",
+      "words": 4840,
+      "chars": 28957,
+      "ideas": 198,
+      "role": "chapter",
+      "order": 8,
+      "prev": "bidnici_ii_011.html",
+      "next": "bidnici_ii_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA PÁTÁKonec se nepodobá začátku",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "(5)",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "(6)",
+              "id": "6",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA ŠESTÁMalý Gavroche • Bídníci II",
+      "file": "bidnici_ii_013.html",
+      "words": 10487,
+      "chars": 65446,
+      "ideas": 519,
+      "role": "chapter",
+      "order": 9,
+      "prev": "bidnici_ii_012.html",
+      "next": "bidnici_ii_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA ŠESTÁMalý Gavroche",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA SEDMÁHantýrka • Bídníci II",
+      "file": "bidnici_ii_014.html",
+      "words": 7388,
+      "chars": 47077,
+      "ideas": 176,
+      "role": "chapter",
+      "order": 10,
+      "prev": "bidnici_ii_013.html",
+      "next": "bidnici_ii_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA SEDMÁHantýrka",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA OSMÁOkouzlení a zármutek • Bídníci II",
+      "file": "bidnici_ii_015.html",
+      "words": 10187,
+      "chars": 61521,
+      "ideas": 459,
+      "role": "chapter",
+      "order": 11,
+      "prev": "bidnici_ii_014.html",
+      "next": "bidnici_ii_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA OSMÁOkouzlení a zármutek",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "(5)",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "(6)",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "(7)",
+              "id": "7",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA DEVÁTÁKam jdou? • Bídníci II",
+      "file": "bidnici_ii_016.html",
+      "words": 2201,
+      "chars": 13479,
+      "ideas": 66,
+      "role": "chapter",
+      "order": 12,
+      "prev": "bidnici_ii_015.html",
+      "next": "bidnici_ii_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA DEVÁTÁKam jdou?",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA DESÁTÁ5. června 1832 • Bídníci II",
+      "file": "bidnici_ii_017.html",
+      "words": 6761,
+      "chars": 43855,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 13,
+      "prev": "bidnici_ii_016.html",
+      "next": "bidnici_ii_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA DESÁTÁ5. června 1832",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "(5)",
+              "id": "5",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA JEDENÁCTÁAtom se bratří s uragánem • Bídníci II",
+      "file": "bidnici_ii_018.html",
+      "words": 3150,
+      "chars": 19159,
+      "ideas": 207,
+      "role": "chapter",
+      "order": 14,
+      "prev": "bidnici_ii_017.html",
+      "next": "bidnici_ii_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA JEDENÁCTÁAtom se bratří s uragánem",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "(5)",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "(6)",
+              "id": "6",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA DVANÁCTÁKorint • Bídníci II",
+      "file": "bidnici_ii_019.html",
+      "words": 9251,
+      "chars": 58020,
+      "ideas": 410,
+      "role": "chapter",
+      "order": 15,
+      "prev": "bidnici_ii_018.html",
+      "next": "bidnici_ii_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA DVANÁCTÁKorint",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "(5)",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "(6)",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "(7)",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "(8)",
+              "id": "8",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA TŘINÁCTÁMarius vstupuje do stínu • Bídníci II",
+      "file": "bidnici_ii_020.html",
+      "words": 3365,
+      "chars": 20951,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 16,
+      "prev": "bidnici_ii_019.html",
+      "next": "bidnici_ii_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA TŘINÁCTÁMarius vstupuje do stínu",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA ČTRNÁCTÁVznešenost zoufalství • Bídníci II",
+      "file": "bidnici_ii_021.html",
+      "words": 4847,
+      "chars": 30065,
+      "ideas": 268,
+      "role": "chapter",
+      "order": 17,
+      "prev": "bidnici_ii_020.html",
+      "next": "bidnici_ii_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA ČTRNÁCTÁVznešenost zoufalství",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "(5)",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "(6)",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "(7)",
+              "id": "7",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA PATNÁCTÁUlice Homme-Armé • Bídníci II",
+      "file": "bidnici_ii_022.html",
+      "words": 5056,
+      "chars": 31095,
+      "ideas": 267,
+      "role": "chapter",
+      "order": 18,
+      "prev": "bidnici_ii_021.html",
+      "next": "bidnici_ii_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA PATNÁCTÁUlice Homme-Armé",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "ČÁST PÁTÁJean Valjean • Bídníci II",
+      "file": "bidnici_ii_023.html",
+      "words": 3,
+      "chars": 21,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 19,
+      "prev": "bidnici_ii_022.html",
+      "next": "bidnici_ii_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČÁST PÁTÁJean Valjean",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KNIHA PRVNÍVálka mezi čtyřmi stěnami • Bídníci II",
+      "file": "bidnici_ii_024.html",
+      "words": 24725,
+      "chars": 156265,
+      "ideas": 834,
+      "role": "chapter",
+      "order": 20,
+      "prev": "bidnici_ii_023.html",
+      "next": "bidnici_ii_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA PRVNÍVálka mezi čtyřmi stěnami",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "(5)",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "(6)",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "(7)",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "(8)",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "(9)",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "(10)",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "(11)",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "(12)",
+              "id": "12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "(13)",
+              "id": "13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "(14)",
+              "id": "14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "(15)",
+              "id": "15",
+              "children": []
+            },
+            {
+              "index": 16,
+              "level": 2,
+              "name": "(16)",
+              "id": "16",
+              "children": []
+            },
+            {
+              "index": 17,
+              "level": 2,
+              "name": "(17)",
+              "id": "17",
+              "children": []
+            },
+            {
+              "index": 18,
+              "level": 2,
+              "name": "(18)",
+              "id": "18",
+              "children": []
+            },
+            {
+              "index": 19,
+              "level": 2,
+              "name": "(19)",
+              "id": "19",
+              "children": []
+            },
+            {
+              "index": 20,
+              "level": 2,
+              "name": "(20)",
+              "id": "20",
+              "children": []
+            },
+            {
+              "index": 21,
+              "level": 2,
+              "name": "(21)",
+              "id": "21",
+              "children": []
+            },
+            {
+              "index": 22,
+              "level": 2,
+              "name": "(22)",
+              "id": "22",
+              "children": []
+            },
+            {
+              "index": 23,
+              "level": 2,
+              "name": "(23)",
+              "id": "23",
+              "children": []
+            },
+            {
+              "index": 24,
+              "level": 2,
+              "name": "(24)",
+              "id": "24",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA DRUHÁVnitřnosti obra • Bídníci II",
+      "file": "bidnici_ii_025.html",
+      "words": 5833,
+      "chars": 37453,
+      "ideas": 93,
+      "role": "chapter",
+      "order": 21,
+      "prev": "bidnici_ii_024.html",
+      "next": "bidnici_ii_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA DRUHÁVnitřnosti obra",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "(5)",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "(6)",
+              "id": "6",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA TŘETÍBláto, ale duše • Bídníci II",
+      "file": "bidnici_ii_026.html",
+      "words": 12407,
+      "chars": 75246,
+      "ideas": 378,
+      "role": "chapter",
+      "order": 22,
+      "prev": "bidnici_ii_025.html",
+      "next": "bidnici_ii_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA TŘETÍBláto, ale duše",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "(5)",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "(6)",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "(7)",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "(8)",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "(9)",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "(10)",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "(11)",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "(12)",
+              "id": "12",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA ČTVRTÁJavert vyšinutý z kolejí • Bídníci II",
+      "file": "bidnici_ii_027.html",
+      "words": 3658,
+      "chars": 22773,
+      "ideas": 99,
+      "role": "chapter",
+      "order": 23,
+      "prev": "bidnici_ii_026.html",
+      "next": "bidnici_ii_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA ČTVRTÁJavert vyšinutý z kolejí",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA PÁTÁVnuk a děd • Bídníci II",
+      "file": "bidnici_ii_028.html",
+      "words": 9187,
+      "chars": 56718,
+      "ideas": 269,
+      "role": "chapter",
+      "order": 24,
+      "prev": "bidnici_ii_027.html",
+      "next": "bidnici_ii_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA PÁTÁVnuk a děd",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "(5)",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "(6)",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "(7)",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "(8)",
+              "id": "8",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA ŠESTÁProbdělá noc • Bídníci II",
+      "file": "bidnici_ii_029.html",
+      "words": 7250,
+      "chars": 44760,
+      "ideas": 252,
+      "role": "chapter",
+      "order": 25,
+      "prev": "bidnici_ii_028.html",
+      "next": "bidnici_ii_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA ŠESTÁProbdělá noc",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA SEDMÁPoslední doušek z kalicha • Bídníci II",
+      "file": "bidnici_ii_030.html",
+      "words": 7769,
+      "chars": 46470,
+      "ideas": 212,
+      "role": "chapter",
+      "order": 26,
+      "prev": "bidnici_ii_029.html",
+      "next": "bidnici_ii_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA SEDMÁPoslední doušek z kalicha",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA OSMÁNavečerní stmívání • Bídníci II",
+      "file": "bidnici_ii_031.html",
+      "words": 3713,
+      "chars": 22743,
+      "ideas": 186,
+      "role": "chapter",
+      "order": 27,
+      "prev": "bidnici_ii_030.html",
+      "next": "bidnici_ii_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA OSMÁNavečerní stmívání",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "KNIHA DEVÁTÁNejhlubší beznaděj a nejzářivější svítání • Bídníci II",
+      "file": "bidnici_ii_032.html",
+      "words": 10349,
+      "chars": 62049,
+      "ideas": 394,
+      "role": "chapter",
+      "order": 28,
+      "prev": "bidnici_ii_031.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA DEVÁTÁNejhlubší beznaděj a nejzářivější svítání",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "_(1)",
+              "id": "_1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "(2)",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "(3)",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "(4)",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "(5)",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "(6)",
+              "id": "6",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Bídníci II",
+      "file": "colophon.html",
+      "words": 149,
+      "chars": 977,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
+      "prev": "bidnici_ii_032.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 210182,
+      "chars": 1303292,
+      "ideas": 7902
+    },
+    "chapters": {
+      "words": 210027,
+      "chars": 1302283,
+      "ideas": 7875
+    }
+  }
+}

@@ -3,8 +3,8 @@ title: "KNIHA TŘETÍDům v\_ulici Plumet"
 contentType: prose
 ---
 
-(1)  
-Tajemný dům
+## _(1)  
+Tajemný dům_
 
   
 
@@ -355,11 +355,11 @@ Cosetta nevěděla, co to je láska. Nikdy v životě neslyšela přikládat to
 
 Tím vznikaly hádanky, které velice zaměstnávaly obraznost _velkých,_ jako například:
 
-_Ach! jak je páska krásná!_
+__Ach! jak je páska krásná!__
 
 Nebo:
 
-_Soucit není sázka._
+__Soucit není sázka.__
 
 Ale Cosetta odešla z kláštera ještě příliš mladá, než aby se hlouběji zabývala _páskou._ Nevěděla, jak pojmenovat to, co teď zakoušela. Ale jsme proto méně nemocni, neumíme-li svou nemoc pojmenovat?
 

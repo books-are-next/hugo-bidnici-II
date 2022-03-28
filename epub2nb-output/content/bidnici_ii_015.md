@@ -3,8 +3,8 @@ title: "KNIHA OSMÁOkouzlení a\_zármutek"
 contentType: prose
 ---
 
-(1)  
-Jasné světlo
+## _(1)  
+Jasné světlo_
 
   
 
@@ -644,7 +644,7 @@ Marius pokračoval:
 
 Prohledal kapsu, vytáhl z ní nožík a ostřím vryl do omítky zdi:
 
-_Ulice Verrerie číslo 16._
+__Ulice Verrerie číslo 16.__
 
 Cosetta se mu mezitím znovu zahleděla do očí.
 

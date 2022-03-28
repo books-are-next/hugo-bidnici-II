@@ -3,9 +3,9 @@ title: "KNIHA DEVÁTÁNejhlubší beznaděj a\_nejzářivější svítání"
 contentType: prose
 ---
 
-(1)  
+## _(1)  
 Mějte slitování s nešťastnými,  
-ale buďte shovívaví k těm, kdo jsou šťastni
+ale buďte shovívaví k těm, kdo jsou šťastni_
 
   
 
@@ -177,13 +177,13 @@ A tak podivným rozmarem náhody se mu sama nabídla jedna ze dvou stop, které
 
 Dychtivě rozpečetil dopis a četl:
 
-Pane barone,
+_Pane barone,_
 
-kdibi mě Nejvyšší Bytost obdařila nadáním, mohl bich být baronem Thénardem, členem institutu (akademije vjed), ale nejsem jím. Mám s ním jenom stejné jméno a jsem šťasten, doporučí-li mě tato vzpomínka Vaší výlučné dobrotivosti. Dobrodiní, kterým mě poctíte, bude vzájemné. Znám tajemství, které se dotýká jedné osobi. Ta osoba je s Vámi ve styku. Nabízím Vám k dyspozici tajemství a považoval bych si za čest být Vám užitečný. Rád bych Vám poradil, jak jednoduše vihnat z Vaší vážené rodiny osobu, která tam nepatří, protože paní baronka je vznešeného rodu. Svatostánek cnosti nemohl bi déle ji bít se zločinem pohromadě, aniž bi tím utrpěl.
+_kdibi mě Nejvyšší Bytost obdařila nadáním, mohl bich být baronem Thénardem, členem institutu (akademije vjed), ale nejsem jím. Mám s ním jenom stejné jméno a jsem šťasten, doporučí-li mě tato vzpomínka Vaší výlučné dobrotivosti. Dobrodiní, kterým mě poctíte, bude vzájemné. Znám tajemství, které se dotýká jedné osobi. Ta osoba je s Vámi ve styku. Nabízím Vám k dyspozici tajemství a považoval bych si za čest být Vám užitečný. Rád bych Vám poradil, jak jednoduše vihnat z Vaší vážené rodiny osobu, která tam nepatří, protože paní baronka je vznešeného rodu. Svatostánek cnosti nemohl bi déle ji bít se zločinem pohromadě, aniž bi tím utrpěl._
 
-Čekám v předsýni na rozkazi pana barona.
+_Čekám v předsýni na rozkazi pana barona._
 
-S úctou
+_S úctou_
 
 Dopis byl podepsán _THÉNARD_.
 

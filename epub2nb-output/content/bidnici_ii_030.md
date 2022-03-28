@@ -3,8 +3,8 @@ title: "KNIHA SEDMÁPoslední doušek z\_kalicha"
 contentType: prose
 ---
 
-(1)  
-Sedmý kruh a osmé nebe
+## _(1)  
+Sedmý kruh a osmé nebe_
 
   
 

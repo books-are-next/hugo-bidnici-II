@@ -3,8 +3,8 @@ title: KNIHA SEDMÁHantýrka
 contentType: prose
 ---
 
-(1)  
-Původ
+## _(1)  
+Původ_
 
   
 
@@ -117,7 +117,7 @@ V mysli toho krále korunovace znamenala galeje.
 
 Slovo _décarade_ vyjadřuje odjezd těžkého vozu tryskem, je přičítáno Villonovi a je ho hodno. To slovo, které uhání, až jiskry létají, vyhovuje, shrnuje všechno, co vyjadřuje La Fontainův mistrný onomatopoický verš:
 
-_Six forts chevaux tiraient un coche_.
+__Six forts chevaux tiraient un coche_._
 
 Šest silných koní táhlo kočár.
 
@@ -229,7 +229,7 @@ _„Písně mi dodávaly síly.“_
 
 Neužitečnost poezie! K čemu je rým? V tomto sklepení se zrodily téměř všechny argotické písně. Právě z vězení Grand-Châtelet v Paříži pochází smutný refrén montgomerské galéry:
 
-Timaloumisaine, timoulamison.
+_Timaloumisaine, timoulamison._
 
 Většina těch písní je truchlivá; některé jsou veselé; jedna je něžná:
 

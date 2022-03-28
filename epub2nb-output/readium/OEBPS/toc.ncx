@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:466aa253-1a30-465a-9cf7-48eca7491d86" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Bídníci II</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>KNIHA SEDMÁ Patron–Minette</text>
+      </navLabel>
+      <content src="Text/bidnici_ii_005.xhtml#x.24819"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>(1) Podkopy a podkopníci</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_005.xhtml#x.24819"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>(2) Mravní spodina</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_005.xhtml#x.24822"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>(3) Babet, Gueulemer, Claquesous a Montparnasse</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_005.xhtml#x.24823"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>(4) Složení tlupy</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_005.xhtml#x.24825"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>KNIHA OSMÁ Zlý chuďas</text>
+      </navLabel>
+      <content src="Text/bidnici_ii_006.xhtml#x.24828"/>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>(1) Marius hledá dívku s kloboukem a nachází muže s čepicí</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24831"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>(2) Nález</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24834"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>(3) Muž se čtverou tváří</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24835"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>(4) Růže v bídě</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24837"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>(5) Okénko prozřetelnosti</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24838"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>(6) Divoch v pelechu</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24839"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>(7) Strategie a taktika</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24836"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>(8) Paprsek v pelechu</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24840"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>(9) Jondrette skoro pláče</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24841"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>(10) Sazba drožek: dva franky za hodinu</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24842"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>(11) Bída nabízí služby žalu</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24843"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>(12) Jak se využilo pětifranku od pana Leblanka</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24846"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>(13) „Solus cum solo, in loco remoto, non cogitabuntur orare pater noster</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24847"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>(14) Policista dává dvě bambitky advokátovi</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24849"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>(15) Jondrette nakupuje</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24852"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>(16) Píseň na anglický nápěv, oblíbená v roce 1832</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24855"/>
+      </navPoint>
+      <navPoint id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>(17) Jak se využilo Mariova pětifranku</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24858"/>
+      </navPoint>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>(18) Dvě Mariovy židle stojí proti sobě</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24861"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>(19) Pamatujme na temné pozadí</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24862"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>(20) Úklad</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24864"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>(21) Vždycky by se mělo začínat zatčením oběti</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24865"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>(22) Chlapec, který v druhém díle plakal</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_006.xhtml#x.24866"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>ČÁST ČTVRTÁ Idyla ulice Plumet a Epopej ulice Saint-Denis</text>
+      </navLabel>
+      <content src="Text/bidnici_ii_007.xhtml#toc_marker-1"/>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>KNIHA PRVNÍ Několik stránek dějin</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_008.xhtml#toc_marker-1-1"/>
+        <navPoint id="navPoint-31" playOrder="31">
+          <navLabel>
+            <text>(1) Dobře střiženo</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_008.xhtml#toc_marker-1-1-1"/>
+        </navPoint>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>(2) Špatně ušito</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_008.xhtml#toc_marker-1-1-2"/>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>(3) Ludvík Filip</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_008.xhtml#toc_marker-1-1-3"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>(4) Trhliny v základech</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_008.xhtml#toc_marker-1-1-4"/>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>(5) Události, ze kterých se dějiny rodí a jež dějiny přehlížejí</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_008.xhtml#toc_marker-1-1-5"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>(6) Enjolras a jeho poručíci</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_008.xhtml#toc_marker-1-1-6"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>KNIHA DRUHÁ Eponina</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_009.xhtml#toc_marker-1-2"/>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>(1) Skřivánčí pole</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_009.xhtml#toc_marker-1-2-1"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>(2) Vězení – líheň zločinů</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_009.xhtml#toc_marker-1-2-2"/>
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+          <navLabel>
+            <text>(3) Vidění otce Mabeufa</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_009.xhtml#toc_marker-1-2-3"/>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+          <navLabel>
+            <text>(4) Mariovo vidění</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_009.xhtml#toc_marker-1-2-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>KNIHA TŘETÍ Dům v ulici Plumet</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_010.xhtml#toc_marker-1-3"/>
+        <navPoint id="navPoint-43" playOrder="43">
+          <navLabel>
+            <text>(1) Tajemný dům</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_010.xhtml#toc_marker-1-3-1"/>
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44">
+          <navLabel>
+            <text>(2) Jean Valjean národním gardistou</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_010.xhtml#toc_marker-1-3-2"/>
+        </navPoint>
+        <navPoint id="navPoint-45" playOrder="45">
+          <navLabel>
+            <text>(3) Foliis ac frondibus</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_010.xhtml#toc_marker-1-3-3"/>
+        </navPoint>
+        <navPoint id="navPoint-46" playOrder="46">
+          <navLabel>
+            <text>(4) Výměna mříže</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_010.xhtml#toc_marker-1-3-4"/>
+        </navPoint>
+        <navPoint id="navPoint-47" playOrder="47">
+          <navLabel>
+            <text>(5) Růže shledává, že je nebezpečnou zbraní</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_010.xhtml#toc_marker-1-3-5"/>
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+          <navLabel>
+            <text>(6) Bitva začíná</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_010.xhtml#toc_marker-1-3-6"/>
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>(7) K jednomu smutku se přidruží ještě větší smutek</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_010.xhtml#toc_marker-1-3-7"/>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>(8) Galejní řetěz</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_010.xhtml#toc_marker-1-3-8"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>KNIHA ČTVRTÁ Pomoc zdola může být pomocí shora</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_011.xhtml#toc_marker-1-4"/>
+        <navPoint id="navPoint-52" playOrder="52">
+          <navLabel>
+            <text>(1) Rána ještě krvácí, ale zevnitř se hojí</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_011.xhtml#toc_marker-1-4-1"/>
+        </navPoint>
+        <navPoint id="navPoint-53" playOrder="53">
+          <navLabel>
+            <text>(2) Matka Plutarchová vysvětluje bez rozpaků zázrak</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_011.xhtml#toc_marker-1-4-2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>KNIHA PÁTÁ Konec se nepodobá začátku</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_012.xhtml#toc_marker-1-5"/>
+        <navPoint id="navPoint-55" playOrder="55">
+          <navLabel>
+            <text>(1) Samota a kasárny</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_012.xhtml#toc_marker-1-5-1"/>
+        </navPoint>
+        <navPoint id="navPoint-56" playOrder="56">
+          <navLabel>
+            <text>(2) Cosettiny obavy</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_012.xhtml#toc_marker-1-5-2"/>
+        </navPoint>
+        <navPoint id="navPoint-57" playOrder="57">
+          <navLabel>
+            <text>(3) Domněnky obohacené Toussaintčinými poznámkami</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_012.xhtml#toc_marker-1-5-3"/>
+        </navPoint>
+        <navPoint id="navPoint-58" playOrder="58">
+          <navLabel>
+            <text>(4) Srdce pod kamenem</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_012.xhtml#toc_marker-1-5-4"/>
+        </navPoint>
+        <navPoint id="navPoint-59" playOrder="59">
+          <navLabel>
+            <text>(5) Když si Cosetta přečtla psaní</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_012.xhtml#toc_marker-1-5-5"/>
+        </navPoint>
+        <navPoint id="navPoint-60" playOrder="60">
+          <navLabel>
+            <text>(6) Údělem stáří je včas odejít</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_012.xhtml#toc_marker-1-5-6"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>KNIHA ŠESTÁ Malý Gavroche</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_013.xhtml#toc_marker-1-6"/>
+        <navPoint id="navPoint-62" playOrder="62">
+          <navLabel>
+            <text>(1) Svévolné šibalství větru</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_013.xhtml#toc_marker-1-6-1"/>
+        </navPoint>
+        <navPoint id="navPoint-63" playOrder="63">
+          <navLabel>
+            <text>(2) Malý Gavroche těží z Napoleona Velikého</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_013.xhtml#toc_marker-1-6-2"/>
+        </navPoint>
+        <navPoint id="navPoint-64" playOrder="64">
+          <navLabel>
+            <text>(3) Zvraty útěku</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_013.xhtml#toc_marker-1-6-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>KNIHA SEDMÁ Hantýrka</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_014.xhtml#toc_marker-1-7"/>
+        <navPoint id="navPoint-66" playOrder="66">
+          <navLabel>
+            <text>(1) Původ</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_014.xhtml#toc_marker-1-7-1"/>
+        </navPoint>
+        <navPoint id="navPoint-67" playOrder="67">
+          <navLabel>
+            <text>(2) Kořeny</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_014.xhtml#toc_marker-1-7-2"/>
+        </navPoint>
+        <navPoint id="navPoint-68" playOrder="68">
+          <navLabel>
+            <text>(3) Hantýrka, která pláče, a hantýrka, která se směje</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_014.xhtml#toc_marker-1-7-3"/>
+        </navPoint>
+        <navPoint id="navPoint-69" playOrder="69">
+          <navLabel>
+            <text>(4) Dvě povinnosti: bdít a doufat</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_014.xhtml#toc_marker-1-7-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>KNIHA OSMÁ Okouzlení a zármutek</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_015.xhtml#toc_marker-1-8"/>
+        <navPoint id="navPoint-71" playOrder="71">
+          <navLabel>
+            <text>(1) Jasné světlo</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_015.xhtml#toc_marker-1-8-1"/>
+        </navPoint>
+        <navPoint id="navPoint-72" playOrder="72">
+          <navLabel>
+            <text>(2) Opojení dokonalým štěstím</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_015.xhtml#toc_marker-1-8-2"/>
+        </navPoint>
+        <navPoint id="navPoint-73" playOrder="73">
+          <navLabel>
+            <text>(3) Počátek stínu</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_015.xhtml#toc_marker-1-8-3"/>
+        </navPoint>
+        <navPoint id="navPoint-74" playOrder="74">
+          <navLabel>
+            <text>(4) Cab v angličtině jede a v hantýrce štěká</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_015.xhtml#toc_marker-1-8-4"/>
+        </navPoint>
+        <navPoint id="navPoint-75" playOrder="75">
+          <navLabel>
+            <text>(5) Noc</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_015.xhtml#toc_marker-1-8-5"/>
+        </navPoint>
+        <navPoint id="navPoint-76" playOrder="76">
+          <navLabel>
+            <text>(6) Marius se tak vžívá do skutečnosti, že dává Cosettě adresu</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_015.xhtml#toc_marker-1-8-6"/>
+        </navPoint>
+        <navPoint id="navPoint-77" playOrder="77">
+          <navLabel>
+            <text>(7) Staré a mladé srdce proti sobě</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_015.xhtml#toc_marker-1-8-7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>KNIHA DEVÁTÁ Kam jdou?</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_016.xhtml#toc_marker-1-9"/>
+        <navPoint id="navPoint-79" playOrder="79">
+          <navLabel>
+            <text>(1) Jean Valjean</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_016.xhtml#toc_marker-1-9-1"/>
+        </navPoint>
+        <navPoint id="navPoint-80" playOrder="80">
+          <navLabel>
+            <text>(2) Marius</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_016.xhtml#toc_marker-1-9-2"/>
+        </navPoint>
+        <navPoint id="navPoint-81" playOrder="81">
+          <navLabel>
+            <text>(3) Pan Mabeuf</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_016.xhtml#toc_marker-1-9-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>KNIHA DESÁTÁ 5. června 1832</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_017.xhtml#toc_marker-1-10"/>
+        <navPoint id="navPoint-83" playOrder="83">
+          <navLabel>
+            <text>(1) Povrch otázky</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_017.xhtml#toc_marker-1-10-1"/>
+        </navPoint>
+        <navPoint id="navPoint-84" playOrder="84">
+          <navLabel>
+            <text>(2) Podstata otázky</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_017.xhtml#toc_marker-1-10-2"/>
+        </navPoint>
+        <navPoint id="navPoint-85" playOrder="85">
+          <navLabel>
+            <text>(3) Pohřeb – příležitost k obrození</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_017.xhtml#toc_marker-1-10-3"/>
+        </navPoint>
+        <navPoint id="navPoint-86" playOrder="86">
+          <navLabel>
+            <text>(4) Vření dávných dob</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_017.xhtml#toc_marker-1-10-4"/>
+        </navPoint>
+        <navPoint id="navPoint-87" playOrder="87">
+          <navLabel>
+            <text>(5) Zvláštnost Paříže</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_017.xhtml#toc_marker-1-10-5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>KNIHA JEDENÁCTÁ Atom se bratří s uragánem</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_018.xhtml#toc_marker-1-11"/>
+        <navPoint id="navPoint-89" playOrder="89">
+          <navLabel>
+            <text>(1) Několik vysvětlivek ke Gavrochově poezii. Akademikův vliv na tuto poezii</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_018.xhtml#toc_marker-1-11-1"/>
+        </navPoint>
+        <navPoint id="navPoint-90" playOrder="90">
+          <navLabel>
+            <text>(2) Gavroche na pochodu</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_018.xhtml#toc_marker-1-11-2"/>
+        </navPoint>
+        <navPoint id="navPoint-91" playOrder="91">
+          <navLabel>
+            <text>(3) Vlásenkářovo spravedlivé rozhořčení</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_018.xhtml#toc_marker-1-11-3"/>
+        </navPoint>
+        <navPoint id="navPoint-92" playOrder="92">
+          <navLabel>
+            <text>(4) Chlapec se diví starci</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_018.xhtml#toc_marker-1-11-4"/>
+        </navPoint>
+        <navPoint id="navPoint-93" playOrder="93">
+          <navLabel>
+            <text>(5) Dědula</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_018.xhtml#toc_marker-1-11-5"/>
+        </navPoint>
+        <navPoint id="navPoint-94" playOrder="94">
+          <navLabel>
+            <text>(6) Nováčkové</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_018.xhtml#toc_marker-1-11-6"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>KNIHA DVANÁCTÁ Korint</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_019.xhtml#toc_marker-1-12"/>
+        <navPoint id="navPoint-96" playOrder="96">
+          <navLabel>
+            <text>(1) Dějiny Korintu od jeho založení</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_019.xhtml#toc_marker-1-12-1"/>
+        </navPoint>
+        <navPoint id="navPoint-97" playOrder="97">
+          <navLabel>
+            <text>(2) Staré veselé kousky</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_019.xhtml#toc_marker-1-12-2"/>
+        </navPoint>
+        <navPoint id="navPoint-98" playOrder="98">
+          <navLabel>
+            <text>(3) Nad Grantairem se sklání noc</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_019.xhtml#toc_marker-1-12-3"/>
+        </navPoint>
+        <navPoint id="navPoint-99" playOrder="99">
+          <navLabel>
+            <text>(4) Pokus o uklidnění matky Hucheloupové</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_019.xhtml#toc_marker-1-12-4"/>
+        </navPoint>
+        <navPoint id="navPoint-100" playOrder="100">
+          <navLabel>
+            <text>(5) Přípravy</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_019.xhtml#toc_marker-1-12-5"/>
+        </navPoint>
+        <navPoint id="navPoint-101" playOrder="101">
+          <navLabel>
+            <text>(6) V očekávání</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_019.xhtml#toc_marker-1-12-6"/>
+        </navPoint>
+        <navPoint id="navPoint-102" playOrder="102">
+          <navLabel>
+            <text>(7) Muž, který se přidal k povstalcům v ulici Billettes</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_019.xhtml#toc_marker-1-12-7"/>
+        </navPoint>
+        <navPoint id="navPoint-103" playOrder="103">
+          <navLabel>
+            <text>(8) Několik otazníků týkajících se jakéhosi Le Cabuka, který se snad ani Le Cabuc nejmenoval</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_019.xhtml#toc_marker-1-12-8"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>KNIHA TŘINÁCTÁ Marius vstupuje do stínu</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_020.xhtml#toc_marker-1-13"/>
+        <navPoint id="navPoint-105" playOrder="105">
+          <navLabel>
+            <text>(1) Z ulice Plumet do čtvrti Saint-Denis</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_020.xhtml#toc_marker-1-13-1"/>
+        </navPoint>
+        <navPoint id="navPoint-106" playOrder="106">
+          <navLabel>
+            <text>(2) Paříž ze soví perspektivy</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_020.xhtml#toc_marker-1-13-2"/>
+        </navPoint>
+        <navPoint id="navPoint-107" playOrder="107">
+          <navLabel>
+            <text>(3) Na samém kraji</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_020.xhtml#toc_marker-1-13-3"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>KNIHA ČTRNÁCTÁ Vznešenost zoufalství</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_021.xhtml#toc_marker-1-14"/>
+        <navPoint id="navPoint-109" playOrder="109">
+          <navLabel>
+            <text>(1 )Prapor – První jednání</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_021.xhtml#toc_marker-1-14-1"/>
+        </navPoint>
+        <navPoint id="navPoint-110" playOrder="110">
+          <navLabel>
+            <text>(2) Prapor – Druhé jednání</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_021.xhtml#toc_marker-1-14-2"/>
+        </navPoint>
+        <navPoint id="navPoint-111" playOrder="111">
+          <navLabel>
+            <text>(3) Gavroche by byl lépe učinil, kdyby byl přijal Enjolrasovu karabinu</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_021.xhtml#toc_marker-1-14-3"/>
+        </navPoint>
+        <navPoint id="navPoint-112" playOrder="112">
+          <navLabel>
+            <text>(4) Soudek prachu</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_021.xhtml#toc_marker-1-14-4"/>
+        </navPoint>
+        <navPoint id="navPoint-113" playOrder="113">
+          <navLabel>
+            <text>(5) Konec veršů Jeana Prouvaira</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_021.xhtml#toc_marker-1-14-5"/>
+        </navPoint>
+        <navPoint id="navPoint-114" playOrder="114">
+          <navLabel>
+            <text>(6) Agónie smrti po agónii života</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_021.xhtml#toc_marker-1-14-6"/>
+        </navPoint>
+        <navPoint id="navPoint-115" playOrder="115">
+          <navLabel>
+            <text>(7) Gavroche, výtečný odhadce vzdáleností</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_021.xhtml#toc_marker-1-14-7"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>KNIHA PATNÁCTÁ Ulice Homme-Armé</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_022.xhtml#toc_marker-1-15"/>
+        <navPoint id="navPoint-117" playOrder="117">
+          <navLabel>
+            <text>(1 )Pijavý papír všechno vyzvonil</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_022.xhtml#toc_marker-1-15-1"/>
+        </navPoint>
+        <navPoint id="navPoint-118" playOrder="118">
+          <navLabel>
+            <text>(2) Gamén, nepřítel světel</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_022.xhtml#toc_marker-1-15-2"/>
+        </navPoint>
+        <navPoint id="navPoint-119" playOrder="119">
+          <navLabel>
+            <text>(3) Zatímco Cosetta a Toussaintka spí</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_022.xhtml#toc_marker-1-15-3"/>
+        </navPoint>
+        <navPoint id="navPoint-120" playOrder="120">
+          <navLabel>
+            <text>(4 )Gavrochova přílišná horlivost</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_022.xhtml#toc_marker-1-15-4"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-121" playOrder="121">
+      <navLabel>
+        <text>ČÁST PÁTÁ Jean Valjean</text>
+      </navLabel>
+      <content src="Text/bidnici_ii_023.xhtml#toc_marker-2"/>
+      <navPoint id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>KNIHA PRVNÍ Válka mezi čtyřmi stěnami</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1"/>
+        <navPoint id="navPoint-123" playOrder="123">
+          <navLabel>
+            <text>(1 )Charybda předměstí Saint-Antoine a Scylla předměstí Temple</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-1"/>
+        </navPoint>
+        <navPoint id="navPoint-124" playOrder="124">
+          <navLabel>
+            <text>(2) Co si počít v propasti, ne-li rozprávět</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-2"/>
+        </navPoint>
+        <navPoint id="navPoint-125" playOrder="125">
+          <navLabel>
+            <text>(3) Vyjasnění a zatemnění</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-3"/>
+        </navPoint>
+        <navPoint id="navPoint-126" playOrder="126">
+          <navLabel>
+            <text>(4) O pět méně, o jednoho více</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-4"/>
+        </navPoint>
+        <navPoint id="navPoint-127" playOrder="127">
+          <navLabel>
+            <text>(5) Jaké obzory se otvírají z výšin barikády</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-5"/>
+        </navPoint>
+        <navPoint id="navPoint-128" playOrder="128">
+          <navLabel>
+            <text>(6 )Duchem nepřítomný Marius, stručný Javert</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-6"/>
+        </navPoint>
+        <navPoint id="navPoint-129" playOrder="129">
+          <navLabel>
+            <text>(7) Postavení se horší</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-7"/>
+        </navPoint>
+        <navPoint id="navPoint-130" playOrder="130">
+          <navLabel>
+            <text>(8) Dělostřelci se vážně zakousli</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-8"/>
+        </navPoint>
+        <navPoint id="navPoint-131" playOrder="131">
+          <navLabel>
+            <text>(9) Jak bylo použito starého pytláckého nadání a neselhávající rány, která roku 1796 přitížila odsouzenci</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-9"/>
+        </navPoint>
+        <navPoint id="navPoint-132" playOrder="132">
+          <navLabel>
+            <text>(10) Svítání</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-10"/>
+        </navPoint>
+        <navPoint id="navPoint-133" playOrder="133">
+          <navLabel>
+            <text>(11) Rána z pušky, která všechno zasáhne,ale nikdy nezabíjí</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-11"/>
+        </navPoint>
+        <navPoint id="navPoint-134" playOrder="134">
+          <navLabel>
+            <text>(12) Nepořádek, stoupenec pořádku</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-12"/>
+        </navPoint>
+        <navPoint id="navPoint-135" playOrder="135">
+          <navLabel>
+            <text>(13) Pomíjející záblesky</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-13"/>
+        </navPoint>
+        <navPoint id="navPoint-136" playOrder="136">
+          <navLabel>
+            <text>(14) Kde se dočteme jméno Enjolrasovy milenky</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-14"/>
+        </navPoint>
+        <navPoint id="navPoint-137" playOrder="137">
+          <navLabel>
+            <text>(15) Gavroche venku</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-15"/>
+        </navPoint>
+        <navPoint id="navPoint-138" playOrder="138">
+          <navLabel>
+            <text>(16) Jak se z bratra stává otec</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-16"/>
+        </navPoint>
+        <navPoint id="navPoint-139" playOrder="139">
+          <navLabel>
+            <text>(17) „Mortuus pater filium moriturum expectat“</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-17"/>
+        </navPoint>
+        <navPoint id="navPoint-140" playOrder="140">
+          <navLabel>
+            <text>(18) Sup, který se stal kořistí</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-18"/>
+        </navPoint>
+        <navPoint id="navPoint-141" playOrder="141">
+          <navLabel>
+            <text>(19) Jean Valjean se mstí</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-19"/>
+        </navPoint>
+        <navPoint id="navPoint-142" playOrder="142">
+          <navLabel>
+            <text>(20) Mrtví mají pravdu a živí nemají nepravdu</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-20"/>
+        </navPoint>
+        <navPoint id="navPoint-143" playOrder="143">
+          <navLabel>
+            <text>(21) Hrdinové</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-21"/>
+        </navPoint>
+        <navPoint id="navPoint-144" playOrder="144">
+          <navLabel>
+            <text>(22) Krok za krokem</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-22"/>
+        </navPoint>
+        <navPoint id="navPoint-145" playOrder="145">
+          <navLabel>
+            <text>(23) Hladový Orestes a opilý Pylades</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-23"/>
+        </navPoint>
+        <navPoint id="navPoint-146" playOrder="146">
+          <navLabel>
+            <text>(24) Zajatec</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_024.xhtml#toc_marker-2-1-24"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-147" playOrder="147">
+        <navLabel>
+          <text>KNIHA DRUHÁ Vnitřnosti obra</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_025.xhtml#toc_marker-2-2"/>
+        <navPoint id="navPoint-148" playOrder="148">
+          <navLabel>
+            <text>(1) Mořem ochuzená země</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_025.xhtml#toc_marker-2-2-1"/>
+        </navPoint>
+        <navPoint id="navPoint-149" playOrder="149">
+          <navLabel>
+            <text>(2) Dějiny staré stoky</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_025.xhtml#toc_marker-2-2-2"/>
+        </navPoint>
+        <navPoint id="navPoint-150" playOrder="150">
+          <navLabel>
+            <text>(3) Bruneseau</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_025.xhtml#toc_marker-2-2-3"/>
+        </navPoint>
+        <navPoint id="navPoint-151" playOrder="151">
+          <navLabel>
+            <text>(4) Neznámé podrobnosti</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_025.xhtml#toc_marker-2-2-4"/>
+        </navPoint>
+        <navPoint id="navPoint-152" playOrder="152">
+          <navLabel>
+            <text>(5) Nynější pokrok</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_025.xhtml#toc_marker-2-2-5"/>
+        </navPoint>
+        <navPoint id="navPoint-153" playOrder="153">
+          <navLabel>
+            <text>(6) Budoucí pokrok</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_025.xhtml#toc_marker-2-2-6"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>KNIHA TŘETÍ Bláto, ale duše</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_026.xhtml#toc_marker-2-3"/>
+        <navPoint id="navPoint-155" playOrder="155">
+          <navLabel>
+            <text>(1) Stoka a její překvapení</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_026.xhtml#toc_marker-2-3-1"/>
+        </navPoint>
+        <navPoint id="navPoint-156" playOrder="156">
+          <navLabel>
+            <text>(2) Vysvětlení</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_026.xhtml#toc_marker-2-3-2"/>
+        </navPoint>
+        <navPoint id="navPoint-157" playOrder="157">
+          <navLabel>
+            <text>(3) Stopovaný muž</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_026.xhtml#toc_marker-2-3-3"/>
+        </navPoint>
+        <navPoint id="navPoint-158" playOrder="158">
+          <navLabel>
+            <text>(4) Také on nese kříž</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_026.xhtml#toc_marker-2-3-4"/>
+        </navPoint>
+        <navPoint id="navPoint-159" playOrder="159">
+          <navLabel>
+            <text>(5) Jemnost písku a jemnost ženy bývá někdy zrádná</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_026.xhtml#toc_marker-2-3-5"/>
+        </navPoint>
+        <navPoint id="navPoint-160" playOrder="160">
+          <navLabel>
+            <text>(6) Fontis</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_026.xhtml#toc_marker-2-3-6"/>
+        </navPoint>
+        <navPoint id="navPoint-161" playOrder="161">
+          <navLabel>
+            <text>(7) Někdy člověk ztroskotá právě tam, kde chtěl přistát</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_026.xhtml#toc_marker-2-3-7"/>
+        </navPoint>
+        <navPoint id="navPoint-162" playOrder="162">
+          <navLabel>
+            <text>(8) Utržený kus kabátu</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_026.xhtml#toc_marker-2-3-8"/>
+        </navPoint>
+        <navPoint id="navPoint-163" playOrder="163">
+          <navLabel>
+            <text>(9)Marius je pokládán za mrtvého někým, kdo se v tom vyzná</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_026.xhtml#toc_marker-2-3-9"/>
+        </navPoint>
+        <navPoint id="navPoint-164" playOrder="164">
+          <navLabel>
+            <text>(10) Návrat ztraceného syna, který promarnil svůj život</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_026.xhtml#toc_marker-2-3-10"/>
+        </navPoint>
+        <navPoint id="navPoint-165" playOrder="165">
+          <navLabel>
+            <text>(11) Zviklání svrchované moci</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_026.xhtml#toc_marker-2-3-11"/>
+        </navPoint>
+        <navPoint id="navPoint-166" playOrder="166">
+          <navLabel>
+            <text>(12) Děd</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_026.xhtml#toc_marker-2-3-12"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-167" playOrder="167">
+        <navLabel>
+          <text>KNIHA ČTVRTÁ Javert vyšinutý z kolejí</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_027.xhtml#toc_marker-2-4"/>
+        <navPoint id="navPoint-168" playOrder="168">
+          <navLabel>
+            <text>(1) Javert vyšinutý z kolejí</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_027.xhtml#toc_marker-2-4-1"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-169" playOrder="169">
+        <navLabel>
+          <text>KNIHA PÁTÁ Vnuk a děd</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_028.xhtml#toc_marker-2-5"/>
+        <navPoint id="navPoint-170" playOrder="170">
+          <navLabel>
+            <text>(1) Opět uvidíme strom se zinkovou náplastí</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_028.xhtml#toc_marker-2-5-1"/>
+        </navPoint>
+        <navPoint id="navPoint-171" playOrder="171">
+          <navLabel>
+            <text>(2) Marius se vrátil z občanské válkya připravuje se na válku domácí</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_028.xhtml#toc_marker-2-5-2"/>
+        </navPoint>
+        <navPoint id="navPoint-172" playOrder="172">
+          <navLabel>
+            <text>(3) Marius útočí</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_028.xhtml#toc_marker-2-5-3"/>
+        </navPoint>
+        <navPoint id="navPoint-173" playOrder="173">
+          <navLabel>
+            <text>(4) Slečně Gillenormandové se nakonec nezdá špatné, že pan Fauchelevent přišel s čímsi pod paží</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_028.xhtml#toc_marker-2-5-4"/>
+        </navPoint>
+        <navPoint id="navPoint-174" playOrder="174">
+          <navLabel>
+            <text>(5 )Uložte své peníze raději v lese než u notáře</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_028.xhtml#toc_marker-2-5-5"/>
+        </navPoint>
+        <navPoint id="navPoint-175" playOrder="175">
+          <navLabel>
+            <text>(6) Dva starci dělají každý svým způsobem všechno, jen aby Cosetta byla šťastná</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_028.xhtml#toc_marker-2-5-6"/>
+        </navPoint>
+        <navPoint id="navPoint-176" playOrder="176">
+          <navLabel>
+            <text>(7) Do štěstí se mísí důsledky snu</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_028.xhtml#toc_marker-2-5-7"/>
+        </navPoint>
+        <navPoint id="navPoint-177" playOrder="177">
+          <navLabel>
+            <text>(8) Dva muži, kteří nejsou k nalezení</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_028.xhtml#toc_marker-2-5-8"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-178" playOrder="178">
+        <navLabel>
+          <text>KNIHA ŠESTÁ Probdělá noc</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_029.xhtml#toc_marker-2-6"/>
+        <navPoint id="navPoint-179" playOrder="179">
+          <navLabel>
+            <text>(1) Dne 16. února 1833</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_029.xhtml#toc_marker-2-6-1"/>
+        </navPoint>
+        <navPoint id="navPoint-180" playOrder="180">
+          <navLabel>
+            <text>(2) Jean Valjean má stále ruku na pásce</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_029.xhtml#toc_marker-2-6-2"/>
+        </navPoint>
+        <navPoint id="navPoint-181" playOrder="181">
+          <navLabel>
+            <text>(3) Nerozlučný</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_029.xhtml#toc_marker-2-6-3"/>
+        </navPoint>
+        <navPoint id="navPoint-182" playOrder="182">
+          <navLabel>
+            <text>(4) Immortale jecur</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_029.xhtml#toc_marker-2-6-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-183" playOrder="183">
+        <navLabel>
+          <text>KNIHA SEDMÁ Poslední doušek z kalicha</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_030.xhtml#toc_marker-2-7"/>
+        <navPoint id="navPoint-184" playOrder="184">
+          <navLabel>
+            <text>(1) Sedmý kruh a osmé nebe</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_030.xhtml#toc_marker-2-7-1"/>
+        </navPoint>
+        <navPoint id="navPoint-185" playOrder="185">
+          <navLabel>
+            <text>(2) Nejasnosti, které mohou být v odhalení</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_030.xhtml#toc_marker-2-7-2"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-186" playOrder="186">
+        <navLabel>
+          <text>KNIHA OSMÁ Navečerní stmívání</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_031.xhtml#toc_marker-2-8"/>
+        <navPoint id="navPoint-187" playOrder="187">
+          <navLabel>
+            <text>(1) Pokoj v přízemí</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_031.xhtml#toc_marker-2-8-1"/>
+        </navPoint>
+        <navPoint id="navPoint-188" playOrder="188">
+          <navLabel>
+            <text>(2) Další kroky zpátky</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_031.xhtml#toc_marker-2-8-2"/>
+        </navPoint>
+        <navPoint id="navPoint-189" playOrder="189">
+          <navLabel>
+            <text>(3) Vzpomínají na zahradu v ulici Plumet</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_031.xhtml#toc_marker-2-8-3"/>
+        </navPoint>
+        <navPoint id="navPoint-190" playOrder="190">
+          <navLabel>
+            <text>(4) Přitažlivost a dohasínání</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_031.xhtml#toc_marker-2-8-4"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-191" playOrder="191">
+        <navLabel>
+          <text>KNIHA DEVÁTÁ Nejhlubší beznaděj a nejzářivější svítání</text>
+        </navLabel>
+        <content src="Text/bidnici_ii_032.xhtml#toc_marker-2-9"/>
+        <navPoint id="navPoint-192" playOrder="192">
+          <navLabel>
+            <text>(1) Mějte slitování s nešťastnými,ale buďte shovívaví k těm, kdo jsou šťastni</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_032.xhtml#toc_marker-2-9-1"/>
+        </navPoint>
+        <navPoint id="navPoint-193" playOrder="193">
+          <navLabel>
+            <text>(2) Poslední zablikání lampy bez oleje</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_032.xhtml#toc_marker-2-9-2"/>
+        </navPoint>
+        <navPoint id="navPoint-194" playOrder="194">
+          <navLabel>
+            <text>(3) Ten, kdo zdvihl Faucheleventovu káru, neunese už ani pero</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_032.xhtml#toc_marker-2-9-3"/>
+        </navPoint>
+        <navPoint id="navPoint-195" playOrder="195">
+          <navLabel>
+            <text>(4) Láhev černidla, kterému se podaří leda očistit</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_032.xhtml#toc_marker-2-9-4"/>
+        </navPoint>
+        <navPoint id="navPoint-196" playOrder="196">
+          <navLabel>
+            <text>(5) Noc, po níž přichází den</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_032.xhtml#toc_marker-2-9-5"/>
+        </navPoint>
+        <navPoint id="navPoint-197" playOrder="197">
+          <navLabel>
+            <text>(6) Tráva kryje a déšť smývá</text>
+          </navLabel>
+          <content src="Text/bidnici_ii_032.xhtml#toc_marker-2-9-6"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

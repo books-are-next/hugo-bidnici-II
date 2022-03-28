@@ -3,8 +3,8 @@ title: KNIHA DEVÁTÁKam jdou?
 contentType: prose
 ---
 
-(1)  
-Jean Valjean
+## _(1)  
+Jean Valjean_
 
   
 
@@ -18,7 +18,9 @@ To všechno mu působilo starosti.
 
 A pak ho vyvedl z míry a dokonale poplašil nevysvětlitelný objev. Ráno téhož dne byl vzhůru velmi časně a procházel se v zahradě už předtím, než se otevřely Cosettiny okenice, když vtom spatřil na zdi tuto řádku, vyrytou pravděpodobně hřebíkem:
 
-_Ulice Verrerie číslo 16._
+  
+
+__Ulice Verrerie číslo 16.__
 
 Nápis byl čerstvý, zářezy v začernalé omítce byly bílé, trs kopřiv u paty zdi byl posypán jemným, bílým vápnem. Bylo to asi napsáno v noci. Co je to? Adresa? Znamení pro druhé? Výstraha jemu? Ať tomu bylo tak či onak, bylo zřejmé, že si někdo zjednal přístup do zahrady a že do ní vnikl. Vzpomněl si na zvláštní příhody, které pobouřily dům. V duchu si dokreslil další. Střežil se o nápisu na zdi promluvit s Cosettou; bál se, aby ji nepolekal.
 

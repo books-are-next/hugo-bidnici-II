@@ -3,8 +3,8 @@ title: KNIHA ČTVRTÁPomoc zdola může být pomocí shora
 contentType: prose
 ---
 
-(1)  
-Rána ještě krvácí, ale zevnitř se hojí
+## _(1)  
+Rána ještě krvácí, ale zevnitř se hojí_
 
   
 

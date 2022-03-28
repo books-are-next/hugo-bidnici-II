@@ -3,8 +3,8 @@ title: "KNIHA PÁTÁVnuk a\_děd"
 contentType: prose
 ---
 
-(1)  
-Opět uvidíme strom se zinkovou náplastí
+## _(1)  
+Opět uvidíme strom se zinkovou náplastí_
 
   
 

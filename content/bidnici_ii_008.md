@@ -3,8 +3,8 @@ title: KNIHA PRVNÍNěkolik stránek dějin
 contentType: prose
 ---
 
-(1)  
-Dobře střiženo
+## _(1)  
+Dobře střiženo_
 
   
 
@@ -487,9 +487,9 @@ P
 
 _Naučte se nazpaměť tomuto seznamu. Potom jej roztrhejte. Přijaté osoby to učiní právě tak, až jim odevzdáte rozkazy._
 
-Pozdrav a bratrství.
+_Pozdrav a bratrství._
 
-L.
+_L._
 
 _u og a1 fe_
 

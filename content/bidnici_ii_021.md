@@ -3,8 +3,8 @@ title: KNIHA ČTRNÁCTÁVznešenost zoufalství
 contentType: prose
 ---
 
-(1)  
-Prapor – První jednání
+## _(1)  
+Prapor – První jednání_
 
   
 
@@ -464,17 +464,17 @@ Rozechvěn vzal psaní, které mu Eponina donesla. Tušil, že to není obyčejn
 
 Přistoupil ke svíčce v přízemní síni. Bylo to malé psaní, přeložené a zalepené s ženskou pořádkumilovností. Adresa napsaná ženským písmem zněla:
 
-Panu Mariovi Pontmercymu
+_Panu Mariovi Pontmercymu_
 
-u pana Courfeyraca v ulici Verrerie, číslo 16.
+_u pana Courfeyraca v ulici Verrerie, číslo 16._
 
 Strhl pečeť a četl:
 
-Můj drahý,
+_Můj drahý,_
 
-otec bohužel chce, abychom odešli ihned. Dnes večer budeme v ulici Homme-Armé číslo 7. Za týden jsme v Anglii.
+_otec bohužel chce, abychom odešli ihned. Dnes večer budeme v ulici Homme-Armé číslo 7. Za týden jsme v Anglii._
 
-4. června
+_4. června_
 
 COSETTA
 
@@ -488,13 +488,13 @@ Tu si Marius vzpomněl, že mu zbývají dvě povinnosti: musí Cosettě oznámi
 
 Měl u sebe náprsní tašku a v ní sešitek, do něhož pro Cosettu zapisoval své myšlenky o lásce. Vytrhl list a tužkou napsal tyto řádky:
 
-Náš sňatek je nemožný. Ptal jsem se dědečka, odmítl mne; jsem chudý a ty také. Běžel jsem k tobě, ale nenašel jsem tě. Víš, co jsem ti slíbil, a slib splním. Umírám. Miluju tě. Až toto budeš číst, bude moje duše u tebe a bude se na tebe sladce usmívat.
+_Náš sňatek je nemožný. Ptal jsem se dědečka, odmítl mne; jsem chudý a ty také. Běžel jsem k tobě, ale nenašel jsem tě. Víš, co jsem ti slíbil, a slib splním. Umírám. Miluju tě. Až toto budeš číst, bude moje duše u tebe a bude se na tebe sladce usmívat._
 
 Protože neměl nic, čím by list zapečetil, přeložil jej čtyřikrát a napsal adresu:
 
-Slečně Cosettě Faucheleventové
+_Slečně Cosettě Faucheleventové_
 
-u pana Faucheleventa, ulice Homme-Anné, čís. 7.
+_u pana Faucheleventa, ulice Homme-Anné, čís. 7._
 
 Když dopis složil, na chvíli se zamyslil, poté vzal z náprsní tašky sešitek, otevřel jej a touž tužkou napsal na první stránku tyto řádky:
 

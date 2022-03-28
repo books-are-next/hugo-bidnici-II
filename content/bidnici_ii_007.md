@@ -1,11 +1,6 @@
 ---
-title: ''
+title: ČÁST ČTVRTÁIdyla ulice Plumet aEpopej uliceSaint-Denis
 contentType: prose
 ---
 
-ČÁST ČTVRTÁ  
-  
-Idyla ulice Plumet  
-a  
-Epopej ulice  
-Saint-Denis
+

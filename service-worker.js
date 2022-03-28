@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-1e7d2d3';
+const CACHE = 'cache-963a54e';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());

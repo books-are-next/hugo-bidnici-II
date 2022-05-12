@@ -52,7 +52,7 @@
             "filename": "bidnici_ii_002.md",
             "xhtml": "bidnici_ii_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -572,7 +572,7 @@
         "xhtml": "bidnici_ii_016.xhtml"
       },
       {
-        "titleSuggest": "KNIHA DESÁTÁ5. června 1832",
+        "titleSuggest": "KNIHA DESÁTÁ5\\. června 1832",
         "subtitleSuggest": "",
         "filename": "bidnici_ii_017.md",
         "xhtml": "bidnici_ii_017.xhtml"
@@ -774,6 +774,6 @@
       "user": "books-are-next",
       "repo": "hugo-bidnici-II"
     },
-    "generatedAt": 1648458493993
+    "generatedAt": 1652351540869
   }
 }

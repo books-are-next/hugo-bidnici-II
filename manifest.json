@@ -1,22 +1,55 @@
 {
-  "author": "Victor Hugo",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "hugo-bidnici-ii-963a54e",
-  "languagecode": "cs",
-  "modified": "2019-08-29T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Bídníci II",
-  "revision": "963a54e",
+  "author": "Victor Hugo",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hugo-bidnici-ii-f57182d",
+  "revision": "f57182d",
+  "readingOrder": [
+    "promo.html",
+    "bidnici_ii_005.html",
+    "bidnici_ii_006.html",
+    "bidnici_ii_007.html",
+    "bidnici_ii_008.html",
+    "bidnici_ii_009.html",
+    "bidnici_ii_010.html",
+    "bidnici_ii_011.html",
+    "bidnici_ii_012.html",
+    "bidnici_ii_013.html",
+    "bidnici_ii_014.html",
+    "bidnici_ii_015.html",
+    "bidnici_ii_016.html",
+    "bidnici_ii_017.html",
+    "bidnici_ii_018.html",
+    "bidnici_ii_019.html",
+    "bidnici_ii_020.html",
+    "bidnici_ii_021.html",
+    "bidnici_ii_022.html",
+    "bidnici_ii_023.html",
+    "bidnici_ii_024.html",
+    "bidnici_ii_025.html",
+    "bidnici_ii_026.html",
+    "bidnici_ii_027.html",
+    "bidnici_ii_028.html",
+    "bidnici_ii_029.html",
+    "bidnici_ii_030.html",
+    "bidnici_ii_031.html",
+    "bidnici_ii_032.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Mon Mar 28 2022 09:09:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648458579900
+    "date": "Thu May 12 2022 10:41:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352090136
   },
   "documents": [
     {
-      "title": "Bídníci II",
-      "file": "bidnici_ii_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,25 +57,17 @@
       "order": 0,
       "prev": null,
       "next": "bidnici_ii_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "KNIHA SEDMÁPatron–Minette • Bídníci II",
+      "title": "KNIHA SEDMÁPatron–Minette",
       "file": "bidnici_ii_005.html",
       "words": 2668,
       "chars": 17175,
       "ideas": 78,
       "role": "chapter",
       "order": 1,
-      "prev": "bidnici_ii_002.html",
+      "prev": "promo.html",
       "next": "bidnici_ii_006.html",
       "toc": [
         {
@@ -84,7 +109,7 @@
       ]
     },
     {
-      "title": "KNIHA OSMÁZlý chuďas • Bídníci II",
+      "title": "KNIHA OSMÁZlý chuďas",
       "file": "bidnici_ii_006.html",
       "words": 24654,
       "chars": 151246,
@@ -259,7 +284,7 @@
       ]
     },
     {
-      "title": "ČÁST ČTVRTÁIdyla ulice Plumet aEpopej uliceSaint-Denis • Bídníci II",
+      "title": "ČÁST ČTVRTÁIdyla ulice Plumet aEpopej uliceSaint-Denis",
       "file": "bidnici_ii_007.html",
       "words": 6,
       "chars": 54,
@@ -279,7 +304,7 @@
       ]
     },
     {
-      "title": "KNIHA PRVNÍNěkolik stránek dějin • Bídníci II",
+      "title": "KNIHA PRVNÍNěkolik stránek dějin",
       "file": "bidnici_ii_008.html",
       "words": 10826,
       "chars": 69994,
@@ -342,7 +367,7 @@
       ]
     },
     {
-      "title": "KNIHA DRUHÁEponina • Bídníci II",
+      "title": "KNIHA DRUHÁEponina",
       "file": "bidnici_ii_009.html",
       "words": 5274,
       "chars": 32316,
@@ -391,7 +416,7 @@
       ]
     },
     {
-      "title": "KNIHA TŘETÍDům v ulici Plumet • Bídníci II",
+      "title": "KNIHA TŘETÍDům v ulici Plumet",
       "file": "bidnici_ii_010.html",
       "words": 11259,
       "chars": 69540,
@@ -468,7 +493,7 @@
       ]
     },
     {
-      "title": "KNIHA ČTVRTÁPomoc zdola může být pomocí shora • Bídníci II",
+      "title": "KNIHA ČTVRTÁPomoc zdola může být pomocí shora",
       "file": "bidnici_ii_011.html",
       "words": 2913,
       "chars": 17835,
@@ -503,7 +528,7 @@
       ]
     },
     {
-      "title": "KNIHA PÁTÁKonec se nepodobá začátku • Bídníci II",
+      "title": "KNIHA PÁTÁKonec se nepodobá začátku",
       "file": "bidnici_ii_012.html",
       "words": 4840,
       "chars": 28957,
@@ -566,7 +591,7 @@
       ]
     },
     {
-      "title": "KNIHA ŠESTÁMalý Gavroche • Bídníci II",
+      "title": "KNIHA ŠESTÁMalý Gavroche",
       "file": "bidnici_ii_013.html",
       "words": 10487,
       "chars": 65446,
@@ -608,7 +633,7 @@
       ]
     },
     {
-      "title": "KNIHA SEDMÁHantýrka • Bídníci II",
+      "title": "KNIHA SEDMÁHantýrka",
       "file": "bidnici_ii_014.html",
       "words": 7388,
       "chars": 47077,
@@ -657,7 +682,7 @@
       ]
     },
     {
-      "title": "KNIHA OSMÁOkouzlení a zármutek • Bídníci II",
+      "title": "KNIHA OSMÁOkouzlení a zármutek",
       "file": "bidnici_ii_015.html",
       "words": 10187,
       "chars": 61521,
@@ -727,7 +752,7 @@
       ]
     },
     {
-      "title": "KNIHA DEVÁTÁKam jdou? • Bídníci II",
+      "title": "KNIHA DEVÁTÁKam jdou?",
       "file": "bidnici_ii_016.html",
       "words": 2201,
       "chars": 13479,
@@ -769,7 +794,7 @@
       ]
     },
     {
-      "title": "KNIHA DESÁTÁ5. června 1832 • Bídníci II",
+      "title": "KNIHA DESÁTÁ5. června 1832",
       "file": "bidnici_ii_017.html",
       "words": 6761,
       "chars": 43855,
@@ -825,7 +850,7 @@
       ]
     },
     {
-      "title": "KNIHA JEDENÁCTÁAtom se bratří s uragánem • Bídníci II",
+      "title": "KNIHA JEDENÁCTÁAtom se bratří s uragánem",
       "file": "bidnici_ii_018.html",
       "words": 3150,
       "chars": 19159,
@@ -888,7 +913,7 @@
       ]
     },
     {
-      "title": "KNIHA DVANÁCTÁKorint • Bídníci II",
+      "title": "KNIHA DVANÁCTÁKorint",
       "file": "bidnici_ii_019.html",
       "words": 9251,
       "chars": 58020,
@@ -965,7 +990,7 @@
       ]
     },
     {
-      "title": "KNIHA TŘINÁCTÁMarius vstupuje do stínu • Bídníci II",
+      "title": "KNIHA TŘINÁCTÁMarius vstupuje do stínu",
       "file": "bidnici_ii_020.html",
       "words": 3365,
       "chars": 20951,
@@ -1007,7 +1032,7 @@
       ]
     },
     {
-      "title": "KNIHA ČTRNÁCTÁVznešenost zoufalství • Bídníci II",
+      "title": "KNIHA ČTRNÁCTÁVznešenost zoufalství",
       "file": "bidnici_ii_021.html",
       "words": 4847,
       "chars": 30065,
@@ -1077,7 +1102,7 @@
       ]
     },
     {
-      "title": "KNIHA PATNÁCTÁUlice Homme-Armé • Bídníci II",
+      "title": "KNIHA PATNÁCTÁUlice Homme-Armé",
       "file": "bidnici_ii_022.html",
       "words": 5056,
       "chars": 31095,
@@ -1126,7 +1151,7 @@
       ]
     },
     {
-      "title": "ČÁST PÁTÁJean Valjean • Bídníci II",
+      "title": "ČÁST PÁTÁJean Valjean",
       "file": "bidnici_ii_023.html",
       "words": 3,
       "chars": 21,
@@ -1146,7 +1171,7 @@
       ]
     },
     {
-      "title": "KNIHA PRVNÍVálka mezi čtyřmi stěnami • Bídníci II",
+      "title": "KNIHA PRVNÍVálka mezi čtyřmi stěnami",
       "file": "bidnici_ii_024.html",
       "words": 24725,
       "chars": 156265,
@@ -1335,7 +1360,7 @@
       ]
     },
     {
-      "title": "KNIHA DRUHÁVnitřnosti obra • Bídníci II",
+      "title": "KNIHA DRUHÁVnitřnosti obra",
       "file": "bidnici_ii_025.html",
       "words": 5833,
       "chars": 37453,
@@ -1398,7 +1423,7 @@
       ]
     },
     {
-      "title": "KNIHA TŘETÍBláto, ale duše • Bídníci II",
+      "title": "KNIHA TŘETÍBláto, ale duše",
       "file": "bidnici_ii_026.html",
       "words": 12407,
       "chars": 75246,
@@ -1503,7 +1528,7 @@
       ]
     },
     {
-      "title": "KNIHA ČTVRTÁJavert vyšinutý z kolejí • Bídníci II",
+      "title": "KNIHA ČTVRTÁJavert vyšinutý z kolejí",
       "file": "bidnici_ii_027.html",
       "words": 3658,
       "chars": 22773,
@@ -1531,7 +1556,7 @@
       ]
     },
     {
-      "title": "KNIHA PÁTÁVnuk a děd • Bídníci II",
+      "title": "KNIHA PÁTÁVnuk a děd",
       "file": "bidnici_ii_028.html",
       "words": 9187,
       "chars": 56718,
@@ -1608,7 +1633,7 @@
       ]
     },
     {
-      "title": "KNIHA ŠESTÁProbdělá noc • Bídníci II",
+      "title": "KNIHA ŠESTÁProbdělá noc",
       "file": "bidnici_ii_029.html",
       "words": 7250,
       "chars": 44760,
@@ -1657,7 +1682,7 @@
       ]
     },
     {
-      "title": "KNIHA SEDMÁPoslední doušek z kalicha • Bídníci II",
+      "title": "KNIHA SEDMÁPoslední doušek z kalicha",
       "file": "bidnici_ii_030.html",
       "words": 7769,
       "chars": 46470,
@@ -1692,7 +1717,7 @@
       ]
     },
     {
-      "title": "KNIHA OSMÁNavečerní stmívání • Bídníci II",
+      "title": "KNIHA OSMÁNavečerní stmívání",
       "file": "bidnici_ii_031.html",
       "words": 3713,
       "chars": 22743,
@@ -1741,7 +1766,7 @@
       ]
     },
     {
-      "title": "KNIHA DEVÁTÁNejhlubší beznaděj a nejzářivější svítání • Bídníci II",
+      "title": "KNIHA DEVÁTÁNejhlubší beznaděj a nejzářivější svítání",
       "file": "bidnici_ii_032.html",
       "words": 10349,
       "chars": 62049,
@@ -1804,11 +1829,11 @@
       ]
     },
     {
-      "title": "Tiráž • Bídníci II",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 149,
-      "chars": 977,
-      "ideas": 23,
+      "words": 128,
+      "chars": 818,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "bidnici_ii_032.html",
@@ -1826,9 +1851,9 @@
   ],
   "totals": {
     "all": {
-      "words": 210182,
-      "chars": 1303292,
-      "ideas": 7902
+      "words": 210161,
+      "chars": 1303133,
+      "ideas": 7896
     },
     "chapters": {
       "words": 210027,

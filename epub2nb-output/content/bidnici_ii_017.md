@@ -1,5 +1,5 @@
 ---
-title: "KNIHA DESÁTÁ5.\_června 1832"
+title: "KNIHA DESÁTÁ5\\.\_června 1832"
 contentType: prose
 ---
 

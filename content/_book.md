@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - bidnici_ii_002.html
+  - promo.html
   - bidnici_ii_005.html
   - bidnici_ii_006.html
   - bidnici_ii_007.html

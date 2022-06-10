@@ -3,6 +3,8 @@ title: KNIHA PRVNÍVálka mezi čtyřmi stěnami
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Charybda předměstí Saint-Antoine  
 a Scylla předměstí Temple_
@@ -80,11 +82,15 @@ Mrtvé uložili na hromadu v uličce Mondétour, která byla ještě v jejich 
 
 Doporučil dvě hodiny spánku. Rada Enjolrasova byla rozkazem. A přece jen tři nebo čtyři jí poslechli. Feuilly použil těch dvou hodin k tomu, aby vyškrábal do zdi proti hostinci tento nápis:
 
-  
+</section>
+
+<section>
 
 AŤ ŽIJÍ NÁRODOVÉ!
 
-  
+</section>
+
+<section>
 
 Tato tři slova, vrytá hřebíkem do kamene, byla na zdi čitelná ještě v roce 1848.
 
@@ -823,36 +829,48 @@ Gavroche se rozhlédl a spatřil, že rány pocházejí od národní gardy měs
 
 Vztyčil se a zůstal stát; a s vlasy ve větru, rukama opřenýma o boky a s očima upřenýma na střílející národní gardisty zanotoval:
 
-  
+</section>
+
+<section>
 
 _V Nanterre se špatně líbá,  
 toť Voltairova chyba,  
 v Savojsku ještě hůře,  
 za to zas Rousseau může._
 
-  
+</section>
+
+<section>
 
 Potom sebral svůj košík, naházel zpět všechny náboje, které se z něho vysypaly, vykročil proti střelbě a vyprázdnil další nábojnici. Tam ho minula čtvrtá kulka. Gavroche zpíval:
 
-  
+</section>
+
+<section>
 
 _Jsem nicka, pročpak? I ba,  
 toť Voltairova chyba,  
 jen veselá jsem kůže,  
 za to zas Rousseau může._
 
-  
+</section>
+
+<section>
 
 Páté kulce se podařilo jen tolik, že z něho vykřísla třetí sloku:
 
-  
+</section>
+
+<section>
 
 _Jsem rád jak v moři ryba,  
 toť Voltairova chyba  
 a bída je má růže,  
 za to zas Rousseau může._
 
-  
+</section>
+
+<section>
 
 Tak to šlo nějakou chvíli.
 
@@ -862,14 +880,18 @@ Povstalci úzkostí ani nedýchali a sledovali ho s obavou. Barikáda se chvě
 
 Ale jedna kulka, lépe mířená nebo zrádnější než ostatní, konečně dítě bludičku zasáhla. Povstalci viděli, jak Gavroche zavrávoral a pak se svezl na zem. Celá barikáda vykřikla; ale v tom malém trpaslíkovi byl velikán; dotknout se dlažby znamená pro gaména zrovna tolik, jako když se obr dotkne země; Gavroche upadl, ale znovu se napřímil; zůstal sedět a dlouhý pramínek krve mu stékal po obličeji; zvedl obě ruce, podíval se, odkud přišla rána, a dal se opět do zpěvu:
 
-  
+</section>
+
+<section>
 
 _Pad jsem, už ani slova,  
 toť chyba Voltairova –  
 pad tváří do kaluže,  
 za to zas Rousseau…_
 
-  
+</section>
+
+<section>
 
 Nedokončil. Druhá kulka téhož střelce mu vyrazila dech. Tentokrát padl tváří na dlažbu a už se nepohnul. Vznešená dušička právě odlétla.
 
@@ -1608,7 +1630,9 @@ Vrátil se mu dojem, který kdysi zakusil, když vpadl z ulice do kláštera. D
 
 Strašný povyk z krčmy dobyté útokem slyšel nad sebou už jenom jako nejasné šumění.
 
-  
+</section>
+
+<section>
 
 [^72]: Sedlina města, zákon světa (lat.).
 
@@ -1651,3 +1675,5 @@ Strašný povyk z krčmy dobyté útokem slyšel nad sebou už jenom jako nejas
 [^91]: Za povstání v roce 1831 tu byli vyvražděni obyvatelé celého domu.
 
 [^92]: Obránce Zaragozy v letech 1808–1809.
+
+</section>

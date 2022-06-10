@@ -3,6 +3,8 @@ title: KNIHA TŘETÍBláto, ale duše
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Stoka a její překvapení_
 
@@ -741,6 +743,10 @@ V té chvíli otevřel Marius pomalu víčka a jeho pohled, zastřený smrteln
 
 A stařec v mdlobách klesl k zemi.
 
-  
+</section>
+
+<section>
 
 [^99]: Liberální poslanec v roce 1832 (správně Tircuy).
+
+</section>

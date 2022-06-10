@@ -3,6 +3,8 @@ title: "KNIHA DESÁTÁ5\\.\_června 1832"
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Povrch otázky_
 
@@ -236,7 +238,9 @@ Lidé se zatarasovali v domech; ženy a matky byly znepokojeny; všude bylo sl
 
 Přede dveřmi svých domovů naslouchali lidé hluku, křiku, hlomozu, ztlumenému a nejasnému dunění, o nichž se říkalo: _„To je jízda,“_ nebo _„To ujíždějí muniční vozy.“_ Naslouchali zvukům trubky, bubnu, palbě a zvláště žalostnému poplašnému zvonění ze Saint\-Merry. Slyšeli první výstřel z děla. Na nárožích se objevovali ozbrojení lidé a zase mizeli křičíce: „Vraťte se domů!“ A spěchali zavřít dveře na závoru. Říkalo se: „Jak to skončí?“ S příchodem noci se Paříž stále chmurněji zbarvovala strašným plápolem vzpoury.
 
-  
+</section>
+
+<section>
 
 [^38]: Postavy z Molièrova _Misantropa_ – smířlivý a shovívavý Philinte je kontrastem upřímného, poctivého a nekompromisního Alcesta.
 
@@ -271,3 +275,5 @@ Přede dveřmi svých domovů naslouchali lidé hluku, křiku, hlomozu, ztlumen�
 [^53]: Generál, člen horní sněmovny v r. 1832.
 
 [^54]: Anglická spisovatelka hrůzostrašných románů.
+
+</section>

@@ -3,6 +3,8 @@ title: "KNIHA ČTVRTÁJavert vyšinutý z\_kolejí"
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Javert vyšinutý z kolejí_
 
@@ -148,11 +150,15 @@ Takový stůl, vždycky doplněný židlí se slaměným výpletem, patří k s
 
 Javert vzal pero a list papíru a dal se do psaní. Napsal toto:
 
-  
+</section>
+
+<section>
 
 NĚKOLIK POZNÁMEK V ZÁJMU SLUŽBY
 
-  
+</section>
+
+<section>
 
 Za prvé: prosím pana prefekta, aby poznámkám věnoval pozornost.
 
@@ -174,7 +180,9 @@ Za deváté: je známo, že je každodenně slyšet, jak si četníci na dvoře 
 
 Za desáté: paní Henryová je počestná žena; její kantýna je opravdu čistá; ale je velmi nesprávné, že u okénka vězeňské krčmy sedí žena. To není důstojné žalářů civilizovaného národa.
 
-  
+</section>
+
+<section>
 
 Javert psal tyto řádky nejklidnějším a nejbezvadnějším písmem, nevynechal ani čárku a skřípal vytrvale perem po papíře. Pod poslední řádkou se podepsal:
 
@@ -185,7 +193,9 @@ Strážnice na náměstí Châtelet.
 
 7. června 1832, asi v jednu hodinu ráno.
 
-  
+</section>
+
+<section>
 
 Javert osušil čerstvý inkoust, složil papír jako dopis, zapečetil a na rub napsal: Poznámky pro administrativu, nechal list na stole a odešel ze strážnice. Zasklené a zamřížované dveře za ním zapadly.
 
@@ -201,8 +211,12 @@ Nic nebylo vidět, bylo jen cítit nepřátelský chlad vody a pach zvlhlých k
 
 Javert zůstal několik okamžiků nepohnutě stát a s napjatou pozorností se díval do zejícího jícnu temnot. Voda hučela. Náhle sňal klobouk, položil jej na zvýšený okraj nábřeží. Hned nato se dlouhá černá postava, kterou by byl nějaký pozdní chodec mohl považovat za přízrak, vyhoupla na zábradlí, naklonila se nad Seinu, potom se opět napřímila a padla kolmo do temnot; ozvalo se temné zašplouchnutí. A jenom stín byl svědkem tajemných křečí té černé postavy, která zmizela pod vodou.
 
-  
+</section>
+
+<section>
 
 [^100]: Místo v sev. Francii, kde vykolejil v r. 1846 vlak necelý měsíc po otevření nové trati.
 
 [^101]: Apoštol Pavel byl na cestě do Damašku osvícen a stal se z nevěřícího horlivým křesťanem.
+
+</section>

@@ -3,6 +3,8 @@ title: "KNIHA TŘETÍDům v\_ulici Plumet"
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Tajemný dům_
 
@@ -343,19 +345,27 @@ Cosetta nevěděla, co to je láska. Nikdy v životě neslyšela přikládat to
 
 Tím vznikaly hádanky, které velice zaměstnávaly obraznost _velkých,_ jako například:
 
-  
+</section>
+
+<section>
 
 __Ach! jak je páska krásná!__
 
-  
+</section>
+
+<section>
 
 Nebo:
 
-  
+</section>
+
+<section>
 
 __Soucit není sázka.__
 
-  
+</section>
+
+<section>
 
 Ale Cosetta odešla z kláštera ještě příliš mladá, než aby se hlouběji zabývala _páskou._ Nevěděla, jak pojmenovat to, co teď zakoušela. Ale jsme proto méně nemocni, neumíme-li svou nemoc pojmenovat?
 
@@ -589,7 +599,9 @@ Za několik dní zrána – slunce mile svítilo – byli oba na schodišti do
 
 „Tatínku, co vlastně jsou ty galeje?“
 
-  
+</section>
+
+<section>
 
 [^24]: Velitel národní gardy v Paříži od roku 1838.
 
@@ -600,3 +612,5 @@ Za několik dní zrána – slunce mile svítilo – byli oba na schodišti do
 [^27]: Mecenáš básníků v 17. stol.
 
 [^28]: Zahradní architekt v 17. stol.
+
+</section>

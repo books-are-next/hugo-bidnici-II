@@ -3,6 +3,8 @@ title: KNIHA PRVNÍNěkolik stránek dějin
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Dobře střiženo_
 
@@ -483,7 +485,9 @@ _L._
 
 _u og a1 fe_
 
-  
+</section>
+
+<section>
 
 Lidé, kteří se tehdy o záhadném nálezu dověděli, teprve později porozuměli skrytému smyslu oněch čtyř velkých písmen: quinturioni, centurioni, decurioni, průzkumníci; a smysl oněch písmen: u og a1 fe bylo datum, které znamenalo 15. dubna 1832. Pod každým velkým písmenem byla napsána jména s velmi typickým označením. Tak například:
 
@@ -531,7 +535,9 @@ Ale po řečech a slovech, po různých písemnostech počaly sem tam pronikat 
 
 V ulici Popincourt zabavili u jistého vetešníka v zásuvce prádelníku sedm archů šedého papíru; každý byl složen po délce a potom na čtyřikrát. Archy přikrývaly šestadvacet čtverců téhož šedého papíru, které byly složeny jako náboje, a lístek, na němž bylo napsáno:
 
-  
+</section>
+
+<section>
 
 Ledek 12 uncí
 
@@ -541,7 +547,9 @@ Uhlí 2 1/2 unce
 
 Voda 2 unce
 
-  
+</section>
+
+<section>
 
 Zápis soudního řízení zjistil, že zásuvka silně páchla prachem.
 
@@ -581,7 +589,9 @@ _Pluviôse, roku čtyřicátého revolučního letopočtu._
 
 Tato společnost přežila všechny soudní rozsudky, které ji prohlašovaly za rozpuštěnou, a neváhala pojmenovat své odbory významnými jmény jako:
 
-  
+</section>
+
+<section>
 
 _Píky._
 
@@ -605,7 +615,9 @@ _Úroveň._
 
 _Půjde to._
 
-  
+</section>
+
+<section>
 
 Společnost pro lidská práva zplodila Společnost činu. Byli to netrpělivci, kteří se odtrhli a běželi napřed. Jiné společnosti se snažily získat členstvo ve velkých původních spolcích. Vůdcové odborů si stěžovali, že se jednoty trhají. Tak vznikly _Galská společnost_ a _Komitét pro organizaci samosprávy._ Stejně _Sdružení pro svobodu tisku, pro svobodu jednotlivce, pro vzdělání lidu,_ a _Sdružení proti nepřímým daním._ Dále Společnost dělnických přátel rovnosti, která se rozpadla na tři skupiny: přátele rovnosti, komunisty a opraváře. Potom vojsko Bastily, jakýsi druh vojensky organizované kohorty, kde byli čtyři muži vedeni kaprálem, deset seržánem, dvacet poddůstojníkem, čtyřicet důstojníkem; znalo se nanejvýš pět mužů. Tento útvar, v němž se obezřelost snoubila s odvahou, se zdál nést pečeť benátského génia. Ústřední výbor, jenž byl hlavou, měl dvě paže, Společnost činu a vojsko Bastily. I jedna legitimistická společnost, Rytíři věrnosti, si čile vedla v republikánských vodách. Kdosi ji udal a byla rozpuštěna.
 
@@ -822,7 +834,9 @@ Za stolkem ze svatoanenského mramoru s bělavými vločkami a obloženým kos
 
 „Hrome!“
 
-  
+</section>
+
+<section>
 
 [^10]: Bithynský král, chtěl zabít Hannibala, aby se zalíbil Římanům.
 
@@ -843,3 +857,5 @@ Za stolkem ze svatoanenského mramoru s bělavými vločkami a obloženým kos
 [^18]: Latinský básník.
 
 [^19]: Nesmírný. Ve Vergiliově _Aeneidě_ (kn. III, verš 658) charakterizuje básník obra Polyféma tímto slovem.
+
+</section>

@@ -3,6 +3,8 @@ title: KNIHA ŠESTÁMalý Gavroche
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Svévolné šibalství větru_
 
@@ -1032,8 +1034,12 @@ A pět mužů, jeden po druhém, se vytratilo z ohrady. Když Gavroche zmizel 
 
 „Co?“ řekl Thénardier. „Vážně?“
 
-  
+</section>
+
+<section>
 
 [^29]: Narážky na veliké krádeže z roku 1827 a 1831.
 
 [^30]: Franc. autor sladce naivních a jednotvárných elegií v 18. stol.
+
+</section>

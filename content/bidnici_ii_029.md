@@ -3,6 +3,8 @@ title: KNIHA ŠESTÁProbdělá noc
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Dne 16. února 1833_
 
@@ -30,12 +32,16 @@ Stalo se – to poznamenáváme jedině ze snahy po přesnosti –, že 16. �
 
 „Masopustní úterý,“ zvolal děd, „tím lépe. Máme přísloví:
 
-  
+</section>
+
+<section>
 
 _Sňatek na masopustní úterý  
 na děti štědrý je kdekterý._
 
-  
+</section>
+
+<section>
 
 Nemluvme o tom. Tedy 16. února. Chceš to snad později, Marie?“
 
@@ -490,7 +496,9 @@ Kdo ho viděl? Vždyť Jean Valjean byl sám a nikdo tam nebyl?
 
 Kdosi, jenž bytuje v temnotách.
 
-  
+</section>
+
+<section>
 
 [^108]: Vadé – autor vulgárních divadelních her.
 
@@ -505,3 +513,5 @@ Kdosi, jenž bytuje v temnotách.
 [^113]: Postava z Molièra.
 
 [^114]: Nesmrtelné srdce (lat. – dosl. játra); začátek Vergiliovy _Aeneidy_ (VI, 598) o potrestání Titya, jemuž neustále hryže játra (u Řeků orgán vášně) obludný sup.
+
+</section>

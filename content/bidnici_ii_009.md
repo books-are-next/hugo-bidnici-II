@@ -3,6 +3,8 @@ title: KNIHA DRUHÁEponina
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Skřivánčí pole_
 
@@ -121,11 +123,15 @@ Vyšetřující soudce uznal za užitečné nedávat jednoho mužského tlupy Pa
 
 La Force má vzpomínky na Brujonovo jméno. V ošklivém dvoře řečeném „nová budova“, jejž správa nazývala dvorem svatého Bernarda a kterému zloději říkali „lví jáma“, na zdi, jež byla pokryta prašivinou a olezlinou a která se tyčila nalevo do výše střech, u starobylých dveří ze zrezivělého železa, vedoucích od bývalé kaple vévodského paláce la Force, přeměněné v cely lupičů, bylo ještě před dvanácti lety možno vidět jakýsi nákres tvrze hrubě vrytý hřebíkem do kamene a nad ním tento podpis:
 
-  
+</section>
+
+<section>
 
 BRUJON 1811
 
-  
+</section>
+
+<section>
 
 Brujon z roku 1811 byl otec Brujona z roku 1832.
 
@@ -135,19 +141,27 @@ Zloději se nedávají vyrušovat z práce, ani když jsou v rukou spra­vedln
 
 Brujon byl vězením jaksi zaražen. Celé hodiny ho vídali na dvoře Karla Velikého; stával pod okénkem kantiny a jako přihlouplý pozoroval ušpiněný kantinský ceník, který počínal:
 
-  
+</section>
+
+<section>
 
 _kuřecí křídlo 62 centimů_
 
-  
+</section>
+
+<section>
 
 a končil:
 
-  
+</section>
+
+<section>
 
 _doutník 5 centimů._
 
-  
+</section>
+
+<section>
 
 Nebo svůj čas mařil tím, že se třásl, jektal zuby, tvrdil o sobě, že má horečku, a vyptával se, neuvolnila-li se náhodou jedna z osmadvaceti postelí na marodce.
 
@@ -423,7 +437,9 @@ Rozevřela prsty a pustila peníz na zem; podívala se zasmušile na Maria a �
 
 „O vaše peníze nestojím.“
 
-  
+</section>
+
+<section>
 
 [^20]: Dramatičtí autoři, kteří po neúspěchu svých děl spáchali roku 1832 sebevraždu.
 
@@ -432,3 +448,5 @@ Rozevřela prsty a pustila peníz na zem; podívala se zasmušile na Maria a �
 [^22]: Hrdina Florianova románu _Estelle._
 
 [^23]: Němečtí právníci, kteří se přeli o definici pojmu vlastnictví.
+
+</section>

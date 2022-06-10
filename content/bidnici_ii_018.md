@@ -3,6 +3,8 @@ title: "KNIHA JEDENÁCTÁAtom se bratří s\_uragánem"
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Několik vysvětlivek ke Gavrochově poezii. Akademikův vliv na tuto poezii_
 
@@ -14,7 +16,9 @@ A s bambitkou utekl.
 
 Za dvě minuty potkal proud poděšených měšťáků, prchající ulicí Amelot a ulicí Basse, chlapce, který mával bambitkou a zpíval:
 
-  
+</section>
+
+<section>
 
 _V noci zřít není co,  
 leč ve dne ledaco,  
@@ -24,7 +28,9 @@ dbej ctnosti, ty a ta,
 tyata  
 ty čáko šišatá!_
 
-  
+</section>
+
+<section>
 
 To malý Gavroche táhl do boje.
 
@@ -282,7 +288,9 @@ A šel s nimi. Od této chvíle nepronesl jediného slova. Jeho krok se náhle
 
 Zástup se dal ulicí de la Verrerie. Malý Gavroche kráčel v čele a z plna hrdla si prozpěvoval, čímž se jaksi proměnil v trubače.
 
-  
+</section>
+
+<section>
 
 _Už luna stoupá na nebesa.  
 Kdy vyjedeme si do lesa?  
@@ -291,7 +299,9 @@ Tu, tu, tu,
 do Chatou.  
 Jen jednoho mám Boha, jednoho krále, jeden groš a jednu botu._
 
-  
+</section>
+
+<section>
 
 _Že rosu pili od úsvitu  
 na stejném dymiánu květu,  
@@ -300,7 +310,9 @@ Si, si, si,
 do Passy.  
 Jen jednoho mám Boha, jednoho krále, jeden groš a jednu botu._
 
-  
+</section>
+
+<section>
 
 _A tak se ti dva vrabci milí,  
 rosou až do němoty zpili,  
@@ -309,7 +321,9 @@ Don, don, don,
 Na Meudon.  
 Jen jednoho mám Boha, jednoho krále, jeden groš a jednu botu._
 
-  
+</section>
+
+<section>
 
 _Ten jeden kleje, druhý laje.  
 Kdy vyjedeme si do háje?  
@@ -318,7 +332,9 @@ Tin, tin, tin,
 Na Pantin.  
 Jen jednoho mám Boha, jednoho krále, jeden groš a jednu botu._
 
-  
+</section>
+
+<section>
 
 Zamířili k Saint-Merry.
 
@@ -393,8 +409,12 @@ Přispíšil si, aby dohonil přátele. Když je doběhl, dal kufřík jednomu z
 
 Srocený dav nejde přesně tam, kam chceme. Už jsme vysvětlili, že je stržen vichřicí. Průvod přešel Saint-Merry a ani nevěděl jak, octl se v ulici Saint-Denis.
 
-  
+</section>
+
+<section>
 
 [^55]: Básník, překladatel Ossiana, člen Francouzské akademie.
 
 [^56]: Lat. chystej válku; ve franc. výslovnosti zní druhé slovo stejně jako ‚bel homme‘ (krásný muž).
+
+</section>

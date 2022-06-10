@@ -3,6 +3,8 @@ title: "KNIHA OSMÁOkouzlení a\_zármutek"
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Jasné světlo_
 
@@ -287,12 +289,16 @@ A znova vzala otce okolo krku.
 
 Břichomluvcův hlas skandoval toto dvojverší:
 
-  
+</section>
+
+<section>
 
 _Starý rok novému neuhýbá  
 a už se táta s dcerou líbá._
 
-  
+</section>
+
+<section>
 
 Eponina se otočila k pěti lupičům.
 
@@ -404,14 +410,18 @@ Thénardier se zastavil a mírně řekl:
 
 Potom se posadila na podezdívku mříže a prozpěvovala si:
 
-  
+</section>
+
+<section>
 
 _Mám kyprou náruč,  
 nožku jak strunu,  
 a přec se kupředu  
 naprázdno sunu._
 
-  
+</section>
+
+<section>
 
 Podpírala si loket o koleno, bradu o ruku a lhostejně houpala nohou. Roztrhanými šaty bylo vidět hubené klíční kosti. Nedaleká pouliční svítilna ozařovala její profil i postavu: ztělesněná odhodlanost!
 
@@ -640,11 +650,15 @@ Marius pokračoval:
 
 Prohledal kapsu, vytáhl z ní nožík a ostřím vryl do omítky zdi:
 
-  
+</section>
+
+<section>
 
 __Ulice Verrerie číslo 16.__
 
-  
+</section>
+
+<section>
 
 Cosetta se mu mezitím znovu zahleděla do očí.
 
@@ -911,7 +925,9 @@ Ale Marius, který v tu chvíli zahýbal za roh ulice Saint-Louis, už ho nemoh
 
 Devadesátiletý stařec dvakrát nebo třikrát s úzkostí zalomil rukama, vrávoravě vycouval od okna a zhroutil se do křesla, bez tepu, bezhlesně, bez slz. Potřásal hlavou, tupě pohyboval rty a v očích i v duši mu utkvělo cosi ponurého a hlubokého, co se podobalo noci.
 
-  
+</section>
+
+<section>
 
 [^33]: Hrdina románu Louveta de Couvray Lásky rytíře Faublase (1787–90) a Henriho Monniera Paměti Josepha Prudhomma – první požitkářský sukničkář, druhý frázovitý šosák.
 
@@ -920,3 +936,5 @@ Devadesátiletý stařec dvakrát nebo třikrát s úzkostí zalomil rukama, vr
 [^35]: Slavný zpěvák.
 
 [^36]: Z franc. _sans culotte_ – bez kalhot; odpůrci feudalismu nazýváni podle toho, že nenosili kalhoty ke kolenům, nýbrž dlouhé.
+
+</section>

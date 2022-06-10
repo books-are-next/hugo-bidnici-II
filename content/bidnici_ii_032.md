@@ -3,6 +3,8 @@ title: "KNIHA DEVÁTÁNejhlubší beznaděj a\_nejzářivější svítání"
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Mějte slitování s nešťastnými,  
 ale buďte shovívaví k těm, kdo jsou šťastni_
@@ -169,7 +171,9 @@ A tak podivným rozmarem náhody se mu sama nabídla jedna ze dvou stop, které
 
 Dychtivě rozpečetil dopis a četl:
 
-  
+</section>
+
+<section>
 
 _Pane barone,_
 
@@ -773,7 +777,9 @@ Náhrobní kámen je beze jména.
 
 Ale kdysi dávno na něj nějaká ruka napsala tužkou čtyři verše, které déšť a prach ponenáhlu rozmazal a které jsou dnes už pravděpodobně nadobro vybledlé:
 
-  
+</section>
+
+<section>
 
 _Spí. Byť i náhoda s ním divně dováděla._
 
@@ -784,3 +790,5 @@ _ta věc se udála docela prostince,_
 _jako když ustoupí den černé hodince._
 
 [^117]: Merci (franc.) – děkuji.
+
+</section>

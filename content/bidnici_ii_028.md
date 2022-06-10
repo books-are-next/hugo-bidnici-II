@@ -3,6 +3,8 @@ title: "KNIHA PÁTÁVnuk a\_děd"
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Opět uvidíme strom se zinkovou náplastí_
 
@@ -92,28 +94,36 @@ Pan Gillenormand se potácel mezi úzkostí a nadějí. Marně vymlouvali star�
 
 Toho dne, kdy lékař oznámil, že Marius je mimo nebezpečí, byl staroch u vytržení. Domovníkovi dal tři zlaťáky. Když večer odcházel do svého pokoje, tančil gavotu, a napodobuje palcem a ukazováčkem kastaněty, zpíval si samou radostí tuto písničku:
 
-  
+</section>
+
+<section>
 
 _Je z kraje luk a lodí,  
 kde pastýřky se rodí,  
 po větru suknička,  
 Anička._
 
-  
+</section>
+
+<section>
 
 _Tys, Amore, v ní doma;  
 z ní raníš, trampoto má,  
 skryt v její panence,  
 mládence!_
 
-  
+</section>
+
+<section>
 
 _Zpívám si o své Anně  
 raděj než o Dianě,  
 o tuhém prsíčku  
 písničku._
 
-  
+</section>
+
+<section>
 
 Potom poklekl na židli a Bask, který ho pozoroval pootevřenými dveřmi, byl pevně přesvědčen, že se modlí.
 
@@ -290,13 +300,17 @@ Potom se obrátil ke Cosettě:
 
 Dědeček se otočil na svých devadesátiletých patách a opět se rozpovídal jako stroj, který spustí:
 
-  
+</section>
+
+<section>
 
 _„Máš pravdu, Alkippe, když z hlavy pustíš snění,_
 
 _vždyť dobrá ženitba též není k zahození._[^104]
 
-  
+</section>
+
+<section>
 
 Abych nezapomněl!“
 
@@ -407,7 +421,9 @@ Pan Gillenormand tlachal hlavně o svatbě a do jeho chvalozpěvů se připlet
 
 „Neumíte pořádat slavnosti. Dnes už nedovedete uspořádat veselý den,“ volal. „Vaše devatenácté století zplihlo. Nezná výstřednosti. Neví, co je nádherné, neví, co je vznešené. Ve všem je ostříhané dohola. Váš třetí stav je bez chuti, bez barvy, bez zápachu a bez tvaru. Vaše měštky touží jen po tom, aby měly čerstvě vyčalouněný budoárek: palisandr a kaliko. Z cesty, z cesty! Pan Vydřiduch si bere slečnu Držgrešli. Přepych a lesk! Svíčka se objímá s louisdorem. Taková je doba. Chtěl bych utéci na konec světa. Ach, od roku 1787 jsem předpovídal, že je všechno ztraceno, když jsem viděl vévodu Rohana, knížete léonského, vévodu Chabota, vévodu montbazonského, markýze Soubise a vikomta Thouarse, francouzského paira, v jaké rachotině jedou do Longchamos! Přineslo to ovoce. V tomto století se dělají obchody, hraje se na burze, vydělávají se peníze a mamoní se. Lidé pěstují a vyšňořují svůj zevnějšek; každý je naškrobený, umytý, vymydlený, vydrhnutý, vyholený, načesaný, navoskovaný, uhlazený, natřený, vykartáčovaný a vydrhnutý, bezvadný, hladký jako oblázek, slušný, čisťounký a přitom, u všech všudy, má ve svém svědomí hnůj a stoku, před nimiž by utekla děvečka od krav, která smrká do ruky. Dávám dnešní době heslo: Špinavá čistota! Marie, nezlob se, dovol mi mluvit, neříkám nic špatného o lidu, vidíš, mám ústa plná chvály tvého lidu, ale shledávám, že je správné trochu spráskat buržoazii. Tak je to se mnou. Kdo má rád, ten trestá. Proto říkám, že se dnes lidé žení, ale ženit se neumějí. Ach, věru, stýská se mi po roztomilých starých mravech. Všechno je totam! Elegance, kavalírství, dvorné a půvabné způsoby, radostný přepych, jeho: si každý dopřával, hudba, která byla součástí svatby, symfonie ve vyšších vrstvách, bubnování v nižších, tance, veselé tváře za stolem, vtipné madrigaly, písně, ohňostroje, upřímný smích, u všech čertů a ďáblů, i ty opentlené dívky jsou pryč! Postrádám nevěstin podvazek. Nevěstin podvazek je bratranec Venušina pásu. Kolem čeho se strhla trojská válka? Parbleu, kolem Helenina podvazku. Proč se lidé bijí, proč božský Diomédes rozbil na Mérionově hlavě velkou přilbu s deseti hroty, proč se Achilleus a Hektór zmalovávali ranami kopí? Protože Helena dovolila Paridovi, aby jí vzal podvazek. Na Cosettin podvazek by Homér složil Iliadu. Vypravoval by ve své básni o starém žvanilovi, jako jsem já, a říkal by mu Nestor. Kdysi, přátelé, za těch roztomilých časů, se lidé ženili znalecky; nejdříve řádná smlouva, potom pěkná bašta. Jakmile odejde Cujas, nastoupí Gamache[^105]! Panečku! Žaludek je milé zvířátko, ale chce si přijít na své. Hodovávalo se jak se patří a u stolu jste měli hezkou sousedku bez šátečku na krku, a ten stejně zakrýval ňadra jen malounko! Á, to byl bujný smích, a jak jsme bývali tehdy veselí! Mládež, to byla kytice; každý mladý muž byl ozdoben bezem nebo růžemi; i voják si dovedl hrát na pastýře; a byl-li náhodou kapitánem u dragounů, narafičil to tak, aby se jmenoval Florián. Záleželo jim na tom, aby byli hezcí. Zdobili se vyšíváním a navlékali se do purpuru. Měšťan vypadal jako kytka, markýz jako drahokam. Neměli štruple u kalhot a nenosili ošklivé boty. Každý byl vyfintěný, ulízaný, vyleštěný, brunátný; poletoval hezoučký a koketní; to mu nevadilo, aby měl kord po boku. Kolibřík má zobák i drápky. Byla to doba výpravných scén a baletní hudby. Století bylo na jedné straně zjemnělé, na druhé nádherné; a namouduši, lidé se nenudili. Dnes jsou lidé usedlí. Měšťan je lakomý, měštka upejpavá; vaše století je nešťastné. Lidé by nejraději vyhnali Grácie, protože nosí příliš velký výstřih. Krásu skrýváme, bohužel, jako nějakou ohyzdnost. Od revoluce všechno nosí dlouhé kalhoty, i tanečnice; baletka musí být vážná; vaše tance jsou doktrinářské. Člověk musí být vznešený. Velice by ho mrzelo, kdyby neměl bradu zastrčenou do nákrčníku. Ideálem dvacetiletého holobrádka, který se žení, je, aby se podobal panu Royer-Collardovi[^106]. A víte, kam se dojde s tou vznešeností? K malosti. Pamatujte si: radost není jen radostná; je vznešená. Buďte tedy zamilováni vesele, u všech rohatých! Žeňte se, a když se už ženíte, tak se žeňte s horečkou, zpitomělí povykem a zmatkem štěstí! V kostele vážnost, budiž. Jakmile však je po obřadech, tisíc láter, ať je nevěsta jako ve snách. Svatba musí být královská a plná fantazie; svatební průvod musí vést od remešské katedrály až k chanteloupské pagodě. Mám hrůzu před hloupou svatbou. U všech všudy! Aspoň toho dne buďte na Olympu! Buďte bohy! Lidé by mohli být vílami, božstvy hry a smíchu, štítonoši se stříbrným brněním; a zatím jsou to tupci. Přátelé, každý novomanžel by měl být knížetem Aldobrandinim. Užijte této jedinečné chvíle, abyste s labutěmi a s orly zaletěli do nebe, připraveni na to, že zítra opět spadnete do měšťácké žabárny. Nešetřte na sňatku, nepřipravujte jej o lesk; neskrblete toho dne, kdy záříte. Svatba není šetření. Kdybych to mohl udělat podle své fantazie, bylo by to půvabné; na stromech by bylo slyšet housle. Mým programem je blankyt a stříbro. Pozval bych na slavnost venkovská božstva a svolal bych dryády a nereidy. Amfitritina svatba, růžový oblak, nymfy pěkně učesané a docela nahé, akademik obětující bohyni svou báseň, vůz tažený mořskými obludami.
 
-  
+</section>
+
+<section>
 
 _Na svou mušli troubí Tritón,  
 ten ušlý chce být při tom.  
@@ -416,7 +432,9 @@ není-li tu, je to chudé.
 Hrej, Tritone, na svou mušli;  
 v blahu tone hned i ušlý._
 
-  
+</section>
+
+<section>
 
 To je program slavnosti, jak se sluší a patří, nebo tomu vůbec nerozumím, hrom do toho!“
 
@@ -518,7 +536,9 @@ Jednou večer vykládal Marius před Cosettou a Jeanem Valjeanem o celé té z
 
 Jean Valjean mlčel.
 
-  
+</section>
+
+<section>
 
 [^102]: Pastýř, který ve Vergiliových _Zpěvech pastýřských_ (I, 1) leží natažen pod bukem.
 
@@ -531,3 +551,5 @@ Jean Valjean mlčel.
 [^106]: Filozof, člen Akademie a politický řečník.
 
 [^107]: V nepřítomnosti (lat.).
+
+</section>

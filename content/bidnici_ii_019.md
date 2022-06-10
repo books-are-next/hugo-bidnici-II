@@ -3,18 +3,24 @@ title: KNIHA DVANÁCTÁKorint
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Dějiny Korintu od jeho založení_
 
 Pařížané, kteří dnes vstoupí do tržnice v ulici Rambuteau, zpozorují po pravici, naproti ulici Mondétour, košíkářský krám, za jehož vývěsní štít slouží figurína v podobě císaře Napoleona Velikého s tímto nápisem:
 
-  
+</section>
+
+<section>
 
 NAPOLEON JE CELÝ UPLETEN
 
 Z VRBOVÉHO PROUTÍ,
 
-  
+</section>
+
+<section>
 
 a netuší, jaké strašné výjevy spatřila tato místa před necelými třiceti roky.
 
@@ -30,12 +36,16 @@ Chodec, který se z ulice Saint-Denis dal do ulice Chanvrerie, spatřil, jak se
 
 A v tomto pouze dvoupatrovém domě byla už před třemi sty lety slušně zařízená pověstná krčma. Vesele halasila na místě, které starý Théophile[^57] poznamenal těmito verši:
 
-  
+</section>
+
+<section>
 
 _Strašný kostlivec se tu klátí,  
 Pro nevěrnou se oběsil._
 
-  
+</section>
+
+<section>
 
 Místo bylo dobré, krčma přecházela z otce na syna. Za časů satirika Mathurina Régniera se jmenovala Pot-aux-Roses, a protože si svět liboval v rebusech, měla za štít růžově natřený sloup.
 
@@ -73,7 +83,9 @@ Síň v prvním poschodí, kde byla „restaurace“, byla velká a dlouhá m�
 
 Tuto síň, jež vypadala jako podkrovní komora, osvětlovalo jediné úzké okno a ustavičně rozsvícená lampa. Všechny kusy nábytku, které měly čtyři nohy, si vedly, jako by měly nohy jen tři. Ozdobou zdí obílených vápnem bylo jenom toto pětiverší, napsané k poctě matky Hucheloupové:
 
-  
+</section>
+
+<section>
 
 _Na dálku ujde, zblízka pelichá,  
 na nose, jenž smělostí tě trkne,  
@@ -81,7 +93,9 @@ na nose, jenž smělostí tě trkne,
 Je o strach, že až frkne,  
 jej se vším všudy spolyká._
 
-  
+</section>
+
+<section>
 
 Bylo to napsáno na zdi uhlem.
 
@@ -462,126 +476,162 @@ Zatímco muži dělali náboje a ženy cupaninu, zatímco se na rozžhaveném o
 
 Jaké verše? Tu jsou:
 
-  
+</section>
+
+<section>
 
 _Zda vzpomínáš, jak sladko se nám žilo,  
 když tenkráte byl každý z nás tak mlád  
 a srdce v nás po jiném netoužilo  
 než mít co na sebe a míti rád._
 
-  
+</section>
+
+<section>
 
 _Když dohromady smíchavše svá léta,  
 jsme čtyřicet jich spočtli nezcela  
 a v skrovném domově, byt ledokvětá,  
 sama zima jarně voněla._
 
-  
+</section>
+
+<section>
 
 _Čas krásy! Manuel měl moudrou pýchu,  
 Pařížan k svatým hodům pospíchal,  
 Foy hromoval, a o špendlík, trest hříchu,  
 jsem na živůtku tvém se popíchal._
 
-  
+</section>
+
+<section>
 
 _Tvé postavy kdo nevšimnout si může?  
 Když do Prada jsem k obědu tě ved,  
 bylas tak hezká, že se všechny růže  
 za tebou zdály hlavu otáčet._
 
-  
+</section>
+
+<section>
 
 _„Ach, jak je krásná!“, od růží to věje.  
 „Ten proudný vlas. Jak, sestro, voníte!  
 To jistě křídlo vespod složené je!  
 A čapka? Poupě, stěží rozvité.“_
 
-  
+</section>
+
+<section>
 
 _Kdo zřel, ten děl: „To Láska oblíbila  
 si tuhle šťastnou dvojici  
 a něžný duben v těch dvou zaslíbila  
 krásnému máji měsíci.“_
 
-  
+</section>
+
+<section>
 
 _Schováni, rádi, pěkně uzamčeni  
 jedli jsme z lásky zapověděné,  
 ještě má vůle nebyla než snění,  
 už vytušilas ano nebo ne._
 
-  
+</section>
+
+<section>
 
 _Sorbonna byla bukolická strana;  
 od šera k ránu jsem tě zbožňoval,  
 a jako říši Milování, plana,  
 zem latinskou jsem tehdy mapoval._
 
-  
+</section>
+
+<section>
 
 _Náš byt byl díra, jarní, třeba malá,  
 a nežilo se nám v ní nejhůře.  
 Když punčochus na nohu navlékala,  
 spatřil jsem blesknout hvězdu na hůře._
 
-  
+</section>
+
+<section>
 
 _Nadarmo čet jsem Platona a žalmy;  
 než moudrá kniha, ať ta nebo ta,  
 květ, jejžs mi dala, lépe ukázal mi,  
 čemu se říká božská dobrota._
 
-  
+</section>
+
+<section>
 
 _Já byl tvůj man, tys byla podmaněna.  
 Slast, v podkroví tě zapínat a víc!  
 Zřít s úsvitem, jak chodíš rozhalena,  
 v svém zrcátku tvář mládí hledajíc._
 
-  
+</section>
+
+<section>
 
 _Jak zapomenout dobu drahocennou,  
 čas květů, pentlí s pěknou mantilkou,  
 báň oblohy a zoru pozlacenou,  
 kdy láska mluví sladkou hantýrkou?_
 
-  
+</section>
+
+<section>
 
 _Sklo zatemnil kus šátku vlněného,  
 květník byl hezčí než sto záhonů;  
 já pívával rád z hrnku hliněného  
 a tobě jsem dal šálek z japonu._
 
-  
+</section>
+
+<section>
 
 _Co katastrof! Kdo neví, neuvěří:  
 tvé boa pryč a rukáv zničený.  
 A abychom sehnali na večeři,  
 chudinka Shakespeare – zašantročený!_
 
-  
+</section>
+
+<section>
 
 _Já žebrák byl, a tys mi přála trošku.  
 Tvé oblosti jsem nadychtil se dost.  
 Foliant Dantův byl nám za podložku,  
 když kaštany jsme jedli pro radost._
 
-  
+</section>
+
+<section>
 
 _V té šťastné komůrce jsem ponejprve  
 zlíbal tvá ústa. Když čas udeřil  
 a zcuchaná šlas, v tváři stín své krve,  
 tu stál jsem bled a v Boha uvěřil._
 
-  
+</section>
+
+<section>
 
 _Zda vzpomínáš na blaha tolikerá  
 a na fišíčka celá zmuchlaná?  
 Co vzdechů šlo ze srdcí plných šera  
 v hlubinu nebes říci hosanna._
 
-  
+</section>
+
+<section>
 
 Hodina, místo, vzpomínky z mládí, několik hvězd, které se počaly třpytit na nebi, zlověstné ticho opuštěných ulic, neúprosnost hrozícího dobrodružství, které se připravovalo, dodávaly dojemné kouzlo veršům, v šeru polohlasně přednášeným Jeanem Prouvairem, o němž jsme již řekli, že byl lyrický básník.
 
@@ -793,7 +843,9 @@ Povstalci byli ještě rozrušeni tímto tragickým soudem, tak rychle zavedený
 
 Hoch, který vypadal odvážně a bezstarostně, se v noci přidružil k povstalcům.
 
-  
+</section>
+
+<section>
 
 [^57]: Verše jsou ve skutečnosti od Saint-Amanta.
 
@@ -806,3 +858,5 @@ Hoch, který vypadal odvážně a bezstarostně, se v noci přidružil k povs
 [^61]: Lat. citát z řím. básníka Horatia: Každému není dovoleno přistát v Korintu (_Listy I_, 17, 36).
 
 [^62]: Královský spiklenec vystupující v Hugově dramatu _Cromwell_.
+
+</section>

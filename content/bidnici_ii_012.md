@@ -3,6 +3,8 @@ title: KNIHA PÁTÁKonec se nepodobá začátku
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Samota a kasárny_
 
@@ -203,83 +205,121 @@ Srdce pod kamenem
 
 Vejde-li se vesmír do jedné bytosti, vzepne-li se bytost až k samému Bohu, tomu se říká láska.
 
-  
+</section>
+
+<section>
 
 V lásce andělé pozdravují hvězdy.
 
-  
+</section>
+
+<section>
 
 Duše je dvakrát smutná, je-li smutná z lásky.
 
 Jaká prázdnota, chybí-li nám bytost, která jediná naplňuje svět! A jak je pravdivé, že se milovaná bytost stává Bohem. Chápali bychom, že by na ni Otec všehomíra mohl žárlit, kdyby on sám to všechno nebyl stvořil zřejmě pro duši a duši pro lásku.
 
-  
+</section>
+
+<section>
 
 Jediné pousmání, jež zahlédneme pod bílým krepovým kloboučkem s fialovým závojem, stačí, aby duše vešla do krajin snů.
 
-  
+</section>
+
+<section>
 
 Za vším je Bůh, ale všechno Boha skrývá. Věci jsou černé, stvoření neprůhledná. Milujeme-li nějakou bytost, činíme ji průsvitnou.
 
-  
+</section>
+
+<section>
 
 Některé myšlenky jsou modlitbami. Jsou chvíle, kdy duše padne na kolena, ať se k tomu tělo staví jakkoliv.
 
-  
+</section>
+
+<section>
 
 Milenci si dovedou odloučenost nahradit tisíci smyšlenkami, v nichž přese všechno zůstala skutečnost. Nesmějí se vídat, nesmějí si psát; vymýšlejí si však plno tajných možností, aby se dorozuměli. Jejich poslíčkem jsou ptáčci zpěváčci, vůně květin, smích dětí, slunce, které svítí, vzdechy větru, hvězdné paprsky, všechno, co žije. A proč by ne? Všechno, co Bůh stvořil, je stvořeno, aby sloužilo lásce. Láska je dosti mocná, aby pověřila přírodu svými vzkazy.
 
 Ó, jaro, tys milostný dopis, který jí tu právě píšu!
 
-  
+</section>
+
+<section>
 
 Srdce má budoucnost mnohem spíše než hlava. Jedině láska může zaneprázdnit a vyplnit věčnost. K nekonečnosti patří nevyčerpatelnost.
 
-  
+</section>
+
+<section>
 
 Láska je součástí duše. Podstata obou je táž. Obě, duše i láska, jsou výronem božství, které nic nemůže porušit, rozdrobit, zničit. Je to ohnisko v nás, nesmrtelné a nekonečné, jež nic neumenší a neuhasí. Cítíme, jak se propaluje až do morku kostí, a vidíme, jak září až do nejzazších hlubin nebes.
 
-  
+</section>
+
+<section>
 
 Milování! Zbožňování! Milostná shodo dvou duší, které si rozumějí, které jsou zajedno, pohledů, které si vidí až na dno! Blažené chvíle, už nemeškejte! Samotáři, kteří se dva a dva procházíte po večerech! Dnové požehnaní a zářiví! Kolikrát se mi zdálo, že se hodiny občas odlučovaly od života andělů, aby zde na zemi procházely osudem lidí.
 
-  
+</section>
+
+<section>
 
 Bůh nemůže nic přidat ke štěstí milenců, leda by k němu přidal trvání bez konce. Po životě plném lásky – lásku navěky. To je vskutku něco navíc; ale zvětšit intenzitu nevýslovné blaženosti, kterou láska dává duši na tomto světě, toho není mocen ani sám Bůh. Bůh je plnost nebe, láska je plnost člověka.
 
-  
+</section>
+
+<section>
 
 Hledíte na hvězdy z dvojího důvodu: jsou zářivé a neproniknutelné. Ale zde máte na očích něžnější vyzařování a větší mystérium, ženu.
 
-  
+</section>
+
+<section>
 
 Ať jsme, kdo jsme, všichni máme blízké bytosti. Chybějí-li nám, chybí nám vzduch a zalykáme se. A to je smrt. Umřít z nedostatku lásky je věc hrozná. Zalkne se duše!
 
-  
+</section>
+
+<section>
 
 Když láska slila a smísila dvě bytosti v andělskou, posvátnou jednotku, tajemství života je pro ně objeveno; je to pak jen dvojí vyjádření téhož osudu; jsou to vlastně už jen dvě křídla téhož ducha. Milujte se! Buďte v nebi!
 
-  
+</section>
+
+<section>
 
 Od chvíle, kdy mimo vás projde žena, která při chůzi vyzařuje světlo, jste ztraceni, milujete. Nezbude vám než myslit na ni tak, že ji přinutíte, aby sama myslila na lásku.
 
-  
+</section>
+
+<section>
 
 Co láska začala, může dovršit jen Bůh.
 
-  
+</section>
+
+<section>
 
 Pravá láska si zoufá a je okouzlena nad ztracenou rukavicí nebo nad nalezeným kapesníčkem a potřebuje celou věčnost pro svou oddanost a své naděje. Je v ní zároveň něco z nekonečně velikého i z nekonečně malého.
 
-  
+</section>
+
+<section>
 
 Jste-li kámen, buďte magnetem, jste-li rostlina, buďte citlivkou. Jste-li člověk, buďte láskou.
 
-  
+</section>
+
+<section>
 
 Lásky se nedosytíš. Má-li člověk štěstí, chce ráj; má-li ráj, chce nebe. Ó vy, kteří jste zamilováni, to všechno je v lásce. Hleďte se v ní toho všeho dopídit. Podobně jako nebesa, i láska má dar rozjímání a navíc ještě rozkoš.
 
-  
+</section>
+
+<section>
 
 „Chodí ještě do Lucemburské zahrady?“
 
@@ -299,47 +339,69 @@ Lásky se nedosytíš. Má-li člověk štěstí, chce ráj; má-li ráj, chce n
 
 Jak je ponuré, když člověk nezná adresu vlastní duše.
 
-  
+</section>
+
+<section>
 
 Láska má své dětinskosti, ostatní vášně své malichernosti. Hanba vášním, které člověka snižují, čest těm, které ho učí vidět dětskýma očima!
 
-  
+</section>
+
+<section>
 
 Je to podivná věc, slyšeli jste kdy o ní? Jsem ve tmách. Jedna bytost mi vzala na odchodu nebe.
 
-  
+</section>
+
+<section>
 
 Ach, být tak pochováni bok po boku v témž hrobě, ruku v ruce, a chvílemi ve tmách něžně se pohladit, to by stačilo mé věčnosti.
 
-  
+</section>
+
+<section>
 
 Vy, kteří trpíte, protože máte rádi, milujte ještě více. Umírat láskou znamená láskou žít.
 
-  
+</section>
+
+<section>
 
 Milujte! Pochmurné hvězdné proměňování je přimíšeno k těmto mukám. V tomto posledním zápase je zároveň extáze.
 
-  
+</section>
+
+<section>
 
 Šťastní ptáci! Zpívají, protože mají hnízdo.
 
-  
+</section>
+
+<section>
 
 Láska je nebeské vdechování rajského vzduchu.
 
-  
+</section>
+
+<section>
 
 Ó srdce hluboká, moudří duchové, berte život, jak jej Bůh stvořil. Je to dlouhá zkouška, nepochopitelná průprava k osudu, jehož neznáme. Osud, tentokrát opravdový, začíná pro člověka na prvním stupni do hrobu. Tehdy se mu cosi zjeví a začíná rozlišovat konečno. Zastavte se u slova – konečno. Živoucí lidé vidí nekonečno. Konečno se zjeví teprve těm, kdo umřeli. Zatím milujte, trpte, doufejte a rozjímejte! Běda tomu, kdo miloval jen tělo, tvar, zdání! Smrt ho o všechno obere. Pokuste se milovat duši, pak se s ní shledáte.
 
-  
+</section>
+
+<section>
 
 Potkal jsem na ulici chudičkého mladého člověka, který miloval. Měl starý klobouk a jeho šaty byly ošumělé; lokty prodřené; jeho střevíce nabíraly vodu a duší mu prosakovaly hvězdy.
 
-  
+</section>
+
+<section>
 
 Jak veliká věc je být milován! Ale oč větší je milovat! Vášní srdce dospěje až k heroičnosti. Není pak v jeho složení nic nečistého; opírá se jen o vznešenost a velikost. Nedůstojná myšlenka v něm pak už nevzklíčí právě tak jako se kopřiva neuchytí na ledu. Vznešená a zářivě jasná duše, nepřístupná vášním a hrubým vznětům, povznesená nad mraky a stíny vezdejšího světa, nad bláznivostmi, lžemi, nad nenávistmi, marnivostmi a bědami, je ubytována v nebeském azuru a vnímá už jen hluboké záchvěvy v útrobách osudu, jako horští obři vnímají otřesy země.
 
-  
+</section>
+
+<section>
 
 Kdyby už nebylo nikoho, kdo by miloval, slunce by uhaslo.
 
@@ -450,3 +512,5 @@ Když skončili, když si všechno řekli, položila Cosetta Mariovi hlavu na ra
 „Marius,“ řekl. „A vy?“
 
 „Jmenuji se Cosetta.“
+
+</section>

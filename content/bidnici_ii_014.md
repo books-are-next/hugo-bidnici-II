@@ -3,6 +3,8 @@ title: KNIHA SEDMÁHantýrka
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Původ_
 
@@ -93,35 +95,47 @@ Ostatně přes všechno a právě proto má to podivné podřečí právo, aby 
 
 Tak skvělý a proslulý verš:
 
-  
+</section>
+
+<section>
 
 _Mais ou sont les neiges ďantan?_
 
 Ach, kdeže loňské sněhy jsou?
 
-  
+</section>
+
+<section>
 
 je verš argotický. Antan – _ante annum –_ je slovo z thuneského argotu, které značí loni, v širším významu _kdysi._ Ještě před pětatřiceti lety, v roce 1827, kdy odjížděl velký řetěz galejníků z jednoho vězení v Bicêtre, bylo možno číst tuto životní zásadu vyrytou do zdi jedním thuneským králem žebráků, který byl odsouzen na galeje:
 
-  
+</section>
+
+<section>
 
 _Les dabs ďantan trimaient siempre pour la pierre du Coësre._
 
 Což značí: _Bývalí králové se vždycky dávali korunovat._
 
-  
+</section>
+
+<section>
 
 V mysli toho krále korunovace znamenala galeje.
 
 Slovo _décarade_ vyjadřuje odjezd těžkého vozu tryskem, je přičítáno Villonovi a je ho hodno. To slovo, které uhání, až jiskry létají, vyhovuje, shrnuje všechno, co vyjadřuje La Fontainův mistrný onomatopoický verš:
 
-  
+</section>
+
+<section>
 
 __Six forts chevaux tiraient un coche_._
 
 Šest silných koní táhlo kočár.
 
-  
+</section>
+
+<section>
 
 Z čistě literárního hlediska by bylo málo studií tak zajímavých a plodných jako studium francouzského argotu. Je to jazyk v jazyce, druh zhoubného bujení, nezdravý roub, který vyvolal růst, parazit, který má své kořeny ve starém galském kmeni a jehož příšerné listí se plazí po celé jedné půlce jazyka. A to je jeho první vzhled, hrubý vzhled argotu. Ale těm, kdo studují řeč tak, jak se má studovat, to znamená tak, jako geologové studují zemi, připadá argot jako opravdový nános. Podle toho, vrtáme-li více nebo méně hluboko, nacházíme v argotu pod příkrovem staré lidové mluvy provensálštinu, španělštinu, italštinu, levantštinu, tuto řeč středozemních přístavů, angličtinu, němčinu a románštinu v jejích třech podobách – francouzské, italské a rétorománské, pak latinu a jazyk baskický a keltský. Je to hluboký a prapodivný útvar. Podzemní stavba, kterou stavěli společnými silami všichni bídníci. Každá prokletá rasa tam uložila svou vrstvu, každé utrpení tam odhodilo svůj kámen, každé srdce tam zanechalo svůj oblázek. Davy zlých, nízkých a podrážděných duší, které prošly životem a zmizely v nekonečnu, jsou tu téměř celé a jaksi viditelné ve tvaru příšerného slova.
 
@@ -231,15 +245,21 @@ _„Písně mi dodávaly síly.“_
 
 Neužitečnost poezie! K čemu je rým? V tomto sklepení se zrodily téměř všechny argotické písně. Právě z vězení Grand-Châtelet v Paříži pochází smutný refrén montgomerské galéry:
 
-  
+</section>
+
+<section>
 
 _Timaloumisaine, timoulamison._
 
-  
+</section>
+
+<section>
 
 Většina těch písní je truchlivá; některé jsou veselé; jedna je něžná:
 
-  
+</section>
+
+<section>
 
 __Icicaille est le théâtre  
 du petit dardan._  
@@ -272,14 +292,18 @@ Má-li chudák čas přemýšlet, pokaždé se plazí před zákonem a tváří
 
 Asi v polovině minulého století nastala změna. Žalářní písně a zlodějské ritornely dostaly, abychom tak řekli, drzý a bodrý nádech. Plačtivý refrén _maluré_ byl nahrazen veselejším _larifla._ V osmnáctém století se setkáváme téměř ve všech písních, které vznikly na galejích, ve vězeních a na galérách s galejními veslaři, s jakousi ďábelskou a záhadnou rozverností. Slyšíme v nich onen pronikavý skočný refrén, jakoby ozářený fosforeskujícím světlem a vyluzovaný po lese vábivou bludičkou.
 
-  
+</section>
+
+<section>
 
 _Mirlababi surlababo,  
 Mirliton ribon ribette,  
 Surlababi mirlababo,  
 Mirliton ribon ribo._
 
-  
+</section>
+
+<section>
 
 Takhle si zpívali ti, kdo podřezávali někomu někde ve sklepě nebo v lesním zákoutí krk.
 
@@ -360,8 +384,12 @@ Přijde budoucnost? Zdá se, že jsme téměř oprávněni se na to tázat, vid�
 
 Smíme se dále dívat k nebesům? Zářivý bod, který tam vidíme, je snad z těch, které jednou zhasnou? Je strašné hledět na ideál v hlubinách nebes tak ztracený, malý, osamělý, pranepatrný, jiskrný, ale obklíčený ohromnými černými hrozbami, které se kolem něho nakupily; a přece není ve větším nebezpečí než hvězda v jícnech mraků.
 
-  
+</section>
+
+<section>
 
 [^31]: V. Hugo.
 
 [^32]: Vůdce loupežníků v 18. stol.
+
+</section>

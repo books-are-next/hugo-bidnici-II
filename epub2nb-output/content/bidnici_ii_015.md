@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Jasné světlo_
 
-  
-
 Čtenář pochopil, že Eponina poznala mřížemi obyvatelku domu v ulici Plumet, kam ji poslala Magnonová, že nejdříve od tohoto cíle odvrátila lupiče a potom tam zavedla Maria, a že Marius po několika dnech vytržení před mříží, přitahován silou, jež přitahuje železo k magnetu a zamilovaného ke kamenům, z nichž je vystavěn dům milované dívky, vstoupil konečně do Cosettiny zahrady, jako Romeo vstoupil do zahrady Juliiny. Ale pro něho to bylo snadnější než pro Romea; Romeo musil přelézat zeď, Marius se jen trochu opřel o tyč chatrné mříže, která se viklala ve zrezivělé patce jako zuby starých lidí. Byl drobný a snadno proklouzl.
 
 Protože v ulici nikdy nebylo živé duše a Marius do zahrady vnikal jenom pozdě večer, nevydával se v nebezpečí, že bude spatřen.
@@ -99,8 +97,6 @@ Co je stálé a neměnitelné, trvá. Milenci se milují, usmívají, smějí, 
 ## (2)  
 Opojení dokonalým štěstím
 
-  
-
 Udiveni štěstím jako by ani nežili. Nevšimli si cholery, která právě v onom měsíci řádila v Paříži. Důvěrně si řekli co nejvíce, ale nevěděli o mnoho víc než svá jména. Marius řekl Cosettě, že se jmenuje Marius Pontmercy, že je advokátem, že se živí psaním článků pro knihkupce, že jeho otec byl plukovníkem a hrdinou a že se on – Marius – v hněvu rozešel s bohatým dědem. Poněkud jí naznačil, že je baron, ale to na Cosettu vůbec neplatilo. Marius baron? Neporozuměla. Nevěděla, co to slovo znamená. Marius byl Marius. Ona mu zase pověděla, že byla vychována v klášteře Petit-Picpus, že i jí zemřela matka, že se její otec jmenuje pan Fauchelevent, že je velmi dobrý, že je hodný na chudé, ale že sám je chudý, že sobě odpírá všechno, ale jí nic.
 
 Zajímavé bylo, že v symfonii, v níž Marius žil od chvíle, kdy spatřil Cosettu, připadala mu minulost, byť nedávná, tak zmatená a vzdálená, že mu úplně postačilo, co mu Cosetta vypravovala. Dokonce ani nepomyslil na to, že by jí mohl povědět o noční příhodě v baráku, o Thénardierových, o spálenině a o podivném jednání a zvláštním útěku jejího otce. Marius dočasně na všechno zapomněl; večer dokonce ani nevěděl, co dělal ráno, ani kde snídal, ani s kým mluvil; v uších měl plno písní, které mu bránily slyšet něco jiného, žil jenom ve chvíli, kdy viděl Cosettu. Bylo docela přirozené, že zapomínal na zemi, žil-li v nebi. Oba s unylou únavou nesli nevýslovnou tíhu nadpozemských rozkoší. Tak žijí náměsíčníci, kterým se říká zamilovaní.
@@ -117,8 +113,6 @@ Marius a Cosetta se neptali, kam to povede; domnívali se, že už došli k c�
 
 ## (3)  
 Počátek stínu
-
-  
 
 Jean Valjean nic netušil.
 
@@ -207,8 +201,6 @@ Znovu umlkla a zůstala stát se sklopenýma očima.
 ## (4)  
 Cab v angličtině jede a v hantýrce štěká
 
-  
-
 Nazítří byl 3. červen roku 1832, den, který je třeba zdůraznit na památku vážných událostí, které v této době visely nad Paříží jako těžké chmury. Za soumraku šel Marius s hlavou v oblacích touž cestou jako včera, když zahlédl mezi stromy bulváru přicházet Eponinu. Dva dny za sebou, to bylo mnoho! Rychle se obrátil, sešel z bulváru, pustil se jinou cestou a zamířil ulicí Monsieur do ulice Plumet.
 
 Nato ho Eponina sledovala až do ulice Plumet, což se ještě nikdy neodvážila. Až dosud jí stačilo, když jej zahlédla cestou na bulváru, ale nesnažila se ho potkat. Jenom včera večer se pokusila s ním promluvit.
@@ -295,8 +287,12 @@ A znova vzala otce okolo krku.
 
 Břichomluvcův hlas skandoval toto dvojverší:
 
+  
+
 _Starý rok novému neuhýbá  
 a už se táta s dcerou líbá._
+
+  
 
 Eponina se otočila k pěti lupičům.
 
@@ -408,10 +404,14 @@ Thénardier se zastavil a mírně řekl:
 
 Potom se posadila na podezdívku mříže a prozpěvovala si:
 
+  
+
 _Mám kyprou náruč,  
 nožku jak strunu,  
 a přec se kupředu  
 naprázdno sunu._
+
+  
 
 Podpírala si loket o koleno, bradu o ruku a lhostejně houpala nohou. Roztrhanými šaty bylo vidět hubené klíční kosti. Nedaleká pouliční svítilna ozařovala její profil i postavu: ztělesněná odhodlanost!
 
@@ -462,8 +462,6 @@ Eponina, která je nespouštěla z očí, viděla, jak jdou, odkud přišli. Vs
 ## (5)  
 Noc
 
-  
-
 Po odchodu lupičů se ulice Plumet znovu ztišila.
 
 Co se v této ulici právě odehrálo, tomu by se les nebyl podivoval. Vysoké stromy, mlází, vřesoviska, křivolace propletené větve, vysoké traviny si zádumčivě žijí ve stínu; plachému hemžení se tam občas před očima mihnou náhlá zjevení neviditelna; tvorové nižší než člověk dovedou rozeznávat i to, co se jen mží a co se vymyká lidské představivosti; věci pro nás, živoucí tvory, nepostřehnutelné se v noci stavějí proti sobě. Zježená a divoká příroda se obává přiblížit tam, kde tuší nadpřirozenost. Síly stínů se znají a jsou navzájem v tajemné rovnováze. Zuby a drápy se děsí nepostižitelného. Krvelačná dravost, žravé a hladové chutě slídící po kořisti, pudy ozbrojené pazoury a čelistmi, jejichž původem i cílem je jen a jen břicho, se tu pátravě rozhlížejí a znepokojeně větří nehmatatelný obrys obcházejícího strašidla v rubáši, které se tyčí ve svém mlžnatém a hrůzném hávu a jež – jak se všemu živoucímu zdá – žije mrtvým a strašným životem. Hrubé síly, které jsou jen hmotou, se bojí střetnout se s nesmírnou temnotou, zhuštěnou v neznámé bytosti. Zastoupí-li truchlivé zjevení cestu divoké zvěři, přimrazí ji rázem na místě. Co vychází z hrobu, zastrašuje a mate to, co vychází z doupěte; divočina má strach z příšerného; vlci couvají, přijde-li jim do cesty upír.
@@ -471,8 +469,6 @@ Co se v této ulici právě odehrálo, tomu by se les nebyl podivoval. Vysoké 
 ## (6)  
 Marius se tak vžívá do skutečnosti,  
 že dává Cosettě adresu
-
-  
 
 Zatímco ta fenka v lidské podobě stála věrně na stráži a šest lupičů vzalo před holkou nohy na ramena, byl Marius u Cosetty.
 
@@ -644,7 +640,11 @@ Marius pokračoval:
 
 Prohledal kapsu, vytáhl z ní nožík a ostřím vryl do omítky zdi:
 
+  
+
 __Ulice Verrerie číslo 16.__
+
+  
 
 Cosetta se mu mezitím znovu zahleděla do očí.
 
@@ -666,8 +666,6 @@ Zatímco Marius opíral hlavu o strom, probleskla mu hlavou myšlenka; myšlenk
 
 ## (7)  
 Staré a mladé srdce proti sobě
-
-  
 
 Starému Gillenormandovi bylo v tu dobu přes jedenadevadesát let. Bydlil stále se slečnou Gillenormandovou v ulici Filles-du-Calvaire číslo 6, ve starém domě, který byl jeho. Patřil, jak si snad vzpomínáte, ke starcům, kteří očekávají smrt docela vzpřímeni, na které se navalí věk, ale neshrbí je, a zármutek je ani trochu neohne.
 

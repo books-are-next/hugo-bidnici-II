@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Rána ještě krvácí, ale zevnitř se hojí_
 
-  
-
 Tak se jejich život ponenáhlu zatemňoval.
 
 Zůstalo jim jen jediné rozptýlení, které kdysi pro ně znamenalo štěstí, roznášet chléb těm, kdo hladověli, a šaty těm, kdo mrzli. Při návštěvách chudých, při nichž Cosetta často doprovázela Jeana Valjeana, nacházeli zbytky své někdejší obapolné sdílnosti; a občas, když byl den plný dobrých skutků, když se jim podařilo pomoci mnoha ubožákům, když mohli obšťastnit a zahřát mnoho malých dětí, se Cosetta i trochu rozveselila. V té době navštívili Jondrettův brloh.
@@ -54,8 +52,6 @@ Jakmile se rána zahojila, vrátil se ke svým samotářským večerním prochá
 
 ## (2)  
 Matka Plutarchová vysvětluje bez rozpaků zázrak
-
-  
 
 Jednou večer malý Gavroche vůbec nic nejedl; vzpomněl si, že ani včera nevečeřel; a to už mu nebylo příjemné. Rozhodl se tedy, že se pokusí sehnat před spaním něco k snědku. Pustil se na toulky po opuštěných místech za Salpêtrière; tam jsou alespoň nějaké vyhlídky; tam, kde není živé duše, se vždycky něco najde. Tak došel až k osadě, kterou pokládal za vesničku Austerlitz.
 

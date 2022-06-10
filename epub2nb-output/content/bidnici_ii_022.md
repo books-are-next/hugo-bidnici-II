@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Pijavý papír všechno vyzvonil_
 
-  
-
 Co jsou křeče města proti bouřím duše? Člověk je ještě hlubší záhada než lid. Jean Valjean byl v této chvíli zmítán strašnou bouří. Všechny propasti se v něm otevřely. Zmítal se jako Paříž na prahu strašné a temné revoluce. Stačilo na to několik hodin. Jeho osud a svědomí se náhle zatáhlo stínem. Jako o Paříži, tak i o něm se mohlo říci: dvě zásady stojí proti sobě. Bílý a černý anděl se chystají k zápasu na mostě nad propastí. Kdo koho svrhne? Kdo zvítězí?
 
 V předvečer onoho dne, 5. června, se Jean Valjean usadil s Cosettou a Toussaintkou v ulici Homme-Armé. Tam ho čekalo rozuzlení.
@@ -55,6 +53,8 @@ V klidné uličce, kam se Jean Valjean uchýlil, se zbavil všeho, co ho posled
 Přecházel dlouhými, volnými kroky po pokoji až do chvíle, kdy jeho pohled dopadl znenadání na něco nezvyklého.
 
 Před sebou v nakloněném zrcadle, které viselo nad kredencí, spatřil čtyři řádky, jež mohl jasně přečíst:
+
+  
 
 _Můj drahý,_
 
@@ -142,8 +142,6 @@ Nastala noc.
 
 ## (2)  
 Gamén, nepřítel světel
-
-  
 
 Jak dlouho takto zůstal? Jaké byly přílivy a odlivy jeho tragického rozjímání? Vzpřímil se? Zůstal skloněn? Ohnul se natolik, že se zlomí? Mohl by se ještě vzchopit a opřít se ve svém svědomí o něco pevného? Snad by na to ani sám nedovedl odpovědět.
 
@@ -282,15 +280,17 @@ Gavroche odešel nebo lépe řečeno odletěl k místu, odkud přišel. S rych
 ## (3)  
 Zatímco Cosetta a Toussaintka spí
 
-  
-
 Jean Valjean se vrátil s Mariovým dopisem.
 
 Po hmatu vyšel po schodech, spokojen tmou jako sova, která drží svou kořist, otevřel dveře a tiše je za sebou zavřel, naslouchal, neuslyší-li nějaký hluk, a zjistil, že Cosetta a Toussaintka podle všeho spí; tři nebo čtyři sirky musel ponořit do láhve s Fumadovým rozžehadlem, než se mu podařilo vykřesat jiskru, tak se mu chvěla ruka; chystal se k činu, který byl krádeží. Konečně rozsvítil svíčku; posadil se ke stolu, rozevřel dopis a četl.
 
 V prudkém pohnutí člověk nečte, nýbrž drtí papír, který drží v ruce, svírá jej jako kořist, mačká jej, zatíná do něho drápy svého hněvu nebo jej tiskne radostí; přeběhne na konec, vrací se zpět; pozornost je schvácena horečkou; člověk chápe v hlavních rysech, v jádru; zachytí smysl, ale ostatní mu uniká. V Mariově listu Cosettě Jean Valjean viděl jenom slova:
 
+  
+
 _„Umírám. Až budeš toto číst, bude má duše u tebe a bude se na tebe usmívat.“_
+
+  
 
 Tato řádka ho nadobro oslepila; chvíli byl jako zdrcen změnou, která se udála v jeho nitru, a díval se na Mariův lístek s jakýmsi opojeným údivem; viděl zář, viděl smrt nenáviděné bytosti. Vnitřní radost ho donutila k strašnému výkřiku: „Tak je to tedy skončeno!“ Rozuzlení přišlo dřív, než se odvážil doufat. Bytost, která se postavila do cesty jeho osudu, zmizela. Odchází sám, dobrovolně a ochotně. „Ten člověk“ umírá, aniž to Jean Valjean zavinil. Snad je už dokonce mrtev. Tu počala jeho horečná mysl uvažovat. „Ne. Ještě není mrtev.“
 
@@ -305,67 +305,101 @@ Asi za hodinu vyšel Jean Valjean z domu v uniformě národního gardisty a v
 ## (4)  
 Gavrochova přílišná horlivost
 
-  
-
 Zatím Gavroche něco potkalo.
 
 Když svědomitě roztřískal svítilnu v ulici Chaume, zabočil do ulice Vieilles-Haudriettes, a protože tam neviděl „ani nohu“, považoval to za skvělou příležitost z plna hrdla si zazpívat. Jeho krok se zpěvem nezmírnil, naopak zrychlil. Podél spících nebo přestrašených domů počal rozsévat tyto paličské popěvky:
+
+  
 
 _Pták v habří nadává a plete:  
 ta zpropadená Atala  
 si něco s Rusem začala._
 
+  
+
 _Kampak, panenky, kampak jdete,  
 la la._
+
+  
 
 _Příteli vrabčíku, ty skřete,  
 vždyť včera na mě rozmilá  
 zaťukala a mámila!_
 
+  
+
 _Kampak, panenky, kampak jdete,  
 la la._
+
+  
 
 _Ty čtveračky jsou milokvěté:  
 z tinktury, jež mne opila,  
 by na mol byl i Orfila[^71]._
 
+  
+
 _Kampak, panenky, kampak jdete,  
 la la._
+
+  
 
 _Mám lásku rád, ať hladí, hněte;  
 popálivši mě, Jarmila  
 sama se o mě spálila._
 
+  
+
 _Kampak, panenky, kampak jdete,  
 la la._
+
+  
 
 _Zuzanka, Zejla v jedné větě.  
 Ta jejich hebká mantila!  
 Má duše se v ni halila._
 
+  
+
 _Kampak, panenky, kampak jdete,  
 la la._
+
+  
 
 _Když Láskou, která ve tmě kvete,  
 je orůžena Pamela,  
 cítím se proklet docela._
 
+  
+
 _Kampak, panenky, kampak jdete,  
 la la._
+
+  
+
+  
 
 _Pryč je mé srdce, nač se přete;  
 Jana je v letu popadla,  
 když hleděla do zrcadla._
 
+  
+
 _Kampak, panenky, kampak jdete,  
 la la._
+
+  
 
 _Hvězdám jsem řekl: „Hleďte, hleďte,  
 tohle je Stella, má milá!  
 To skončila se kadrila.“_
 
+  
+
 _Kampak, panenky, kampak jdete,  
 la la._
+
+  
 
 Gavroche doprovázel zpěv bohatou mimikou. Pohyb je oporou refrénu. Jeho obličej, nevyčerpatelný repertoár škrabošek, se šklebil křečovitěji a fantastičtěji než děravé prádlo v prudkém větru. Velká škoda, že byl na ulici sám a bylo tma. Po publiku nebylo ani vidu, ani slechu. Někdy bohatství nadání jde do prázdna.
 
@@ -393,7 +427,11 @@ Gavroche, ustavičně hotov čelit všemu nepředvídanému, nosil všechno při
 
 Napsal:
 
+  
+
 _Republika francouzská stvrzuje příjem tvého vozíku._
+
+  
 
 A podepsal se: _Gavroche._
 
@@ -469,33 +507,51 @@ A jak tak utíkal, povídal si v duchu:
 
 Pustil se do zpěvu, ztráceje se rychle v ulicích. Ve tmě pomalu zanikal zpěv:
 
+  
+
 _Je tolik Bastil, kdo je smete?  
 Už abys v ten svět do lila  
 krev čerstvou, chaso, nalila!_
 
+  
+
 _Kampak, panenky, kampak jdete,  
 la la._
+
+  
 
 _Hrát v kuželky chceš, nový světe?  
 Ta velká, jak se svalila,  
 hned stařina se sbalila._
 
+  
+
 _Kampak, panenky, kampak jdete,  
 la la._
+
+  
 
 _A berlami ať roztlučete  
 ten Louvre, kde tak bubřela  
 ta samovláda zpuchřelá!_
 
+  
+
 _Kampak, panenky, kampak jdete,  
 la la._
+
+  
 
 _Prolomili jsme mříže kleté:  
 „Hodina tvoje odbila.“  
 Král Karel zbledl do bíla._
 
+  
+
 _Kampak, panenky, kampak jdete,  
 la la._
+
+  
 
 Na strážnici se hlídka přece nechopila nadarmo zbraní. Dobyla vozík a zajala opilce. Kára byla uložena do kůlny; opilec byl dokonce pohnán před vojenský soud jako spoluviník. Při této příležitosti podalo tehdejší státní návladnictví důkaz, jak neúmorně a horlivě ochraňuje veřejnost.
 

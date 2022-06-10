@@ -21,8 +21,8 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0 MLP-text-bez1radku--I---12-12",
-      "brAfter": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "",
       "figure": "MLP-obrazky",
       "em": "MLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b MLP-dopis--I MLP-dopis-podpis--I MLP-titulka-prekladatel MLP-uroven3-nadpis-ii MLP-text--I---0-12 MLP-text--I---12-0 MLP-text--I---12-12 MLP-text-bez1radku--I---12-12",
@@ -774,6 +774,6 @@
       "user": "books-are-next",
       "repo": "hugo-bidnici-II"
     },
-    "generatedAt": 1652351540869
+    "generatedAt": 1654870376726
   }
 }

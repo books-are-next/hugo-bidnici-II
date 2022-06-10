@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Opět uvidíme strom se zinkovou náplastí_
 
-  
-
 Nějaký čas po událostech, o kterých jsme právě vypravovali, se pan Boulatruelle silně rozčilil.
 
 Pan Boulatruelle je cestář z Montfermeil, kterého jsme už zahlédli v pochmurných kapitolách této knihy.
@@ -78,8 +76,6 @@ Jáma byla prázdná.
 Marius se vrátil z občanské války  
 a připravuje se na válku domácí
 
-  
-
 Marius se dlouho potácel mezi životem a smrtí. Po několik týdnů měl horečky a blouznil. Na pováženou byly příznaky, vyvolané spíše otřesem mozku než jeho poraněním.
 
 Po celé noci opakoval v žalostné mnohomluvnosti horečky, jako by se loučil se životem, Cosettino jméno. Rozměrnost některých ran byla vážným nebezpečím, protože široce zející rány mohou snadno zhnisat a přivodit smrt, přidruží-li se vnější vlivy; při každé změně počasí, při každé sebemenší bouřce se lékař znepokojil. „Jen aby se poraněný nerozčilil,“ říkával. Obvazování ran bylo složité a nesnadné, protože upevňování obvazů náplastmi nebylo tehdy ještě známé. Nicoletta spotřebovala na cupaninu prostěradlo „jako hrom veliké“, jak říkala. Jen stěží zastavili gangrénu chlórovými roztoky a dusičnanem stříbrným. Dokud hrozilo nebezpečí, seděl pan Gillenormand celý vystrašený u vnukovy hlavy a byl jako Marius: ani mrtvý, ani živý.
@@ -96,20 +92,28 @@ Pan Gillenormand se potácel mezi úzkostí a nadějí. Marně vymlouvali star�
 
 Toho dne, kdy lékař oznámil, že Marius je mimo nebezpečí, byl staroch u vytržení. Domovníkovi dal tři zlaťáky. Když večer odcházel do svého pokoje, tančil gavotu, a napodobuje palcem a ukazováčkem kastaněty, zpíval si samou radostí tuto písničku:
 
+  
+
 _Je z kraje luk a lodí,  
 kde pastýřky se rodí,  
 po větru suknička,  
 Anička._
+
+  
 
 _Tys, Amore, v ní doma;  
 z ní raníš, trampoto má,  
 skryt v její panence,  
 mládence!_
 
+  
+
 _Zpívám si o své Anně  
 raděj než o Dianě,  
 o tuhém prsíčku  
 písničku._
+
+  
 
 Potom poklekl na židli a Bask, který ho pozoroval pootevřenými dveřmi, byl pevně přesvědčen, že se modlí.
 
@@ -147,8 +151,6 @@ Ten okamžik přišel.
 
 ## (3)  
 Marius útočí
-
-  
 
 Jednoho dne se pan Gillenormand skláněl nad Mariem, zatímco jeho dcera rovnala lahvičky a šálky na mramorové desce prádelníku, a hovořil k němu, jak dovedl nejněžněji:
 
@@ -215,8 +217,6 @@ Pan Gillenormand se dostal svou vlastní větou do úzkých a nebyl schopen pok
 ## (4)  
 Slečně Gillenormandové se nakonec nezdá špatné,  
 že pan Fauchelevent přišel s čímsi pod paží
-
-  
 
 Cosetta a Marius se opět spatřili.
 
@@ -290,9 +290,13 @@ Potom se obrátil ke Cosettě:
 
 Dědeček se otočil na svých devadesátiletých patách a opět se rozpovídal jako stroj, který spustí:
 
+  
+
 _„Máš pravdu, Alkippe, když z hlavy pustíš snění,_
 
 _vždyť dobrá ženitba též není k zahození._[^104]
+
+  
 
 Abych nezapomněl!“
 
@@ -343,8 +347,6 @@ Marius a Cosetta se dívali po celou tu dobu na sebe; sotva si té maličkosti 
 ## (5)  
 Uložte své peníze raději v lese než u notáře
 
-  
-
 Jistě každý pochopil, aniž je to třeba obšírně vykládat, že Jean Val­jean mohl při svém prvním útěku po přelíčení s Champmathieuem zajet do Paříže a včas si vyzvednout u Laffitta částku, kterou vydělal pod jménem pan Madeleine v Montreuil-sur-Mer, a že ze strachu před zatčením, k němuž skutečně po krátké době došlo, ukryl a zakopal tu částku v montfermeilském lese na místě řečeném Blaruská mýtina. Částka šest set tisíc franků, vesměs v bankovkách, měla malý objem a vešla se do skřínky; aby však ochránil skřínku před vlhkostí, vložil ji do dubové bedničky vyplněné kaštanovými hoblinami. Do téže bedničky vložil i svůj drahý poklad, biskupovy svícny. Pamatujeme se, že tyto svícny odnesl při útěku z Montreuil-sur-Mer. Muž, kterého Boulatruelle viděl jednou večer poprvé, byl Jean Valjean. Později, kdykoliv Jean Valjean potřeboval peníze, chodil pro ně na Blaruskou paseku. Proto se někdy vzdaloval z domova, o tom jsme už mluvili. Ve vřesovišti měl ve skrýši, která byla známa jen jemu, rýč. Když viděl, že se Marius uzdravuje, cítil, že se blíží hodina, kdy ty peníze mohou být užitečné, a došel si pro ně; a zase to byl on, jehož Boulatruelle viděl v lese, tentokráte však ráno místo večer. Boulatruelle zdědil rýč.
 
 Skutečná částka činila pět set čtyřiaosmdesát tisíc pět set franků. Jean Valjean si nechal pět set franků pro sebe. „Uvidíme, co bude,“ pomyslil si.
@@ -358,8 +360,6 @@ Ostatně Jean Valjean věděl, že byl zbaven Javerta. Slyšel o tom a přesv�
 ## (6)  
 Dva starci dělají každý svým způsobem všechno,  
 jen aby Cosetta byla šťastná
-
-  
 
 Všechno se připravovalo k svatbě. Lékař, s nímž se radili, prohlásil, že se může konat v únoru. Byl prosinec. Uběhlo několik rozkošných týdnů dokonalé pohody.
 
@@ -407,12 +407,16 @@ Pan Gillenormand tlachal hlavně o svatbě a do jeho chvalozpěvů se připlet
 
 „Neumíte pořádat slavnosti. Dnes už nedovedete uspořádat veselý den,“ volal. „Vaše devatenácté století zplihlo. Nezná výstřednosti. Neví, co je nádherné, neví, co je vznešené. Ve všem je ostříhané dohola. Váš třetí stav je bez chuti, bez barvy, bez zápachu a bez tvaru. Vaše měštky touží jen po tom, aby měly čerstvě vyčalouněný budoárek: palisandr a kaliko. Z cesty, z cesty! Pan Vydřiduch si bere slečnu Držgrešli. Přepych a lesk! Svíčka se objímá s louisdorem. Taková je doba. Chtěl bych utéci na konec světa. Ach, od roku 1787 jsem předpovídal, že je všechno ztraceno, když jsem viděl vévodu Rohana, knížete léonského, vévodu Chabota, vévodu montbazonského, markýze Soubise a vikomta Thouarse, francouzského paira, v jaké rachotině jedou do Longchamos! Přineslo to ovoce. V tomto století se dělají obchody, hraje se na burze, vydělávají se peníze a mamoní se. Lidé pěstují a vyšňořují svůj zevnějšek; každý je naškrobený, umytý, vymydlený, vydrhnutý, vyholený, načesaný, navoskovaný, uhlazený, natřený, vykartáčovaný a vydrhnutý, bezvadný, hladký jako oblázek, slušný, čisťounký a přitom, u všech všudy, má ve svém svědomí hnůj a stoku, před nimiž by utekla děvečka od krav, která smrká do ruky. Dávám dnešní době heslo: Špinavá čistota! Marie, nezlob se, dovol mi mluvit, neříkám nic špatného o lidu, vidíš, mám ústa plná chvály tvého lidu, ale shledávám, že je správné trochu spráskat buržoazii. Tak je to se mnou. Kdo má rád, ten trestá. Proto říkám, že se dnes lidé žení, ale ženit se neumějí. Ach, věru, stýská se mi po roztomilých starých mravech. Všechno je totam! Elegance, kavalírství, dvorné a půvabné způsoby, radostný přepych, jeho: si každý dopřával, hudba, která byla součástí svatby, symfonie ve vyšších vrstvách, bubnování v nižších, tance, veselé tváře za stolem, vtipné madrigaly, písně, ohňostroje, upřímný smích, u všech čertů a ďáblů, i ty opentlené dívky jsou pryč! Postrádám nevěstin podvazek. Nevěstin podvazek je bratranec Venušina pásu. Kolem čeho se strhla trojská válka? Parbleu, kolem Helenina podvazku. Proč se lidé bijí, proč božský Diomédes rozbil na Mérionově hlavě velkou přilbu s deseti hroty, proč se Achilleus a Hektór zmalovávali ranami kopí? Protože Helena dovolila Paridovi, aby jí vzal podvazek. Na Cosettin podvazek by Homér složil Iliadu. Vypravoval by ve své básni o starém žvanilovi, jako jsem já, a říkal by mu Nestor. Kdysi, přátelé, za těch roztomilých časů, se lidé ženili znalecky; nejdříve řádná smlouva, potom pěkná bašta. Jakmile odejde Cujas, nastoupí Gamache[^105]! Panečku! Žaludek je milé zvířátko, ale chce si přijít na své. Hodovávalo se jak se patří a u stolu jste měli hezkou sousedku bez šátečku na krku, a ten stejně zakrýval ňadra jen malounko! Á, to byl bujný smích, a jak jsme bývali tehdy veselí! Mládež, to byla kytice; každý mladý muž byl ozdoben bezem nebo růžemi; i voják si dovedl hrát na pastýře; a byl-li náhodou kapitánem u dragounů, narafičil to tak, aby se jmenoval Florián. Záleželo jim na tom, aby byli hezcí. Zdobili se vyšíváním a navlékali se do purpuru. Měšťan vypadal jako kytka, markýz jako drahokam. Neměli štruple u kalhot a nenosili ošklivé boty. Každý byl vyfintěný, ulízaný, vyleštěný, brunátný; poletoval hezoučký a koketní; to mu nevadilo, aby měl kord po boku. Kolibřík má zobák i drápky. Byla to doba výpravných scén a baletní hudby. Století bylo na jedné straně zjemnělé, na druhé nádherné; a namouduši, lidé se nenudili. Dnes jsou lidé usedlí. Měšťan je lakomý, měštka upejpavá; vaše století je nešťastné. Lidé by nejraději vyhnali Grácie, protože nosí příliš velký výstřih. Krásu skrýváme, bohužel, jako nějakou ohyzdnost. Od revoluce všechno nosí dlouhé kalhoty, i tanečnice; baletka musí být vážná; vaše tance jsou doktrinářské. Člověk musí být vznešený. Velice by ho mrzelo, kdyby neměl bradu zastrčenou do nákrčníku. Ideálem dvacetiletého holobrádka, který se žení, je, aby se podobal panu Royer-Collardovi[^106]. A víte, kam se dojde s tou vznešeností? K malosti. Pamatujte si: radost není jen radostná; je vznešená. Buďte tedy zamilováni vesele, u všech rohatých! Žeňte se, a když se už ženíte, tak se žeňte s horečkou, zpitomělí povykem a zmatkem štěstí! V kostele vážnost, budiž. Jakmile však je po obřadech, tisíc láter, ať je nevěsta jako ve snách. Svatba musí být královská a plná fantazie; svatební průvod musí vést od remešské katedrály až k chanteloupské pagodě. Mám hrůzu před hloupou svatbou. U všech všudy! Aspoň toho dne buďte na Olympu! Buďte bohy! Lidé by mohli být vílami, božstvy hry a smíchu, štítonoši se stříbrným brněním; a zatím jsou to tupci. Přátelé, každý novomanžel by měl být knížetem Aldobrandinim. Užijte této jedinečné chvíle, abyste s labutěmi a s orly zaletěli do nebe, připraveni na to, že zítra opět spadnete do měšťácké žabárny. Nešetřte na sňatku, nepřipravujte jej o lesk; neskrblete toho dne, kdy záříte. Svatba není šetření. Kdybych to mohl udělat podle své fantazie, bylo by to půvabné; na stromech by bylo slyšet housle. Mým programem je blankyt a stříbro. Pozval bych na slavnost venkovská božstva a svolal bych dryády a nereidy. Amfitritina svatba, růžový oblak, nymfy pěkně učesané a docela nahé, akademik obětující bohyni svou báseň, vůz tažený mořskými obludami.
 
+  
+
 _Na svou mušli troubí Tritón,  
 ten ušlý chce být při tom.  
 Na ulitu Tritón hude,  
 není-li tu, je to chudé.  
 Hrej, Tritone, na svou mušli;  
 v blahu tone hned i ušlý._
+
+  
 
 To je program slavnosti, jak se sluší a patří, nebo tomu vůbec nerozumím, hrom do toho!“
 
@@ -432,8 +436,6 @@ Knihovna pana Gillenormanda se stala advokátní kanceláří, kterou Marius nut
 
 ## (7)  
 Do štěstí se mísí důsledky snu
-
-  
 
 Milenci se vídali denně. Cosetta přicházela s panem Faucheleventem. „Všechno je dnes naruby,“ říkala slečna Gillenormandová, „snoubenka si chodí k snoubenci pro dvoření.“ Ale za Mariovy rekonvalescence se to stalo zvykem, který pak upevnily lenošky v ulici Filles-du-Calvaire, protože se pro důvěrné hovory hodily lépe než slaměné židle v ulici Homme-Armé. Marius a pan Fauchelevent se vídali, ale nemluvili spolu. Zdálo se, že to tak spolu ujednali. Sluší se, aby každá dívka měla gardedámu. Cosetta by byla nemohla přijít bez pana Faucheleventa. Pro Maria pak byl pan Fauchelevent Cosettinou podmínkou. Přijímal ji. Když se hovor nejasně a neurčitě stočil na politické věci týkající se všeobecného zlepšení osudu všech, dovedli si říci něco víc než ano nebo ne. Když se jednou mluvilo o vyučování, které podle Maria mělo být bezplatné a povinné, zahrnující všechny obory a hojnou měrou poskytované všem stejně jako vzduch a slunce, zkrátka přístupné celému národu, byli stejného názoru a takřka se rozhovořili. Marius při té příležitosti zpozoroval, že pan Fauchelevent mluví pěkně, a dokonce vytříbeně. Přesto však se mu čehosi nedostávalo. Pan Fauchelevent měl o něco méně i o něco víc než muž velkého světa.
 
@@ -463,8 +465,6 @@ Odpověď, která se týkala jména ulice, a ne ulice samotné, zdála se Mario
 
 ## (8)  
 Dva muži, kteří nejsou k nalezení
-
-  
 
 Ať byl Marius sebeokouzlenější, přece nezapomínal na své povinnosti.
 

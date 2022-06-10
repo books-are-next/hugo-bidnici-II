@@ -7,8 +7,6 @@ contentType: prose
 Charybda předměstí Saint-Antoine  
 a Scylla předměstí Temple_
 
-  
-
 Obě nejpamátnější barikády, o nichž by se mohl zmínit pozorovatel sociálních chorob, nepatří vůbec do období, do něhož je umístěn děj této knihy. Ty dvě barikády, obě jako symboly – z dvojího různého hlediska – hrozné situace, vyrostly ze země za osudného povstání v červnu roku 1848, za největších pouličních bojů, jaké dějiny viděly.
 
 Někdy se stane, že chátra, ta velká nešťastnice, se ohrazuje dokonce i proti zásadám, proti volnosti, rovnosti a bratrství, i proti všeobecnému hlasovacímu právu, proti vládě všech vykonávané všemi; ohrazuje se z hloubi svých úzkostí, malomyslností, běd, horeček, soužení, odporných výparů, z hloubi nevědomosti, temnot, a stává se, že lůza svádí bitvu s lidem.
@@ -70,8 +68,6 @@ Později, osudná věc, Barthélémy zabil Courneta v Londýně, kam se oba psa
 ## (2)  
 Co si počít v propasti, ne-li rozprávět
 
-  
-
 Šestnáct let už něco znamená v podzemní výchově lidu ke vzpouře a červen 1848 věděl již mnohem víc než červen 1832. Také barikáda v ulici Chanvrerie byla jen ukázkou a zárodkem ve srovnání s oběma obrovskými barikádami, které jsme právě popsali; ale na svou dobu byla hrozná.
 
 Povstalci využili noci pod dozorem Enjolrasovým, protože si Marius ničeho nevšímal. Barikádu nejen opravili, ale i zvýšili. Pozvedli ji o dvě stopy. Železné tyče zaražené do dlažby se podobaly vztyčeným kopím. Změť odevšad sehnaných sutin utěsňovala val. Hradba byla uvnitř dovedně upravena ve stěnu a zvenčí přeměněna v houští.
@@ -84,7 +80,11 @@ Mrtvé uložili na hromadu v uličce Mondétour, která byla ještě v jejich 
 
 Doporučil dvě hodiny spánku. Rada Enjolrasova byla rozkazem. A přece jen tři nebo čtyři jí poslechli. Feuilly použil těch dvou hodin k tomu, aby vyškrábal do zdi proti hostinci tento nápis:
 
+  
+
 AŤ ŽIJÍ NÁRODOVÉ!
+
+  
 
 Tato tři slova, vrytá hřebíkem do kamene, byla na zdi čitelná ještě v roce 1848.
 
@@ -141,8 +141,6 @@ Bossuet, který se octl nad mluvčími, třímaje karabinu vykřikl z výšky h
 ## (3)  
 Vyjasnění a zatemnění
 
-  
-
 Enjolras se vydal na obhlídku. Vyšel uličkou Mondétour a plížil se kolem domů.
 
 Prozraďme, že povstalci byli plni naděje. Způsob, jak odrazili noční útok, je téměř nutil už předem pohrdat útokem na úsvitě. Očekávali jej s úsměvem. Nepochybovali méně o svém úspěchu než o svém právu. Ostatně jim zřejmě přijde co nevidět pomoc. Počítali s ní. S lehkostí věštící vítězství, která je jednou ze sil bojujícího Francouze, rozdělovali nastávající den na tři zaručená období: v šest hodin ráno k nim přeběhne pluk, který „zpracovávali“; v poledne povstane celá Paříž; při západu slunce vypukne revoluce.
@@ -173,8 +171,6 @@ Jak vidíme, obě barikády navzájem souvisely, ačkoliv byly ve skutečnosti o
 
 ## (4)  
 O pět méně, o jednoho více
-
-  
 
 Když neznámý muž, který razil heslo „protestovat mrtvolami“, domluvil, vyjádřiv slovy společné cítění, ozval se ze všech úst podivně uspokojený a strašlivý výkřik, smutný významem a vítězný přízvukem:
 
@@ -321,8 +317,6 @@ Aniž odpověděl, pomáhal Jean Valjean povstalci, kterého zachránil, oblékn
 ## (5)  
 Jaké obzory se otvírají z výšin barikády
 
-  
-
 Všeobecná situace v této osudné chvíli a na tomto neúprosném místě dovršovala ještě Enjolrasovu hluboce melancholickou náladu.
 
 Enjolras byl revolucí prosycen; a přece mu cosi chybělo, pokud vůbec může absolutnu něco chybět. Podobal se příliš Saint-Justovi a ne dost Anacharsisu Clootzovi[^80]; ale ve spolku Přátel abecedy podlehl jeho duch přitažlivému působení Combeferrovu; nějakou dobu již upouštěl od těsných hranic dogmatu a poddával se volnosti pokroku, docházeje až tak daleko, že ji přijímal jako konečný a vznešený vývoj, jako proměnu veliké francouzské republiky v ohromnou republiku všeho lidstva. Pokud šlo o cesty vedoucí k tomuto cíli, připouštěl, aby byly násilné, jak to vyplývalo z násilné situace, ve které se octli; v té věci svůj názor neměnil; a zůstal věren hrdinné a strašné škole vystižené slovy „devadesát tři“.
@@ -339,8 +333,6 @@ Enjolras se spíše přerušil než odmlčel, jeho rty se tiše pohybovaly, jako
 
 ## (6)  
 Duchem nepřítomný Marius, stručný Javert
-
-  
 
 Řekněme, co se odehrávalo v Mariově mysli.
 
@@ -388,8 +380,6 @@ Zatímco svazovali Javerta, prohlížel si ho s podivným zájmem muž, který 
 
 ## (7)  
 Postavení se horší
-
-  
 
 Rychle se rozednívalo. Ale ani jedno okno se nerozletělo, jediné dveře se neotevřely, bylo už ráno, ale nikdo se neprobouzel. Opačný konec ulice Chanvrerie, vedoucí k barikádě, byl, jak jsme už řekli, vojenskými oddíly vyklizen; ulice se zdála volná a s příšerným klidem se otvírala očím chodců. Ulice Saint-Denis byla němá jako alej sfing v Thébách. Živá duše nebyla na křižovatkách, které zbělely odleskem slunce. Není nic truchlivějšího než jas vylidněných ulic.
 
@@ -463,8 +453,6 @@ Gavrochův příchod způsobil na barikádě větší rozruch než dělová koul
 
 ## (8)  
 Dělostřelci se vážně zakousli
-
-  
 
 Obstoupili Gavroche.
 
@@ -550,8 +538,6 @@ Musili ho odnést a nahradit ho. Získalo se tím ve skutečnosti několik minu
 Jak bylo použito starého pytláckého nadání a neselhávající rány, která roku 1796  
 přitížila odsouzenci
 
-  
-
 Na barikádě se křížily názory. Čekali, že co nevidět začne dělo znovu. Kartáčovým nábojům by neodolali ani čtvrt hodiny. Bylo třeba zmírnit účinek ran.
 
 Enjolras stroze rozkázal:
@@ -603,8 +589,6 @@ Bossuet se obdivoval i posmíval. Zvolal:
 ## (10)  
 Svítání
 
-  
-
 V této chvíli se Cosetta probouzela.
 
 Její pokojík byl těsný, čistý, skromný, s vysokým oknem obráceným k východu, které vedlo do zadního dvora.
@@ -645,8 +629,6 @@ Několik stop pod Cosettiným oknem, ve staré začernalé římse bylo hnízdo 
 Rána z pušky, která všechno zasáhne,  
 ale nikdy nezabíjí
 
-  
-
 Střelba útočníků pokračovala. Palba z pušek se střídala se střelbou kartáčů, aniž po pravdě nějak závažněji uškodila. Odnášela to jen horní část průčelí Korintu; okno v prvním poschodí a střešní mansardy poseté kulemi a kartáči se pomalu hroutily. Bojovníci se z ohroženého místa musili vytratit. Taková je taktika útoků na barikády: dlouho střílet, aby povstalci vyčerpali zásoby střeliva – dopouštějí-li se té chyby, že střelbu opětují. Když střelba začíná slábnout, znamená to, že docházejí kulky i prach, a dá se tedy rozkaz k útoku. Enjolras se však nedal nachytat; barikáda vůbec neodpovídala.
 
 Při každém výstřelu čety vyboulil Gavroche jazykem tvář na znamení nejvyššího opovržení.
@@ -673,8 +655,6 @@ Jean Valjean neodpověděl.
 
 ## (12)  
 Nepořádek, stoupenec pořádku
-
-  
 
 Bossuet zašeptal Combeferrovi do ucha: „Neodpověděl na mou otázku.“
 
@@ -705,8 +685,6 @@ Enjolras mluvil jako pravý povstalec vedoucí vzpouru. Vzpoura a její potlač
 ## (13)  
 Pomíjející záblesky
 
-  
-
 Ve směsici citů a vášní, které brání barikádu, je všechno možné; je tu srdnatost, je tu mládí, jde tu o čest, je tu nadšení, touha po svrchované dokonalosti, přesvědčení, hráčská vášeň a zejména střídavá naděje.
 
 Takové střídavé štěstí – nejasné chvění naděje – se náhle mihlo v nejneočekávanější chvíli na barikádě Chanvrerie.
@@ -733,8 +711,6 @@ Enjolras, stále opřený o své cimbuří, kývl hlavou, aniž pustil konec ul
 
 ## (14)  
 Kde se dočteme jméno Enjolrasovy milenky
-
-  
 
 Courfeyrac seděl na dlažebním kameni vedle Enjolrase a neustával urážet dělo. Kdykoliv s obrovským hlukem zasvištěla prška nábojů, která se jmenuje kartáč, přivítal ji výbuchy úštěpků.
 
@@ -788,8 +764,6 @@ Zdá se, že Gavroche ta slova zaslechl.
 
 ## (15)  
 Gavroche venku
-
-  
 
 Courfeyrac náhle někoho zpozoroval v dešti kulek na vnější straně barikády.
 
@@ -849,24 +823,36 @@ Gavroche se rozhlédl a spatřil, že rány pocházejí od národní gardy měs
 
 Vztyčil se a zůstal stát; a s vlasy ve větru, rukama opřenýma o boky a s očima upřenýma na střílející národní gardisty zanotoval:
 
+  
+
 _V Nanterre se špatně líbá,  
 toť Voltairova chyba,  
 v Savojsku ještě hůře,  
 za to zas Rousseau může._
 
+  
+
 Potom sebral svůj košík, naházel zpět všechny náboje, které se z něho vysypaly, vykročil proti střelbě a vyprázdnil další nábojnici. Tam ho minula čtvrtá kulka. Gavroche zpíval:
+
+  
 
 _Jsem nicka, pročpak? I ba,  
 toť Voltairova chyba,  
 jen veselá jsem kůže,  
 za to zas Rousseau může._
 
+  
+
 Páté kulce se podařilo jen tolik, že z něho vykřísla třetí sloku:
+
+  
 
 _Jsem rád jak v moři ryba,  
 toť Voltairova chyba  
 a bída je má růže,  
 za to zas Rousseau může._
+
+  
 
 Tak to šlo nějakou chvíli.
 
@@ -876,17 +862,19 @@ Povstalci úzkostí ani nedýchali a sledovali ho s obavou. Barikáda se chvě
 
 Ale jedna kulka, lépe mířená nebo zrádnější než ostatní, konečně dítě bludičku zasáhla. Povstalci viděli, jak Gavroche zavrávoral a pak se svezl na zem. Celá barikáda vykřikla; ale v tom malém trpaslíkovi byl velikán; dotknout se dlažby znamená pro gaména zrovna tolik, jako když se obr dotkne země; Gavroche upadl, ale znovu se napřímil; zůstal sedět a dlouhý pramínek krve mu stékal po obličeji; zvedl obě ruce, podíval se, odkud přišla rána, a dal se opět do zpěvu:
 
+  
+
 _Pad jsem, už ani slova,  
 toť chyba Voltairova –  
 pad tváří do kaluže,  
 za to zas Rousseau…_
 
+  
+
 Nedokončil. Druhá kulka téhož střelce mu vyrazila dech. Tentokrát padl tváří na dlažbu a už se nepohnul. Vznešená dušička právě odlétla.
 
 ## (16)  
 Jak se z bratra stává otec
-
-  
 
 V tu chvíli byli v Lucemburské zahradě – oko dramatu musí být všudypřítomné – dva haranti, kteří se drželi za ruce. Jednomu bylo asi sedm, druhému pět let. Protože promokli, šli po slunečné straně stromořadí; starší vedl mladšího; byli v cárech a bledí; vypadali jako vyplašení ptáci. Menší říkal:
 
@@ -1043,8 +1031,6 @@ Jakmile zmizeli z dohledu, starší chlapec se rychle položil břichem na zaob
 ## (17)  
 „Mortuus pater filium moriturum expectat“[^87]
 
-  
-
 Marius se vyřítil z barikády. Combeferre vyběhl za ním. Bylo však už pozdě. Gavroche byl mrtev. Combeferre přinesl za barikádu košík nábojů. Marius donesl dítě.
 
 Bohužel! Myslil si, že oplácí synovi, co Gavrochův otec vykonal pro jeho otce; jenomže Thénardier donesl jeho otce živého; kdežto on přináší dítě mrtvé.
@@ -1077,8 +1063,6 @@ Combeferre opásaný zástěrou obvazoval raněné; Bossuet a Feuilly vyráběl
 
 ## (18)  
 Sup, který se stal kořistí
-
-  
 
 Pozastavme se nad psychologickým zjevem, příznačným pro boj na barikádách. Nic svérázného na takové úžasné uliční válce nesmíme vynechat.
 
@@ -1211,8 +1195,6 @@ Povstalci se řítili ve shluku ven a na jejich hřbety – budiž nám ten v�
 ## (19)  
 Jean Valjean se mstí
 
-  
-
 Když Jean Valjean s Javertem osaměl, rozvázal provaz, kterým byl zajatec připoután v polovině těla a jehož uzel byl pod stolem. Pak mu dal znamení, aby se zvedl. Javert poslechl s nepopsatelným úsměvem, v němž se soustředila převaha spoutané moci.
 
 Jean Valjean uchopil Javerta za provaz u krku tak, jako se vodí soumar za ohlávku, a vleka ho za sebou, vyšel pomalu z krčmy, protože Javert spoutaný na nohou mohl dělat jen malé krůčky.
@@ -1311,8 +1293,6 @@ Ponuré zamrazení prostoupilo Mariovo srdce.
 
 ## (20)  
 Mrtví mají pravdu a živí nemají nepravdu
-
-  
 
 Začínal smrtelný zápas barikády.
 
@@ -1415,8 +1395,6 @@ Kniha, kterou má v tuto chvíli čtenář před očima, je od začátku až do
 ## (21)  
 Hrdinové
 
-  
-
 Náhle zavířil buben a dal povel k útoku.
 
 Útok se přihnal jako uragán. Ve tmě minulého večera se vojáci připlížili k barikádě tiše jako hroznýš. Teď za bílého dne bylo překvapení v otevřené ulici vyloučeno, ostatně násilí odhodilo škrabošku, dělo se rozeřvalo a vojsko se vyřítilo na barikádu. Zuřivost se proměnila ve hbitost. Mohutná kolona řadových pěšáků, ve které v pravidelných odstupech postupovala i národní garda a městská pěší garda podepřená houfy, které nebylo vidět, ale slyšet, vřítila se poklusem do ulice za víření bubnů a hlaholu polnice, s nasazenými bodáky, se zákopníky v čele, a neochvějná pod přívaly střel mířila přímo na hradbu jako železný beran.
@@ -1472,8 +1450,6 @@ Homér praví: „Diomédes zabíjí Axyla, syna Teuthrantova, který obýval š
 ## (22)  
 Krok za krokem
 
-  
-
 Když na obou koncích barikády zbyli z velitelů naživu jen Enjolras a Marius, povolil střed, který tak dlouho hájili Courfeyrac, Joly, Bossuet, Feuilly a Combeferre. Dělo sice neprolomilo schůdný průchod, ale vykrojilo dost široce střed hradby; vršek zmizel pod kulemi, zhroutil se a sutiny se valily dovnitř i ven a utvořily posléze na obou stranách přehrady dva svahy, jeden uvnitř a druhý venku. Zevní svah vyzýval k přístupu svou nakloněnou rovinou.
 
 Vojáci podnikli poslední pokus o útok a ten se zdařil. Pružným krokem se neodvolatelně přihnal naježený dav bodáků a semknuté bitevní čelo útočné kolony se objevilo v kouři na vrcholu srázu. Tentokrát byl konec. Skupina povstalců, která bránila střed, zmateně ustoupila.
@@ -1518,8 +1494,6 @@ Bylo to nestvůrně hrdinství.
 
 ## (23)  
 Hladový Orestes a opilý Pylades
-
-  
 
 Do sálu v prvním poschodí konečně vrazilo asi dvacet obléhatelů, vojáci, národní gardisté i členové městské stráže v jedné směsici, většinou znetvořeni ranami v obličeji, které obdrželi při tom strašlivém výstupu, oslepeni krví, zuřiví a zdivočelí; vnikli tam, vysazujíce se navzájem, lezli po kostře schodů, škrábali se po zdi, věšeli se na strop a na samém kraji propadliště zabíjeli poslední muže, kteří kladli odpor. V sále stál už jen jediný muž, Enjolras. Bez nábojů, bez kordu; držel v ruce hlaveň karabiny, jejíž pažbu rozbil o hlavy vstupujících. Mezi sebe a útočníky postavil kulečník, couvl do rohu sálu a tam s hrdým okem a vztyčenou hlavou, s pahýlem zbraně v ruce, stál ještě dost hrozivě, aby se kolem něho utvořil prázdný prostor. Kdosi vykřikl:
 
@@ -1597,8 +1571,6 @@ Vojsko začalo prohledávat okolní domy a pronásledovalo uprchlíky.
 
 ## (24)  
 Zajatec
-
-  
 
 Marius byl opravdu zajatcem. Zajatcem Jeana Valjeana.
 

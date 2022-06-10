@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Několik vysvětlivek ke Gavrochově poezii. Akademikův vliv na tuto poezii_
 
-  
-
 Lid vzplanul ve chvíli, kdy před Arzenálem narazil na vojsko. Přední řady začaly couvat a tarasily cestu masám, které se valily za pohřebním vozem a tlačily – abychom tak řekli – váhou přeplněných bulvárů na čelo průvodu. Nastal strašný ústup. Dav se rozvlnil, řady se rozlomily, lidé se rozběhli, rozprchli všemi směry a hledali spásu v útěku, jedni s bojovným pokřikem, druzí zbledlí strachem. Moře lidí, které zaplavilo bulváry, se v mžiku rozdělilo vpravo i vlevo, vystoupilo ze břehů a rozlilo se do dvou set ulic najednou, jako by se náhle otevřela stavidla. V této chvíli jakýsi otrhaný chlapec, který běžel ulicí Ménilmontant a v ruce držel kvetoucí větev čilimníku, právě utrženou na výšinách Belleville, si všiml mezi věcmi, vyloženými před krámkem vetešnice, staré sedelní bambitky. Odhodil kvetoucí větev na dlažbu a zvolal:
 
 „Matko Tentononc, tohleto si vypůjčím.“
@@ -16,6 +14,8 @@ A s bambitkou utekl.
 
 Za dvě minuty potkal proud poděšených měšťáků, prchající ulicí Amelot a ulicí Basse, chlapce, který mával bambitkou a zpíval:
 
+  
+
 _V noci zřít není co,  
 leč ve dne ledaco,  
 nad podvrženým písmem  
@@ -23,6 +23,8 @@ se hrozí buržuj stísněn,
 dbej ctnosti, ty a ta,  
 tyata  
 ty čáko šišatá!_
+
+  
 
 To malý Gavroche táhl do boje.
 
@@ -48,8 +50,6 @@ O něco dále viděl skupinu blahobytně vypadajících lidí, které považova
 
 ## (2)  
 Gavroche na pochodu
-
-  
 
 Mávat bambitkou bez kohoutku na veřejné ulici je tak důležitý úkon, že Gavroche cítil, jak jeho nadšení každým krokem roste. Mezi úryvky Marseillaisy, kterou si prozpěvoval, křičel:
 
@@ -150,8 +150,6 @@ Potom zamířil k Orme-Saint-Gervais.
 ## (3)  
 Vlásenkářovo spravedlivé rozhořčení
 
-  
-
 Důstojný vlásenkář, který zahnal chlapečky, jimž Gavroche otevřel pohostinné útroby slona, holil právě ve svém krámě penzionovaného legionáře, který sloužil ještě za císařství. Hovořili spolu. Vlásenkář pochopitelně mluvil s vysloužilcem o vzbouření, potom o generálu Lamarquovi a od Lamarqua přešli na císaře. Tím začalo povídání, kterým by jistě Prudhomme obohatil své arabesky a nazval je: _Rozhovor břitvy se šavlí._
 
 „Pane,“ řekl vlásenkář, „uměl císař opravdu rajtovat?“
@@ -203,8 +201,6 @@ Vlásenkář běžel k rozbitému oknu a spatřil Gavroche, který pelášil k
 ## (4)  
 Chlapec se diví starci
 
-  
-
 Zatím se Gavroche na saint-jeanském tržišti, jehož strážnice byla již odzbrojena, připojil k hloučku vedenému Enjolrasem, Courfeyracem, Combeferrem a Feuillym. Byli jakžtakž ozbrojeni. Bahorel a Jean Prouvaire je našli a přidali se k nim. Enjolras měl dvouhlavňovou loveckou ručnici, Combererre pušku národních gardistů s číslem legie a za pasem dvě bambitky, které vykukovaly pod nezapjatým svrchníkem, Jean Prouvaire měl jezdeckou mušketu, Bahorel karabinu; Courfeyrac mával kordem vytaženým z hole. Feuilly měl v ruce tasenou šavli, kráčel v čele a křičel: „Ať žije Polsko!“
 
 Bez nákrčníků, bez klobouků, udýchaní, promočení deštěm a s blesky v očích došli na náměstí Morland. Gavroche je klidně oslovil:
@@ -254,8 +250,6 @@ Byl to pan Mabeuf.
 ## (5)  
 Dědula
 
-  
-
 Povězme, co se stalo.
 
 Enjolras a jeho přátelé byli ve chvíli, kdy udeřili dragouni, na bulváru Bourdon nedaleko zásobních sýpek. Enjolras, Courfeyrac a Combeferre se dali ulicí Bassompierre a křičeli: „Na barikády!“
@@ -288,12 +282,16 @@ A šel s nimi. Od této chvíle nepronesl jediného slova. Jeho krok se náhle
 
 Zástup se dal ulicí de la Verrerie. Malý Gavroche kráčel v čele a z plna hrdla si prozpěvoval, čímž se jaksi proměnil v trubače.
 
+  
+
 _Už luna stoupá na nebesa.  
 Kdy vyjedeme si do lesa?  
 To Karlík s Karličkou se ptali.  
 Tu, tu, tu,  
 do Chatou.  
 Jen jednoho mám Boha, jednoho krále, jeden groš a jednu botu._
+
+  
 
 _Že rosu pili od úsvitu  
 na stejném dymiánu květu,  
@@ -302,12 +300,16 @@ Si, si, si,
 do Passy.  
 Jen jednoho mám Boha, jednoho krále, jeden groš a jednu botu._
 
+  
+
 _A tak se ti dva vrabci milí,  
 rosou až do němoty zpili,  
 že tygr se jim chechtal v dáli.  
 Don, don, don,  
 Na Meudon.  
 Jen jednoho mám Boha, jednoho krále, jeden groš a jednu botu._
+
+  
 
 _Ten jeden kleje, druhý laje.  
 Kdy vyjedeme si do háje?  
@@ -316,12 +318,12 @@ Tin, tin, tin,
 Na Pantin.  
 Jen jednoho mám Boha, jednoho krále, jeden groš a jednu botu._
 
+  
+
 Zamířili k Saint-Merry.
 
 ## (6)  
 Nováčkové
-
-  
 
 Skupina každou chvíli vzrůstala. Nedaleko ulice Billettes se k ní připojil vysoký, prošedivělý muž, jehož drsného a odvážného vzezření si všimli Courfeyrac, Enjolras a Combeferre, ale jehož nikdo z nich neznal. Gavroche muže nezpozoroval, protože zpíval, pískal, pobrukoval, pochodoval v čele a hlavní své pistole bez kohoutku vybíjel okenice krámů.
 

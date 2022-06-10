@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Pokoj v přízemí_
 
-  
-
 Nazítří, kdy už se stmívalo, zaklepal Jean Valjean na vrata Gillenormandova domu. Uvítal ho Bask. Bask byl právě na dvoře, jako by to měl přikázáno. Někdy se stává, že se sluhovi řekne: „Pohlídáte, až přijde pan ten a ten.“
 
 Aniž čekal, až k němu Jean Valjean dojde, oslovil ho Bask:
@@ -169,8 +167,6 @@ Jean Valjean vyšel a zanechal Cosettu všecku užaslou nad tím záhadným roz
 ## (2)  
 Další kroky zpátky
 
-  
-
 Jean Valjean přišel na druhý den v touž hodinu.
 
 Cosetta se ho na nic nevyptávala, ničemu se nedivila, neříkala nahlas, že je jí zima, a nemluvila o salónu; vyhnula se oslovení tatínku a pane Jene. Dovolila, aby jí vykal. Jenom radost měla o poznání menší. Byla by bývala smutná, kdyby to byla dovedla.
@@ -211,8 +207,6 @@ A obrátil se, aby neviděla, že si osušuje oči.
 
 ## (3)  
 Vzpomínají na zahradu v ulici Plumet
-
-  
 
 To bylo naposled. Po posledním záblesku všechno uhaslo. Už nebylo mezi nimi důvěrnosti; žádné dobré jitro s políbením, už se nikdy neozvalo to nesmírně sladké slovo „tatínku“! Na vlastní žádost a vlastním přičiněním byl Jean Valjean postupně vyhnán ze všech svých rájů; dožil se vrcholného utrpení, že ztrativ v jednom dni Cosettu celou, musil ji teď ještě ztrácet po kouskách.
 
@@ -360,8 +354,6 @@ Ale ta připomínka Nicolettě unikla, takže se o ní Cosettě nezmínila.
 
 ## (4)  
 Přitažlivost a dohasínání
-
-  
 
 V posledních jarních měsících a v prvních měsících léta roku 1833 pozorovali nečetní chodci v Marais, obchodníci v krámech, povaleči na prahu domovních vrat slušně oblečeného starce v černých šatech, který den co den, v touž dobu za soumraku, vycházel z ulice Homme-Armé od ulice Sainte-Croix-de-la-Bretonnerie, prošel kolem Blancs-Manteaux, dostal se do ulice Culture-Sainte-Catherine, a když došel do ulice Écharpe, zahnul doleva a vstoupil do ulice Saint-Louis.
 

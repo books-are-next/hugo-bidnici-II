@@ -5,12 +5,11 @@ title: Tiráž
 **Victor Hugo    
 Bídníci II**  
 Překlad Zdeňka Pavlousková  
-Ilustrace na obálce z volných zdrojů sestavila Laura Martina Švecová  
 Redakce Jaroslava Bednářová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
 V MKP 1. elektronické vydání  
-1. vydání z 12. 5. 2022.
+1. vydání z 10. 6. 2022.
 
 ***
 
@@ -23,8 +22,6 @@ Text díla (Victor Hugo: Bídníci II), publikovaného [Městskou knihovnou v�
 [![image001.jpg](./resources/image001_fmt.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/)
 
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
-
-  
 
 
   

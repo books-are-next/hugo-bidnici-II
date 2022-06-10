@@ -7,8 +7,6 @@ contentType: prose
 Mějte slitování s nešťastnými,  
 ale buďte shovívaví k těm, kdo jsou šťastni_
 
-  
-
 Být šťastný je strašná věc. Jak to člověka uspokojuje! A jak se domnívá, že to stačí! A dosáhne-li štěstí – domnělého životního cíle –, jak snadno zapomíná na pravý účel života – na povinnost!
 
 A přece si musíme přiznat, že bychom Mariovi křivdili, kdybychom ho obviňovali.
@@ -41,8 +39,6 @@ Ostatně to, co v jistých případech příliš krutě označujeme jako dětsk
 
 ## (2)  
 Poslední zablikání lampy bez oleje
-
-  
 
 Jednou sešel Jean Valjean se schodů, udělal tři kroky do ulice a usedl na patník, právě na ten patník, na němž ho Gavroche nalezl zamyšleného v noci z 5. na 6. červen; zůstal tam několik minut sedět a potom se zase vrátil nahoru. To byl poslední výkyv hodin. Nazítří už nevyšel ze světnice. Pozítří nevstal z postele.
 
@@ -120,8 +116,6 @@ Když sešel dolů, domovnice se ho zeptala:
 Ten, kdo zdvihl Faucheleventovu káru,  
 neunese už ani pero
 
-  
-
 Jednou večer se Jean Valjean s námahou zvedl a opřel o loket, sáhl si na ruku a nahmatal tep, dech byl krátký a chvílemi vynechával, pochopil, že je slabší než kdy předtím. A proto, asi pod tlakem nějaké naléhavé starosti, sebral síly a vzchopil se, aby se oblékl. Vzal si své staré dělnické šaty. Protože už nevycházel, vrátil se k nim a oblíbil si je. Při tom si musil několikrát odpočinout, a než vklouzl do rukávů, stékal mu pot s čela.
 
 Od té doby, co byl sám, si dal postel do předsíně, aby v opuštěném bytě zabral co nejméně místa.
@@ -159,8 +153,6 @@ V tom okamžiku někdo zaklepal na dveře.
 ## (4)  
 Láhev černidla, kterému se podaří leda očistit
 
-  
-
 Týž den, nebo lépe řečeno, týž večer, ve chvíli, kdy Marius vstal od stolu a odcházel do své pracovny, protože musil nahlédnout do nějakého soudního spisu, odevzdal mu Bask jakési psaní a řekl:
 
 „Osoba, která napsala dopis, čeká v předsíni.“
@@ -176,6 +168,8 @@ Marius dopis přijal. Páchl tabákem. Nic nám tak nevybavuje vzpomínky jako p
 A tak podivným rozmarem náhody se mu sama nabídla jedna ze dvou stop, které tolik hledal; stopa, na jejíž zjištění vynaložil tolik úsilí a kterou považoval za navždycky ztracenou.
 
 Dychtivě rozpečetil dopis a četl:
+
+  
 
 _Pane barone,_
 
@@ -560,8 +554,6 @@ Cosetta nechápala ani slovo. „Máš pravdu,“ řekla mu. Mezitím fiakr ují
 ## (5)  
 Noc, po níž přichází den
 
-  
-
 Jean Valjean se na zaklepání obrátil.
 
 „Vstupte,“ řekl slabě.
@@ -773,8 +765,6 @@ Noc byla beze hvězd a hluboká. Ve tmách stál nesmírný anděl s rozpjatý
 ## (6)  
 Tráva kryje a déšť smývá
 
-  
-
 Na hřbitově Père-Lachaise, poblíž společného hrobu, daleko od elegantního oddělení tohoto města hrobů, daleko ode všech domýšlivých náhrobků, které před tváří věčnosti vystavují na odiv nehezké formy zániku, v opuštěném koutě u zdi, pod velkým tisem, po němž se pne svlačec, leží mezi plevelem a mechem kámen. Ten kámen stejně jako ostatní náhrobky čas neušetřil a pokryl jej plísní, lišejníky a ptačím trusem. Voda jej barví na zeleno, vzduch na černo. Nevede k němu pěšinka a lidé v tu stranu neradi chodí, protože je tam vysoká tráva, v níž se hned urousají. Když svítí sluníčko, míhají se tam ještěrky. Kolem dokola se chvěje metlice. Na jaře zpívají na stromě pěnkavky.
 
 Kámen je úplně holý. Když jej otesávali, neměli na mysli nic víc, než aby kámen byl dost dlouhý a dost široký a stačil zakrýt člověka.
@@ -782,6 +772,8 @@ Kámen je úplně holý. Když jej otesávali, neměli na mysli nic víc, než a
 Náhrobní kámen je beze jména.
 
 Ale kdysi dávno na něj nějaká ruka napsala tužkou čtyři verše, které déšť a prach ponenáhlu rozmazal a které jsou dnes už pravděpodobně nadobro vybledlé:
+
+  
 
 _Spí. Byť i náhoda s ním divně dováděla._
 

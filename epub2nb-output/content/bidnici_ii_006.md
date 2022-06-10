@@ -7,8 +7,6 @@ contentType: prose
 Marius hledá dívku s kloboukem  
 a nachází muže s čepicí_
 
-  
-
 Léto minulo a po létě podzim; přišla zima. Ani pan Leblanc, ani dívka už do Lucemburské zahrady nevkročili. Marius měl jednu jedinou myšlenku: spatřit sladkou zbožňovanou tvář. Stále hledal, hledal všude, ale nenalézal. To již nebyl Marius, nadšený fantasta, odhodlaný muž, odvážný, pevný a smělý bojovník s osudem, mozek, který stavěl budoucnost na budoucnosti, mladá mysl přetížená plány, záměry, hrdostí, ideály a vůlí; teď to byl zaběhlý pes. Zapadl do hlubokého smutku. Všemu byl konec. Práce ho odpuzovala, procházka unavovala, samota nudila; příroda, kdysi naplněná tvary, jasem, hlasy, radami, průhledy, obzory a poučením, mu teď neříkala nic. Zdálo se mu, že se z ní všechno vytratilo.
 
 Stále přemýšlel, protože to jinak nedovedl, ale myšlení ho už netěšilo. Na všechno, co mu neustále a bez hlesu našeptávalo, zachmuřeně odpovídal: K čemu?
@@ -22,14 +20,16 @@ Zmatený a zarmoucený se samotářsky uzavíral a soustřeďoval na svou duš
 ## (2)  
 Nález
 
-  
-
 Marius stále bydlil v Gorbeauově baráku. Nikoho si tam nevšímal. V tu dobu tam vlastně nebydlil nikdo jiný než on a Jondrettovi, za které již jednou zaplatil nájemné, ačkoliv nikdy nepromluvil ani s Jondrettem, ani s jeho ženou, ani s jejich dcerami. Ostatní nájemníci se buď vystěhovali, nebo zemřeli, nebo byli vyhnáni, protože neplatili.
 
 Jednoho zimního dne vysvitlo odpoledne trochu slunce, ale bylo 2. února, starobylý svátek Hromnic, a zrádné slunce, jež toho dne věští půldruhá měsíce mrazů, nadchlo lutyšského kanovníka Matyáše Laensberga k těmto klasickým veršům:
 
+  
+
 _Když na Hromnice svítí slunce,  
 medvěd se schoulí ve špelunce._
+
+  
 
 Marius právě vyšel ze své komůrky. Stmívalo se. Byl čas povečeřet; však už bylo svrchovaně třeba, aby také zasedl k jídlu. Ó, křehkosti ideální lásky!
 
@@ -66,8 +66,6 @@ Za chvíli vyvanuly smutné myšlenky, které ho načas odvedly od jeho trampot,
 ## (3)  
 Muž se čtverou tváří
 
-  
-
 Když se večer před spaním svlékal, nahmatal v kapse kabátu balíček, který zdvihl na bulváru. Zapomněl na něj. Pomyslil si, že by bylo záhodno jej otevřít a že snad v něm bude adresa děvčat, jestliže jim skutečně patří, a že se z něho jistě dozví, kam jej vrátit.
 
 Otevřel obálku.
@@ -84,6 +82,8 @@ Marius si řekl, že se snad z obsahu dozví potřebné a že mu nic nebrání
 
 Dopis zněl:
 
+  
+
 _Paní markýzo!_
 
 _Ctnost dobrotivosti a soucytu pojí úzce celou lidskou společnost. Dokašte svou křesťanskou lásku a soucytně se podiveje na nešťastného Španěla, oběť věrnosti a oddanosti, který zaplatil krví a obětoval jmění, aby hájil svatou věc legitimity, a dnes žije ve velké bídě. Nepochybuje, že Vaše ctihodná osobnost poskytne pomoc v krajně trapném postavení vojínovi, zahrnutému poctami a pokrytému ranami. Předem spoléhán na Vaše dobré srdce a na soucyt, který má paní markýza s národem tak nešťastným. Jeho prozba nebude marná a zachová milou vzpomínku na Vás._
@@ -93,11 +93,19 @@ _S nejhlubší úctou mám čest se znamenat,_
 _milostivá paní,  
 DON ALVAREZ, setník španělské jízdy, roajalista, který utekl do Francie a je právě na cestě do vlasti, ale nemá dostatečných prostředků, aby v cestě pokračoval._
 
+  
+
 K dopisu nebyla připojena adresa. Marius doufal, že ji najde ve druhém dopise, který byl adresován
+
+  
 
 _Paní hraběnce Montvernetové, ulice Casette č. 9._
 
+  
+
 Marius v něm četl:
+
+  
 
 _Paní hraběnko!_
 
@@ -108,6 +116,8 @@ _V naději ve Vás, paní hraběnko, zůstávám vaše_
 _BALIZARDOVÁ._
 
 Marius přešel ke třetímu listu, který byl jako předešlé prosbou o almužnu, a četl:
+
+  
 
 _Pan Pabourgeot, volič, obchodník s punčochami ve velkém, ulice Saint-Denis na rohu ulice Fers._
 
@@ -129,11 +139,19 @@ _PS. Stačilo by i čtyřicet sou._
 
 _Promiňte, že posílám tceru a že nepřicházím sám, ale smutné nedostatky v oblečení mi bohužel nedovolují vycházet…_
 
+  
+
 Konečně Marius otevřel čtvrtý dopis. Byl adresován:
+
+  
 
 _Panu dobrodinci z kostela Saint-Jacques-du-Haut-Pas._
 
+  
+
 Ten dopis měl jenom několik řádek:
+
+  
 
 _Dobrodinče!_
 
@@ -194,8 +212,6 @@ Marius se chvatně ohlédl a spatřil děvče.
 ## (4)  
 Růže v bídě
 
-  
-
 V pootevřených dveřích stála docela mladičká dívka. Vikýř podkrovní komůrky byl přesně naproti dveřím a osvětloval postavu mdlým světlem. Byla to bytost bledá, zbídačelá a vyhublá; jenom košile a sukně zakrývaly nahé tělo, třesoucí se a promrzlé. Místo pasu provázek, ve vlasech provázek, z košile vyčnívající špičatá ramena, nažloutlá, chudokrevná bledost, zemitě zbarvené klíční kosti, zarudlé ruce, pootevřená a zpustošená ústa, v nichž chybělo několik zubů, oko kalné, drzé a vyzývavé; tělo nedospělé dívky, ale pohled staré zkušené ženy; padesátnice spojená s patnáctiletou dívkou – jedna z těch bytostí, které jsou slabé i hrozné zároveň a nad nimiž se zachvěje ten, kdo nad nimi nezapláče.
 
 Marius vstal a s úžasem pozoroval stvoření podobné spíše stínu, který se mihne snem.
@@ -220,6 +236,8 @@ Když jej Marius otvíral, povšiml si, že velká a široká oplatka na zalepo
 
 _Četl:_
 
+  
+
 _Milý sousede a mladý muži!_
 
 _Dovjeděl jsem se, jakou laskavost jste mi projevil, když jste za mne před půl rokem zaplatil nájemné. Žehnám vám, mladý muži._
@@ -231,6 +249,8 @@ _S obzvláštní úctou, kterou jsme povinni dobrodincům, zůstevám váš_
 _JONDRETTE_
 
 _PS. Tcera počká na Vaše rozkazy, drahý pane Marie._
+
+  
 
 Tento dopis pomohl rozluštit temnou příhodu, která Mariovi od včerejška nedala pokoje, jako bys rozsvítil ve sklepě svíčku; rázem se všechno vysvětlilo.
 
@@ -290,6 +310,8 @@ Tu se zarazila, upřela vyhaslý zrak na Maria, rozesmála se, a jako by chtěl
 
 A počala si na veselou melodii pobroukávat tato slova:
 
+  
+
 _Tati, mně kručí v bříšku,  
 já ti mám hlad.  
 Ach mami, bez kožíšku  
@@ -298,6 +320,8 @@ Mráz na ptáče
 jde po tělíčku  
 a pacholíčku  
 je do pláče._
+
+  
 
 Sotva dozpívala, zvolala:
 
@@ -370,8 +394,6 @@ Potom vyšla z místnosti.
 ## (5)  
 Okénko prozřetelnosti
 
-  
-
 Už pět let žil Marius v chudobě, v nedostatku, v tísni, ale všiml si, že vůbec nepoznal pravou bídu. Teprve teď ji spatřil. To ubohé stvoření, které mu právě přešlo před očima, ji ztělesňovalo. Kdo viděl bídu muže, neviděl vlastně nic. Je třeba poznat bídu ženy; a kdo spatřil bídu ženy, nepoznal nic; je třeba poznat bídu dítěte.
 
 Když je muž dohnán k nejzazší hranici, sahá k posledním možnostem záchrany. Běda bezbranným bytostem, které ho obklopují! Práce, mzda, chléb, jiskra, odvaha, dobrá vůle, všechno mu chybí najednou. Hasne mu světlo denní i světlo v duši. V tom setmění se muž setkává se slabostí ženy a dítěte a strhává je do mravní špíny.
@@ -393,8 +415,6 @@ Vylezl na prádelník, přiblížil ke škvíře oko a podíval se.
 ## (6)  
 Divoch v pelechu
 
-  
-
 Jako lesy, tak i města mají doupata, v nichž se ukrývá všechno, co mají nejhrozivějšího a nejobávanějšího. Jenomže to, co se takto ukrývá v městě, je divoké, nečisté a nízké, to znamená odporné, kdežto tvor, který se ukrývá v lese, je divoký, plachý a velký, tudíž krásný. Brloh jako brloh, ale zvířatům dáme před lidmi přednost. Doupata jsou tedy lepší než pelechy.
 
 Marius spatřil pelech.
@@ -411,6 +431,8 @@ Jedno lůžko stálo u dveří, druhé u okna. Obě se dotýkala krbu, právě
 
 V rohu vedle otvoru, kterým se Marius díval, visela na zdi barevná rytina v rámu z černého dřeva, pod níž bylo velkými písmeny napsáno: SEN. Na obraze byla dřímající žena se spícím dítětem na klíně a orel v mracích s korunou v drápech. Žena jako by ze sna odsouvala korunu od hlavičky dítěte. V pozadí ve vší slávě stál Napoleon a opíral se o sytě modrý sloup, ozdobený tímto nápisem:
 
+  
+
 MARINGO
 
 SLAVKOF
@@ -420,6 +442,8 @@ JENA
 WAKRÁM
 
 JÝLOVÉ
+
+  
 
 Pod tímto obrazem byla o zeď opřena dřevěná deska, spíše delší než širší. Vypadala jako obraz obrácený pomalovanou stranou ke stěně, nebo jako zrcadlo, které někdo sundal a zapomněl pověsit.
 
@@ -479,8 +503,6 @@ Muž se znovu pustil do psaní.
 
 ## (7)  
 Strategie a taktika
-
-  
 
 Marius, jemuž tato podívaná svírala srdce, chtěl právě sestoupit se své improvizované rozhledny, když jeho pozornost připoutal a zadržel ho na místě jakýsi hluk.
 
@@ -629,8 +651,6 @@ Pak se vztyčil a opřel se o krb.
 ## (8)  
 Paprsek v pelechu
 
-  
-
 Větší děvče přistoupilo k otci, přitisklo mu svou ruku na jeho a řeklo:
 
 „Vidíš, jaká je mi zima.“
@@ -689,8 +709,6 @@ Starší Jondrettova dcera ustoupila ke dveřím a zachmuřeně zírala na same
 
 ## (9)  
 Jondrette skoro pláče
-
-  
 
 Obydlí bylo tak temné, že lidem, kteří přicházeli zvenčí, jistě připadalo jako sklepení. Oba příchozí postupovali váhavě, protože stěží rozeznávali předměty okolo sebe, zatímco si je obyvatelé, zvyklí na šero, důkladně prohlédli.
 
@@ -795,8 +813,6 @@ Když všichni tři vycházeli, Jondrette oba cizince hbitě předešel.
 ## (10)  
 Sazba drožek: dva franky za hodinu
 
-  
-
 Z toho výjevu Mariovi nic neušlo, a přece ve skutečnosti nic neviděl. Uchváceně se díval na mladou dívku a v duchu ji objímal od té chvíle, co vstoupila do komory. Celou dobu návštěvy prožil ve vytržení, všechno jeho hmotné vnímání se zastavilo a celá duše se soustředila k jedinému bodu. Nevnímal dívku, nýbrž světlo, které se šířilo okolo atlasového kožíšku a sametového klobouku. Kdyby hvězda Sírius vletěla do komory, nebyl by více oslněn.
 
 Zatímco dívka rozvazovala balík, rozbalovala šaty a pokrývky a dobrotivě a něžně se vyptávala nemocné matky a poraněného děvčátka, číhal Marius na každý její pohyb a snažil se zachytit její řeč. Znal ty oči, čelo, krásu, postavu, chování, ale neznal zvuk jejího hlasu. Jednou v Lucemburské zahradě se domníval, že zachytil několik slov, ale nebyl si naprosto jist. Byl by dal deset let života, kdyby byl mohl slyšet a odnést si v duši trochu z té hudby. Ale všechno se ztrácelo v křiklavém nářku a vřeštivém bědování Jondrettově. To mísilo hněv do Mariova obdivu. Něžně se na ni zadíval. Nedovedl pochopit, že skutečně vidí božské stvoření v strašném doupěti uprostřed nečistých. Připadala mu jako kolibřík mezi ropuchami.
@@ -839,8 +855,6 @@ Oba v chumelenici nehnuté stáli a hovořili, tvoříce dvojici, které by si
 
 ## (11)  
 Bída nabízí služby žalu
-
-  
 
 Marius vystoupil zvolna po schodech baráku; právě když se chystal vstoupit do své světničky, zahlédl na chodbě, že za ním jde starší Jondrettova dcera. Nechtěl ji ani vidět, jak mu byla protivná; měla jeho pět franků, ale bylo už příliš pozdě, aby je chtěl zpátky; drožka již dávno zmizela a fiakr byl daleko. Ostatně by mu je jistě nevrátila. Také by bylo zbytečné se ptát, kde bydlí lidé, kteří je právě navštívili; bylo zřejmé, že to nevěděla, neboť dopis byl adresován: _Panu dobrodinci z kostela Saint-Jacques-du-Haut-Pas._
 
@@ -954,8 +968,6 @@ Znovu spatřil vnitřek Jondrettova brlohu.
 
 ## (12)  
 Jak se využilo pětifranku od pana Leblanka
-
-  
 
 Zatím se v rodině změnilo jenom to, že žena i děvčata vybalily z balíku punčochy a vlněné kazajky a navlékly si je a že na postele hodily nové pokrývky.
 
@@ -1139,8 +1151,6 @@ Na Saint-Médardu právě tloukla jedna hodina.
 „Solus cum solo, in loco remoto,  
 non cogitabuntur orare Pater noster“[^9]
 
-  
-
 Jak jsme již řekli, byl Marius, třebaže velký snílek, přece jenom pevná, energická povaha. Samotářské hloubání ho naučilo citlivosti a účastenství s bolestmi druhých; snad i mírnilo jeho vznětlivou povahu, ale přece mu nevzalo schopnost pohoršovat se nad zlem: byl laskavý jako brahmán, ale přísný jako soudce; měl soucit s ropuchou, ale rozdrtil zmiji. A právě teď padl jeho zrak na zmijí hnízdo; nahlédl do doupěte netvorů.
 
 „Ty bídníky je nutno zašlápnout,“ řekl si.
@@ -1205,8 +1215,6 @@ Cestou vzdal dík prozřetelnosti. Napadlo ho, že kdyby ráno nebyl Jondrettov�
 
 ## (14)  
 Policista dává dvě bambitky advokátovi
-
-  
 
 Když Marius přišel do čísla 14 v ulici Pontoise, vystoupil do prvního poschodí a ptal se po policejním komisaři.
 
@@ -1349,8 +1357,6 @@ Když se Marius chystal k odchodu a bral za kliku, inspektor ještě na něho 
 ## (15)  
 Jondrette nakupuje
 
-  
-
 O něco později, okolo třetí hodiny, šel Courfeyrac náhodou s Bossuetem ulicí Mouffetard. Sníh padal hustěji a bránil rozhledu. Bossuet se právě chystal říci Courfeyracovi:
 
 „Když vidím padat sněhové vločky, hned bych řekl, že v nebi řádí mor mezi bělásky.“ Náhle Bossuet spatřil Maria přecházet ulicí k bráně. Vypadal prapodivně.
@@ -1411,8 +1417,6 @@ Marius chvatným krokem dospěl k číslu 50–52. Když došel až k domu, by
 
 ## (16)  
 Píseň na anglický nápěv, oblíbená v roce 1832
-
-  
 
 Marius usedl na postel. Bylo asi půl šesté, jenom půl hodiny ho dělilo od všeho toho, co se mělo stát. Slyšel, jak mu bije srdce, jako v temnotě slyšíme tikot hodin. Myslil na dvojí pohyb, který se dál ve skrytu, na postup zločinu z jedné a spravedlnosti z druhé strany. Nebál se, ale nedovedl pomyslit na věci příští bez patrného zachvění. Jako každému, kdo znenadání přišel na překvapující dobrodružství, i jemu celý den připadal jako sen, a aby se ujistil, že ho netlačí noční můra, potřeboval cítit chlad bambitek v náprsních kapsách.
 
@@ -1508,12 +1512,16 @@ Zamířila přímo k posteli. Marius zakusil chvíli nevýslovné úzkosti; ale
 
 Děvče si dlaní přihladilo vlasy, usmálo se na sebe do zrcadla a zazpívalo si puklým, zastřeným hlasem:
 
+  
+
 _Jen týden lásky! Což i tentokrát se  
 čas blaha odměří tak skrblicky?  
 To za to stálo, hořet jen tak krátce!  
 Když milovat, ať je to navždycky,  
 ať je to navždycky,  
 ať je to navždycky._
+
+  
 
 Marius se chvěl. Není přece možné, aby neslyšela jeho dech.
 
@@ -1531,8 +1539,12 @@ Holka zamířila k oknu, podívala se ven a řekla nahlas se svým obvyklým v
 
 Prozpěvovala:
 
+  
+
 _Opouštíš mě a jdeš si hledat slávu,  
 můj smutný duch však provází tvůj krok._
+
+  
 
 Ještě jednou pohlédla do zrcátka, vyšla a zavřela za sebou dveře.
 
@@ -1550,8 +1562,6 @@ V domě byl teď jenom Marius, manželé Jondrettovi a pravděpodobně i čty
 
 ## (17)  
 Jak se využilo Mariova pětifranku
-
-  
 
 Marius usoudil, že nastala chvíle, aby zaujal místo na své pozorovatelně. V mžiku a s pružností mládí se ocitl u otvoru v přepážce.
 
@@ -1654,8 +1664,6 @@ Marius si ponechal bambitku v ruce.
 ## (18)  
 Dvě Mariovy židle stojí proti sobě
 
-  
-
 Vzdálené a smutné zaznění zvonu zadrnčelo náhle okenními tabulemi. Na Saint-Médardu tlouklo šest hodin.
 
 Jondrette každý úder potvrdil přikývnutím. Při šestém úderu zamáčkl knot. Potom začal přecházet po komoře, naslouchal v chodbě, chodil a znovu naslouchal:
@@ -1704,8 +1712,6 @@ Doufal také, že z prudší srážky Jondretta s panem Leblankem vytryskne tr
 
 ## (19)  
 Pamatujme na temné pozadí
-
-  
 
 Sotva se pan Leblanc usadil, pohlédl na bídné postele, které byly prázdné.
 
@@ -1781,8 +1787,6 @@ Náhle jeho vyhaslé oko vzplanulo strašnou září: malý človíček se vzpř
 
 ## (20)  
 Úklad
-
-  
 
 Dveře komory se prudce otevřely a v nich se objevili tři chlapi v modrých plátěných halenách; na obličejích měli masky z černého papíru. První byl hubený a v ruce držel dlouhý pobitý obušek, druhý byl vyslovený obr a měl palici na porážení volů, kterou držel uprostřed rukojeti hlavicí dolů. Třetí, ramenáč, nebyl tak hubený jako první, ani tak hřmotný jako druhý, a třímal v pěsti ohromný klíč, ukradený asi někde ve vězení.
 
@@ -2315,8 +2319,6 @@ V ruce držel klobouk, a s úsměvem jej nabízel.
 ## (21)  
 Vždycky by se mělo začínat zatčením oběti
 
-  
-
 Za soumraku rozestavil Javert hlídky a sám se skryl za stromy v ulici Barrière-des-Gobelins, která se z druhé strany bulváru táhne naproti Gorbeauově baráku. Začal tím, že se pokusil „uvolnit“ si cestu a „sebrat“ holky, které měly střežit oba příchody k doupěti. Chytil však jenom Azelmu, protože Eponina nebyla na svém místě; zmizela a zatím nebyla polapena. Potom se Javert znovu postavil na číhanou a čekal na smluvené znamení. Fiakr pojížděl sem a tam a to ho znepokojovalo. Konečně mu došla trpělivost a rozhodl se vniknout do baráku bez smluveného signálu; _byl přesvědčen_, _že hnízdo tam skutečně je_ a že _se mu je podaří vybrat._ Poznal totiž několik lupičů, kteří vcházeli do baráku.
 
 Jak si vzpomínáte, měl Mariův klíč.
@@ -2464,8 +2466,6 @@ Provazový žebřík se ještě nepatrně komíhal.
 ## (22)  
 Chlapec, který v druhém díle plakal
 
-  
-
 Nazítří po dni, ve kterém se zběhly tyto události na bulváru Hôpital, šel tudy po pravé straně směrem k bráně Fontainebleau chlapec, který přicházel asi od Slavkovského mostu. Už se setmělo. Chlapec byl bledý, úplný hadrníček, a třebas byl únor a on měl na sobě jenom plátěné kalhoty, prozpěvoval si z plných plic.
 
 Na rohu ulice Petit-Banquier se při světle pouliční lampy hrabala sehnutá stařena v hromadě odpadků; chlapec do stařeny vrazil, potom couvl a zvolal:
@@ -2488,9 +2488,13 @@ Chlapec si ji prohlížel.
 
 Šel dál a prozpěvoval si:
 
+  
+
 _Korunu na stranu,  
 na chůdách po svém vkusu  
 si na lov havranů…_
+
+  
 
 Po třech verších ustal. Došel před číslo 50–52, a protože našel dveře zavřené, začal do nich kopat. Rány byly přímo heroicky zvučné a prozrazovaly spíš vzrostlého chlapa než nohu dítěte, která vězela ve velkých mužských botách.
 
@@ -2532,11 +2536,18 @@ Chlapec se poškrábal za uchem, podíval se na matku Bručavou a vzdychl:
 
 Pak se otočil na podpatku a stařena, která zůstala u vrat, zanedlouho slyšela, jak si v aleji černých jilmů, třesoucích se v zimním větru, zpívá jasným hlasem písničku:
 
+  
+
 _Korunu na stranu,  
 na chůdách po svém vkusu  
 si na lov havranů  
 vyšel Král slamotrusů.  
 Kdo ho chtěl podlézti,  
 dal mu groš pro štěstí._
+
+  
+  
+
+  
 
 [^9]: Mezi čtyřma očima na odlehlém místě nebudou zamýšlet modlit se Otčenáš (lat.).

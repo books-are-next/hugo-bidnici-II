@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Jean Valjean_
 
-  
-
 V týž den ke čtvrté hodině odpoledne seděl Jean Valjean na nejopuštěnějším svahu Martova pole. Buď z opatrnosti, buď z touhy po rozjímání o samotě, nebo prosté nepochopitelnou změnou zvyků, které se poznenáhlu vloudí do života lidí, zřídka vycházíval s Cosettou. Na sobě měl obyčejnou dělnickou halenu a šedé plátěné kalhoty; čepice s dlouhým štítkem mu zakrývala obličej. Cosetta mu teď nedělala starost, vedle ní byl klidný a veselý; co ho kdysi děsilo a zneklidňovalo, se rozptýlilo, ale před týdnem nebo snad před čtrnácti dny mu nastaly nové starosti. Jednoho dne, procházeje se na bulváru, zahlédl Thénardiera; díky přestrojení Thénardier Val­jeana nepoznal; od té doby ho však Jean Valjean spatřil několikrát a pochopil, že se Thénardier potuluje po jeho čtvrti. To stačilo, aby se rozhodl k vážnému kroku. Jakmile byl na obzoru Thénardier, hrozila všechna možná nebezpečí.
 
 Kromě toho v Paříži nebylo klidno; politické nepokoje přinášely s sebou potíže pro ty, kdo chtěli ze svého života něco zatajit. Policie byla značně zneklidněná a nedůvěřivá a při pátrání po lidech, jako byl Pépin nebo Morey[^37], mohla docela dobře odhalit muže, jako byl Jean Valjean.
@@ -22,11 +20,17 @@ A pak ho vyvedl z míry a dokonale poplašil nevysvětlitelný objev. Ráno t
 
 __Ulice Verrerie číslo 16.__
 
+  
+
 Nápis byl čerstvý, zářezy v začernalé omítce byly bílé, trs kopřiv u paty zdi byl posypán jemným, bílým vápnem. Bylo to asi napsáno v noci. Co je to? Adresa? Znamení pro druhé? Výstraha jemu? Ať tomu bylo tak či onak, bylo zřejmé, že si někdo zjednal přístup do zahrady a že do ní vnikl. Vzpomněl si na zvláštní příhody, které pobouřily dům. V duchu si dokreslil další. Střežil se o nápisu na zdi promluvit s Cosettou; bál se, aby ji nepolekal.
 
 A jak tak všechno rozebíral, všiml si stínu, který dával tušit, že se někdo právě zastavil na vrcholu svahu přímo nad ním. Už se chtěl otočit, když mu na kolena dopadl čtyřikrát složený kus papíru, jako by mu jej byla něčí ruka hodila přes hlavu. Vzal papír, rozložil jej a četl na něm tato slova, napsaná tužkou velkými písmeny:
 
+  
+
 ODSTĚHUJTE SE!
+
+  
 
 Jean Valjean rychle vstal; na svahu nikdo nebyl; rozhlédl se okolo sebe a spatřil bytost větší než dítě, menší než muž, oděnou v šedou halenu a šedomodré manšestrové kalhoty; překročila zábradlí a sklouzla do příkopu Martova pole.
 
@@ -34,8 +38,6 @@ Jean Valjean se vrátil zamyšlen domů.
 
 ## (2)  
 Marius
-
-  
 
 Marius odešel od pana Gillenormanda hluboce zarmoucen. Šel k němu s nepatrnou nadějí; odcházel od něho naprosto zoufalý.
 
@@ -77,8 +79,6 @@ Tento hlas mu nebyl tak naprosto neznámý. Podobal se chraptivému a drsnému 
 
 ## (3)  
 Pan Mabeuf
-
-  
 
 Tobolka Jeana Valjeana panu Mabeufovi neprospěla. Pan Mabeuf ve své ctihodné až dětinské přísnosti dar nebes nepřijal; ani nepřipustil, že by se hvězda mohla proměnit v louisdory. Neuhodl, že to, co spadlo z nebe, přišlo od Gavroche. Donesl tobolku na policejní komisařství jako nalezený předmět, o který se snad někdo přihlásí. Tobolka byla takto skutečně ztracena. Pochopitelně se nikdo o ni nepřihlásil a panu Mabeufovi nikterak nepomohla.
 

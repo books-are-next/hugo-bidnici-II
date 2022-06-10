@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Javert vyšinutý z kolejí_
 
-  
-
 Javert se pomalu vzdaloval z ulice Homme-Armé.
 
 Poprvé v životě šel se skloněnou hlavou a právě tak poprvé s rukama za zády.
@@ -150,7 +148,11 @@ Takový stůl, vždycky doplněný židlí se slaměným výpletem, patří k s
 
 Javert vzal pero a list papíru a dal se do psaní. Napsal toto:
 
+  
+
 NĚKOLIK POZNÁMEK V ZÁJMU SLUŽBY
+
+  
 
 Za prvé: prosím pana prefekta, aby poznámkám věnoval pozornost.
 
@@ -172,6 +174,8 @@ Za deváté: je známo, že je každodenně slyšet, jak si četníci na dvoře 
 
 Za desáté: paní Henryová je počestná žena; její kantýna je opravdu čistá; ale je velmi nesprávné, že u okénka vězeňské krčmy sedí žena. To není důstojné žalářů civilizovaného národa.
 
+  
+
 Javert psal tyto řádky nejklidnějším a nejbezvadnějším písmem, nevynechal ani čárku a skřípal vytrvale perem po papíře. Pod poslední řádkou se podepsal:
 
 JAVERT  
@@ -180,6 +184,8 @@ inspektor první třídy
 Strážnice na náměstí Châtelet.
 
 7. června 1832, asi v jednu hodinu ráno.
+
+  
 
 Javert osušil čerstvý inkoust, složil papír jako dopis, zapečetil a na rub napsal: Poznámky pro administrativu, nechal list na stole a odešel ze strážnice. Zasklené a zamřížované dveře za ním zapadly.
 

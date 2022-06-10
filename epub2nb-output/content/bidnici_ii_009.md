@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Skřivánčí pole_
 
-  
-
 Marius byl svědkem neočekávaného rozuzlení úkladu, na jehož stopu uvedl Javerta; sotva však Javert opustil barabiznu, odvážeje si zatčené ve třech fiakrech, odplížil se z domu i Marius. Bylo teprve devět hodin večer. Marius šel ke Courfeyracovi. Courfeyrac už nebyl tak neochvějným přívržencem Latinské čtvrti; odstěhoval se z ulice Verrerie z politických důvodů. Tato čtvrt byla jednou z těch, v nichž se v těch časech ráda ubytovávala vzpoura. Marius řekl Courfeyracovi:
 
 „Přišel jsem se k tobě vyspat.“
@@ -103,8 +101,6 @@ A každý den přicházel na Skřivánčí pole.
 ## (2)  
 Vězení – líheň zločinů
 
-  
-
 Javertovo vítězství v Gorbeauově baráku se zdálo úplné; nebylo.
 
 Předně, a to byla největší starost, nechytil Javert toho, kdo měl být chycen. Uniká-li vražděný, je podezřelejší než vrah: a je pravděpodobné, že by vzácná kořist lupičů byla neméně dobrým úlovkem policie.
@@ -125,7 +121,11 @@ Vyšetřující soudce uznal za užitečné nedávat jednoho mužského tlupy Pa
 
 La Force má vzpomínky na Brujonovo jméno. V ošklivém dvoře řečeném „nová budova“, jejž správa nazývala dvorem svatého Bernarda a kterému zloději říkali „lví jáma“, na zdi, jež byla pokryta prašivinou a olezlinou a která se tyčila nalevo do výše střech, u starobylých dveří ze zrezivělého železa, vedoucích od bývalé kaple vévodského paláce la Force, přeměněné v cely lupičů, bylo ještě před dvanácti lety možno vidět jakýsi nákres tvrze hrubě vrytý hřebíkem do kamene a nad ním tento podpis:
 
+  
+
 BRUJON 1811
+
+  
 
 Brujon z roku 1811 byl otec Brujona z roku 1832.
 
@@ -135,11 +135,19 @@ Zloději se nedávají vyrušovat z práce, ani když jsou v rukou spra­vedln
 
 Brujon byl vězením jaksi zaražen. Celé hodiny ho vídali na dvoře Karla Velikého; stával pod okénkem kantiny a jako přihlouplý pozoroval ušpiněný kantinský ceník, který počínal:
 
+  
+
 _kuřecí křídlo 62 centimů_
+
+  
 
 a končil:
 
+  
+
 _doutník 5 centimů._
+
+  
 
 Nebo svůj čas mařil tím, že se třásl, jektal zuby, tvrdil o sobě, že má horečku, a vyptával se, neuvolnila-li se náhodou jedna z osmadvaceti postelí na marodce.
 
@@ -181,8 +189,6 @@ Tak zmetl zárodek zločinu, zplozený Brujonem ve Force. Přesto však měl ten
 
 ## (3)  
 Vidění otce Mabeufa
-
-  
 
 Marius už nikoho nenavštěvoval, jen občas potkával otce Mabeufa.
 
@@ -266,8 +272,6 @@ A za hodinku, kdy už ležel, vzpomněl si na ten zjev znovu, a když usínal,
 
 ## (4)  
 Mariovo vidění
-
-  
 
 Několik dní po návštěvě „skřítka“ u otce Mabeufa, jednou ráno – bylo pondělí, den, kdy si vypůjčoval u Courfeyraca pětifrank pro Thénardiera – strčil Marius pětifrank do kapsy, a než jej odnesl do kanceláře, šel se „trochu projít“ s nadějí, že až se vrátí, pustí se s větší chutí do práce. Ostatně tak to šlo stále. Jakmile vstal, posadil se ke knize, vzal arch papíru, aby odbyl nějaký překlad; pracoval tehdy na francouzském překladu slavného sporu dvou Němců, polemiky Ganse se Savignym[^23]; bral do ruky Savignyho, bral Ganse, přečetl čtyři řádky, pokusil se jednu napsat, ale nesvedl to, jiskřilo se mu před očima, vstal ze židle a říkal:
 

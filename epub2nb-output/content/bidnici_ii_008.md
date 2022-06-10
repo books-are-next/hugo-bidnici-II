@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Dobře střiženo_
 
-  
-
 Oba roky, 1831 a 1832, které přímo souvisí s červencovou revolucí, jsou jedním z nejpodivuhodnějších a nejnápadnějších okamžiků dějin. Ona dvě léta uprostřed těch, která předcházejí a která následují, se tyčí jako dvě hory. Mají revoluční velikost. Rozeznáváme tam propasti. Společenské vrstvy, samotné základy civilizace, pevná skupina nadřazených a souhlasných zájmů, věkovité profily starobylého francouzského útvaru se tam objevují a mizejí v bouřlivých mracích systémů, vášní a teorií. Tato zjevování anebo mizení byla nazvána odbojem anebo hnutím. Chvílemi tam zasvitne pravda, světlo lidské duše.
 
 Tato pozoruhodná doba je dost vyhraněna a máme už k ní dostatečný odstup, abychom mohli už nyní vystihnout její hlavní rysy.
@@ -68,8 +66,6 @@ Tento boj práva se skutečností trvá od počátku lidské společnosti. Úkol
 
 ## (2)  
 Špatně ušito
-
-  
 
 Nicméně – jiné je úsilí mudrců a jiné je úsilí chytráků.
 
@@ -154,8 +150,6 @@ Potom, což bylo strašné, ustoupilo do stínu.
 ## (3)  
 Ludvík Filip
 
-  
-
 Revoluce mají hrozné paže a šťastnou ruku; těžce dopadnou, ale dobře volí. I když jsou nedokončené, nebo dokonce zakrnělé a zpanchartělé a donucené stát se revolucemi podřadnějšími, jakou se stala revoluce v roce 1830, zbude jim vždycky ještě tolik prozíravé jasnozřivosti, že nedopadají špatně. I když časem ochabují, nikdy se nevzdávají.
 
 Nechlubme se však příliš; i revoluce se mýlí a zažili jsme i vážná nedopatření.
@@ -212,8 +206,6 @@ Ludvík Filip byl jedněmi souzen přísně a druhými snad tvrdě, a je pocho
 
 ## (4)  
 Trhliny v základech
-
-  
 
 Než vypravované drama pronikne do shluku tragických mraků, které zahalují počátek vlády Ludvíka Filipa, nesmí tu být nic nejasného; proto jsme se musili vyslovit o králi.
 
@@ -326,8 +318,6 @@ Uplynulo sotva dvacet měsíců od červencové revoluce, a už se otvíral s 
 ## (5)  
 Události, ze kterých se dějiny rodí  
 a jež dějiny přehlížejí
-
-  
 
 Ke konci dubna se všechno zhoršilo. Kvašení se proměnilo ve var. Od roku 1830 objevovaly se tu a tam malé dílčí vzpoury, které byly snadno potlačeny, ale rodily se opět, což bylo příznakem rozsáhlého podzemního hnutí. Doutnalo cosi strašného. Občas bylo možno zahlédnout ještě málo zřetelné a špatně osvětlené obrysy pravděpodobné revoluce. Francie pozorovala Paříž, Paříž pozorovala předměstí Saint-Antoine.
 
@@ -493,6 +483,8 @@ _L._
 
 _u og a1 fe_
 
+  
+
 Lidé, kteří se tehdy o záhadném nálezu dověděli, teprve později porozuměli skrytému smyslu oněch čtyř velkých písmen: quinturioni, centurioni, decurioni, průzkumníci; a smysl oněch písmen: u og a1 fe bylo datum, které znamenalo 15. dubna 1832. Pod každým velkým písmenem byla napsána jména s velmi typickým označením. Tak například:
 
 _Q. Bannerel:_ 8 pušek, 83 kartáčů. Spolehlivý člověk.
@@ -539,6 +531,8 @@ Ale po řečech a slovech, po různých písemnostech počaly sem tam pronikat 
 
 V ulici Popincourt zabavili u jistého vetešníka v zásuvce prádelníku sedm archů šedého papíru; každý byl složen po délce a potom na čtyřikrát. Archy přikrývaly šestadvacet čtverců téhož šedého papíru, které byly složeny jako náboje, a lístek, na němž bylo napsáno:
 
+  
+
 Ledek 12 uncí
 
 Síra 2 unce
@@ -546,6 +540,8 @@ Síra 2 unce
 Uhlí 2 1/2 unce
 
 Voda 2 unce
+
+  
 
 Zápis soudního řízení zjistil, že zásuvka silně páchla prachem.
 
@@ -585,6 +581,8 @@ _Pluviôse, roku čtyřicátého revolučního letopočtu._
 
 Tato společnost přežila všechny soudní rozsudky, které ji prohlašovaly za rozpuštěnou, a neváhala pojmenovat své odbory významnými jmény jako:
 
+  
+
 _Píky._
 
 _Poplašný zvon._
@@ -606,6 +604,8 @@ _Robespierre._
 _Úroveň._
 
 _Půjde to._
+
+  
 
 Společnost pro lidská práva zplodila Společnost činu. Byli to netrpělivci, kteří se odtrhli a běželi napřed. Jiné společnosti se snažily získat členstvo ve velkých původních spolcích. Vůdcové odborů si stěžovali, že se jednoty trhají. Tak vznikly _Galská společnost_ a _Komitét pro organizaci samosprávy._ Stejně _Sdružení pro svobodu tisku, pro svobodu jednotlivce, pro vzdělání lidu,_ a _Sdružení proti nepřímým daním._ Dále Společnost dělnických přátel rovnosti, která se rozpadla na tři skupiny: přátele rovnosti, komunisty a opraváře. Potom vojsko Bastily, jakýsi druh vojensky organizované kohorty, kde byli čtyři muži vedeni kaprálem, deset seržánem, dvacet poddůstojníkem, čtyřicet důstojníkem; znalo se nanejvýš pět mužů. Tento útvar, v němž se obezřelost snoubila s odvahou, se zdál nést pečeť benátského génia. Ústřední výbor, jenž byl hlavou, měl dvě paže, Společnost činu a vojsko Bastily. I jedna legitimistická společnost, Rytíři věrnosti, si čile vedla v republikánských vodách. Kdosi ji udal a byla rozpuštěna.
 
@@ -665,8 +665,6 @@ O to pečuje Bůh. Mírnit příkrosti, to je veškerá politika boží.
 
 ## (6)  
 Enjolras a jeho poručíci
-
-  
 
 Asi v téže době vykonal Enjolras, předvídaje možné události, tajemnou přehlídku.
 

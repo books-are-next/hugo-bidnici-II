@@ -6,21 +6,25 @@ contentType: prose
 ## _(1)  
 Prapor – První jednání_
 
-  
-
 Stále se nic nedělo. Na Saint-Merry odbilo deset hodin. Enjolras a Combeferre se usadili s karabinou v ruce u průrvy ve velké barikádě. Nemluvili; naslouchali a snažili se postřehnout i nejtlumenější a nejvzdálenější hluk pochodu.
 
 Náhle se v ponurém klidu ozval jasný, mladý a veselý hlas, který pravděpodobně přicházel z ulice Saint-Denis a na starý lidový nápěv _Při měsíčku_ zřetelně prozpěvoval tuto píseň, kterou zakončil křikem, napodobujícím kohoutí zakokrhání:
+
+  
 
 _Můj nos mi pláče, nejsem  
 v své kůži níčko,  
 své chocholouše dej sem,  
 jen na slovíčko._
 
+  
+
 _V modré kápi a čáce  
 kohout veliký,  
 my předměstská jsme ráce,  
 ki-ki-kiriký._
+
+  
 
 Stiskli si ruku.
 
@@ -85,8 +89,6 @@ Nikdo neodpověděl. Vystoupit na barikádu ve chvíli, kdy oddíl znovu míří
 ## (2)  
 Prapor – Druhé jednání
 
-  
-
 Od chvíle, kdy povstalci přišli ke Korintu a počali stavět barikádu, nikdo si valně nevšímal otce Mabeufa. Pan Mabeuf však při hloučku povstalců setrval. Vstoupil do přízemní krčmy a posadil se za pult. Tam jako by se pohroužil sám do sebe. Zdálo se, že se už nedívá a nemyslí. Courfeyrac a jiní ho dvakrát nebo třikrát oslovili, aby ho upozornili na nebezpečí a vybídli k odchodu, vypadalo to však, že je pan Mabeuf nevnímá. Když si ho nevšímali, pohyboval ústy, jako by někomu odpovídal, ale jakmile na něho promluvili, ústa se zastavila, znehybněla a oči jako by pohasly. Několik hodin před útokem na barikádu zaujal pozici, ve které už setrval: obě pěsti položil na kolena a hlavu naklonil kupředu, jako by nahlížel do propasti. Nic ho z tohoto postoje nemohlo vytrhnout; nezdálo se, že je duchem na barikádě. Když všichni nastoupili na přikázaná místa, zůstal v nízké místnosti jenom Javert, přivázaný ke sloupu, povstalec s obnaženou šavlí, hlídající Javerta, a on, pan Mabeuf.
 
 Když začalo vojsko útočit a salva zaduněla, zachvěl se na celém těle, jako by se byl probudil; prudce vstal, přešel místnost a v okamžiku, kdy Enjolras opakoval výzvu: „Nikdo se nehlásí?“, se objevil na prahu krčmy.
@@ -148,8 +150,6 @@ Enjolras se sklonil, nazvedl starcovu hlavu a plaše ji políbil na čelo; poto
 ## (3)  
 Gavroche by byl lépe učinil, kdyby byl přijal Enjolrasovu karabinu
 
-  
-
 Přes otce Mabeufa přehodili černý šál matky Hucheloupové. Šest mužů upravilo z pušek nosítka, položilo na ně mrtvolu a s ob­na­ženými hlavami a se slavnostní zdlouhavostí ji doneslo na velký stůl přízemní síně.
 
 Tito lidé, zaujatí vážným a posvátným úkonem, na své nebezpečné postavení vůbec ani nepomyslili.
@@ -176,8 +176,6 @@ To Marius právě dorazil na barikádu.
 
 ## (4)  
 Soudek prachu
-
-  
 
 Marius, stále ukryt v záhybu ulice Mondétour, byl přítomen první fázi boje, nerozhodný a chvějící se vzrušením. Dlouho však neodolal tajemné svrchované závrati, kterou bychom mohli nazvat voláním propasti. Nesmírnost nebezpečí, smrt pana Mabeufa, této smutné hádanky, zabití Bahorela, Courfeyracovo volání, ohrožení chlapcovo, nutnost přiskočit na pomoc, to všechno způsobilo, že zmizely poslední rozpaky a Marius se vrhl do vřavy se dvěma bambitkami v rukou. První ranou zachránil Gavroche, druhou vyprostil Courfeyraca.
 
@@ -231,8 +229,6 @@ Barikáda byla volná.
 
 ## (5)  
 Konec veršů Jeana Prouvaira
-
-  
 
 Všichni se obrátili k Mariovi. Courfeyrac mu padl okolo krku.
 
@@ -296,8 +292,6 @@ Enjolras se podíval na Javerta a řekl mu:
 
 ## (6)  
 Agónie smrti po agónii života
-
-  
 
 Zvláštnost tohoto druhu válčení záleží v tom, že se na barikádu vždycky útočí zpředu a že útočníci se střeží obejít pozici, snad proto, že se bojí záloh nebo se obávají zaskočení, nebo se strachují, že budou vlákáni do klikatých ulic. Proto se všechna pozornost povstalců upírala k velké barikádě, která byla zřejmě stále ohroženým místem a kde měl jistě zanedlouho propuknout nový boj. Marius přesto nepustil malou barikádu ze zřetele a zašel k ní. Byla opuštěná, hlídal ji jenom lampión, který blikal mezi dlažebními kameny. V uličce Mondétour a v rozvětvené ulici Petite-Truanderie a Cygne bylo naprosté ticho.
 
@@ -403,9 +397,13 @@ Uchopila blůzu a zahryzla se do ní; nohy jí na dlažbě dřevěněly.
 
 V téže chvíli se na barikádě ozval Gavrochův mladý kohoutí hlas. Chlapec vystoupil na stůl, nabíjel pušku a vesele zpíval tehdy oblíbený popěvek:
 
+  
+
 _A spatřiv Lafayetta,  
 vzkřik žandár: Po všem veta.  
 Prchněme! Prchněme! Prchněme!_
+
+  
 
 Eponina se nazvedla, naslouchala a pak zašeptala: „To je on.“
 
@@ -456,19 +454,23 @@ Eponina se pokusila ještě jednou o úsměv a skonala.
 ## (7)  
 Gavroche, výtečný odhadce vzdáleností
 
-  
-
 Marius stál v slibu a vtiskl polibek na zsinalé čelo, na němž se perlil studený pot. To nebyla nevěra Cosettě; bylo to snivé a jemné rozloučení s nešťastnou duší.
 
 Rozechvěn vzal psaní, které mu Eponina donesla. Tušil, že to není obyčejný dopis. Dychtil si jej přečíst. Takové už je lidské srdce; nešťastné děvče jen zavřelo oči, a Marius už chvátal otevřít dopis. Uložil Eponinu opatrně na zem a odešel. Něco mu napovídalo, že dopis nemůže číst v přítomnosti mrtvé.
 
 Přistoupil ke svíčce v přízemní síni. Bylo to malé psaní, přeložené a zalepené s ženskou pořádkumilovností. Adresa napsaná ženským písmem zněla:
 
+  
+
 _Panu Mariovi Pontmercymu_
 
 _u pana Courfeyraca v ulici Verrerie, číslo 16._
 
+  
+
 Strhl pečeť a četl:
+
+  
 
 _Můj drahý,_
 
@@ -488,13 +490,21 @@ Tu si Marius vzpomněl, že mu zbývají dvě povinnosti: musí Cosettě oznámi
 
 Měl u sebe náprsní tašku a v ní sešitek, do něhož pro Cosettu zapisoval své myšlenky o lásce. Vytrhl list a tužkou napsal tyto řádky:
 
+  
+
 _Náš sňatek je nemožný. Ptal jsem se dědečka, odmítl mne; jsem chudý a ty také. Běžel jsem k tobě, ale nenašel jsem tě. Víš, co jsem ti slíbil, a slib splním. Umírám. Miluju tě. Až toto budeš číst, bude moje duše u tebe a bude se na tebe sladce usmívat._
 
+  
+
 Protože neměl nic, čím by list zapečetil, přeložil jej čtyřikrát a napsal adresu:
+
+  
 
 _Slečně Cosettě Faucheleventové_
 
 _u pana Faucheleventa, ulice Homme-Anné, čís. 7._
+
+  
 
 Když dopis složil, na chvíli se zamyslil, poté vzal z náprsní tašky sešitek, otevřel jej a touž tužkou napsal na první stránku tyto řádky:
 

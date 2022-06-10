@@ -3,6 +3,8 @@ title: "KNIHA SEDMÁPoslední doušek z\_kalicha"
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Sedmý kruh a osmé nebe_
 
@@ -419,8 +421,12 @@ Marius všechny ty myšlenky zmateně přemílal, bloudil od jedné ke druhé a�
 
 Ostatně na všechno se jakoby mimochodem Cosetty vyptal, a ta byla tak čistá, jako je holubička bílá; nic nevytušila; mluvil s ní o jejím dětství a o jejím mládí a čím dál tím víc se přesvědčoval, že ten káranec byl ke Cosettě tak dobrý, tak otcovský a tak čestný, jak jen člověk může být. Všechno, co Marius letmo zahlédl a tušil, bylo pravda. Strašná kopřiva milovala a chránila lilii.
 
-  
+</section>
+
+<section>
 
 [^115]: Cosi božského.
 
 [^116]: Ježíšova slova z _Evangelia sv. Marka_ (VIII, 33): Odstup, (Satane) – lat.
+
+</section>

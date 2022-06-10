@@ -3,6 +3,8 @@ title: KNIHA DRUHÁVnitřnosti obra
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Mořem ochuzená země_
 
@@ -169,7 +171,9 @@ Paříž je položena mezi dvěma vrstvami, vrstvou vodní a vrstvou vzduchovou
 
 Dalo by se říci, že po deset století je stoka chorobou Paříže. Stoka je neřest, kterou má město v krvi. Lidový pud se v tom směru nikdy nemýlil. Řemeslo čističe stok bylo kdysi téměř tak nebezpečné a lidu stejně odporné jako řemeslo rasovo, které budilo hrůzu a bylo přenecháváno katovi. Jen vysoká mzda přinutila zedníka, aby se odhodlal zmizet v tom smrdutém příkopu; žumpařův žebřík váhal se tam vnořit; říkávalo se: _sestoupit do stoky, to je jako být jednou nohou v hrobě;_ a už jsme řekli, že hrůzné pověsti obestíraly tuto hroznou stoku, obávané shromaždiště vyvrhelů, které nese stopu revolucí světa i revolucí lidstva a v němž nacházíme stopy všech kataklyzmat od předpotopní škeble až k Maratovu cáru.
 
-  
+</section>
+
+<section>
 
 [^93]: Něm. autor _Využití organické chemie v zemědělství_ (1840).
 
@@ -182,3 +186,5 @@ Dalo by se říci, že po deset století je stoka chorobou Paříže. Stoka je n
 [^97]: Vizionář upálený zaživa r. 1663.
 
 [^98]: Slavný chemik (1755–1809).
+
+</section>

@@ -3,6 +3,8 @@ title: KNIHA PATNÁCTÁUlice Homme-Armé
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Pijavý papír všechno vyzvonil_
 
@@ -54,7 +56,9 @@ Přecházel dlouhými, volnými kroky po pokoji až do chvíle, kdy jeho pohled 
 
 Před sebou v nakloněném zrcadle, které viselo nad kredencí, spatřil čtyři řádky, jež mohl jasně přečíst:
 
-  
+</section>
+
+<section>
 
 _Můj drahý,_
 
@@ -286,11 +290,15 @@ Po hmatu vyšel po schodech, spokojen tmou jako sova, která drží svou kořist
 
 V prudkém pohnutí člověk nečte, nýbrž drtí papír, který drží v ruce, svírá jej jako kořist, mačká jej, zatíná do něho drápy svého hněvu nebo jej tiskne radostí; přeběhne na konec, vrací se zpět; pozornost je schvácena horečkou; člověk chápe v hlavních rysech, v jádru; zachytí smysl, ale ostatní mu uniká. V Mariově listu Cosettě Jean Valjean viděl jenom slova:
 
-  
+</section>
+
+<section>
 
 _„Umírám. Až budeš toto číst, bude má duše u tebe a bude se na tebe usmívat.“_
 
-  
+</section>
+
+<section>
 
 Tato řádka ho nadobro oslepila; chvíli byl jako zdrcen změnou, která se udála v jeho nitru, a díval se na Mariův lístek s jakýmsi opojeným údivem; viděl zář, viděl smrt nenáviděné bytosti. Vnitřní radost ho donutila k strašnému výkřiku: „Tak je to tedy skončeno!“ Rozuzlení přišlo dřív, než se odvážil doufat. Bytost, která se postavila do cesty jeho osudu, zmizela. Odchází sám, dobrovolně a ochotně. „Ten člověk“ umírá, aniž to Jean Valjean zavinil. Snad je už dokonce mrtev. Tu počala jeho horečná mysl uvažovat. „Ne. Ještě není mrtev.“
 
@@ -309,97 +317,129 @@ Zatím Gavroche něco potkalo.
 
 Když svědomitě roztřískal svítilnu v ulici Chaume, zabočil do ulice Vieilles-Haudriettes, a protože tam neviděl „ani nohu“, považoval to za skvělou příležitost z plna hrdla si zazpívat. Jeho krok se zpěvem nezmírnil, naopak zrychlil. Podél spících nebo přestrašených domů počal rozsévat tyto paličské popěvky:
 
-  
+</section>
+
+<section>
 
 _Pták v habří nadává a plete:  
 ta zpropadená Atala  
 si něco s Rusem začala._
 
-  
+</section>
+
+<section>
 
 _Kampak, panenky, kampak jdete,  
 la la._
 
-  
+</section>
+
+<section>
 
 _Příteli vrabčíku, ty skřete,  
 vždyť včera na mě rozmilá  
 zaťukala a mámila!_
 
-  
+</section>
+
+<section>
 
 _Kampak, panenky, kampak jdete,  
 la la._
 
-  
+</section>
+
+<section>
 
 _Ty čtveračky jsou milokvěté:  
 z tinktury, jež mne opila,  
 by na mol byl i Orfila[^71]._
 
-  
+</section>
+
+<section>
 
 _Kampak, panenky, kampak jdete,  
 la la._
 
-  
+</section>
+
+<section>
 
 _Mám lásku rád, ať hladí, hněte;  
 popálivši mě, Jarmila  
 sama se o mě spálila._
 
-  
+</section>
+
+<section>
 
 _Kampak, panenky, kampak jdete,  
 la la._
 
-  
+</section>
+
+<section>
 
 _Zuzanka, Zejla v jedné větě.  
 Ta jejich hebká mantila!  
 Má duše se v ni halila._
 
-  
+</section>
+
+<section>
 
 _Kampak, panenky, kampak jdete,  
 la la._
 
-  
+</section>
+
+<section>
 
 _Když Láskou, která ve tmě kvete,  
 je orůžena Pamela,  
 cítím se proklet docela._
 
-  
+</section>
+
+<section>
 
 _Kampak, panenky, kampak jdete,  
 la la._
 
-  
+</section>
 
-  
+<section>
 
 _Pryč je mé srdce, nač se přete;  
 Jana je v letu popadla,  
 když hleděla do zrcadla._
 
-  
+</section>
+
+<section>
 
 _Kampak, panenky, kampak jdete,  
 la la._
 
-  
+</section>
+
+<section>
 
 _Hvězdám jsem řekl: „Hleďte, hleďte,  
 tohle je Stella, má milá!  
 To skončila se kadrila.“_
 
-  
+</section>
+
+<section>
 
 _Kampak, panenky, kampak jdete,  
 la la._
 
-  
+</section>
+
+<section>
 
 Gavroche doprovázel zpěv bohatou mimikou. Pohyb je oporou refrénu. Jeho obličej, nevyčerpatelný repertoár škrabošek, se šklebil křečovitěji a fantastičtěji než děravé prádlo v prudkém větru. Velká škoda, že byl na ulici sám a bylo tma. Po publiku nebylo ani vidu, ani slechu. Někdy bohatství nadání jde do prázdna.
 
@@ -427,11 +467,15 @@ Gavroche, ustavičně hotov čelit všemu nepředvídanému, nosil všechno při
 
 Napsal:
 
-  
+</section>
+
+<section>
 
 _Republika francouzská stvrzuje příjem tvého vozíku._
 
-  
+</section>
+
+<section>
 
 A podepsal se: _Gavroche._
 
@@ -507,56 +551,78 @@ A jak tak utíkal, povídal si v duchu:
 
 Pustil se do zpěvu, ztráceje se rychle v ulicích. Ve tmě pomalu zanikal zpěv:
 
-  
+</section>
+
+<section>
 
 _Je tolik Bastil, kdo je smete?  
 Už abys v ten svět do lila  
 krev čerstvou, chaso, nalila!_
 
-  
+</section>
+
+<section>
 
 _Kampak, panenky, kampak jdete,  
 la la._
 
-  
+</section>
+
+<section>
 
 _Hrát v kuželky chceš, nový světe?  
 Ta velká, jak se svalila,  
 hned stařina se sbalila._
 
-  
+</section>
+
+<section>
 
 _Kampak, panenky, kampak jdete,  
 la la._
 
-  
+</section>
+
+<section>
 
 _A berlami ať roztlučete  
 ten Louvre, kde tak bubřela  
 ta samovláda zpuchřelá!_
 
-  
+</section>
+
+<section>
 
 _Kampak, panenky, kampak jdete,  
 la la._
 
-  
+</section>
+
+<section>
 
 _Prolomili jsme mříže kleté:  
 „Hodina tvoje odbila.“  
 Král Karel zbledl do bíla._
 
-  
+</section>
+
+<section>
 
 _Kampak, panenky, kampak jdete,  
 la la._
 
-  
+</section>
+
+<section>
 
 Na strážnici se hlídka přece nechopila nadarmo zbraní. Dobyla vozík a zajala opilce. Kára byla uložena do kůlny; opilec byl dokonce pohnán před vojenský soud jako spoluviník. Při této příležitosti podalo tehdejší státní návladnictví důkaz, jak neúmorně a horlivě ochraňuje veřejnost.
 
 Gavrochova příhoda zůstala v ústním podání čtvrti Templu jako nejstrašnější vzpomínka starých obyvatelů v Marais a v jejich paměti je nazývána: Noční útok na strážnici u Královské tiskárny.
 
-  
+</section>
+
+<section>
 
 [^71]: Znalec jedů.
+
+</section>

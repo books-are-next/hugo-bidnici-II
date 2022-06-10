@@ -3,6 +3,8 @@ title: KNIHA ČTRNÁCTÁVznešenost zoufalství
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Prapor – První jednání_
 
@@ -10,21 +12,27 @@ Stále se nic nedělo. Na Saint-Merry odbilo deset hodin. Enjolras a Combeferre
 
 Náhle se v ponurém klidu ozval jasný, mladý a veselý hlas, který pravděpodobně přicházel z ulice Saint-Denis a na starý lidový nápěv _Při měsíčku_ zřetelně prozpěvoval tuto píseň, kterou zakončil křikem, napodobujícím kohoutí zakokrhání:
 
-  
+</section>
+
+<section>
 
 _Můj nos mi pláče, nejsem  
 v své kůži níčko,  
 své chocholouše dej sem,  
 jen na slovíčko._
 
-  
+</section>
+
+<section>
 
 _V modré kápi a čáce  
 kohout veliký,  
 my předměstská jsme ráce,  
 ki-ki-kiriký._
 
-  
+</section>
+
+<section>
 
 Stiskli si ruku.
 
@@ -397,13 +405,17 @@ Uchopila blůzu a zahryzla se do ní; nohy jí na dlažbě dřevěněly.
 
 V téže chvíli se na barikádě ozval Gavrochův mladý kohoutí hlas. Chlapec vystoupil na stůl, nabíjel pušku a vesele zpíval tehdy oblíbený popěvek:
 
-  
+</section>
+
+<section>
 
 _A spatřiv Lafayetta,  
 vzkřik žandár: Po všem veta.  
 Prchněme! Prchněme! Prchněme!_
 
-  
+</section>
+
+<section>
 
 Eponina se nazvedla, naslouchala a pak zašeptala: „To je on.“
 
@@ -460,17 +472,23 @@ Rozechvěn vzal psaní, které mu Eponina donesla. Tušil, že to není obyčejn
 
 Přistoupil ke svíčce v přízemní síni. Bylo to malé psaní, přeložené a zalepené s ženskou pořádkumilovností. Adresa napsaná ženským písmem zněla:
 
-  
+</section>
+
+<section>
 
 _Panu Mariovi Pontmercymu_
 
 _u pana Courfeyraca v ulici Verrerie, číslo 16._
 
-  
+</section>
+
+<section>
 
 Strhl pečeť a četl:
 
-  
+</section>
+
+<section>
 
 _Můj drahý,_
 
@@ -490,21 +508,29 @@ Tu si Marius vzpomněl, že mu zbývají dvě povinnosti: musí Cosettě oznámi
 
 Měl u sebe náprsní tašku a v ní sešitek, do něhož pro Cosettu zapisoval své myšlenky o lásce. Vytrhl list a tužkou napsal tyto řádky:
 
-  
+</section>
+
+<section>
 
 _Náš sňatek je nemožný. Ptal jsem se dědečka, odmítl mne; jsem chudý a ty také. Běžel jsem k tobě, ale nenašel jsem tě. Víš, co jsem ti slíbil, a slib splním. Umírám. Miluju tě. Až toto budeš číst, bude moje duše u tebe a bude se na tebe sladce usmívat._
 
-  
+</section>
+
+<section>
 
 Protože neměl nic, čím by list zapečetil, přeložil jej čtyřikrát a napsal adresu:
 
-  
+</section>
+
+<section>
 
 _Slečně Cosettě Faucheleventové_
 
 _u pana Faucheleventa, ulice Homme-Anné, čís. 7._
 
-  
+</section>
+
+<section>
 
 Když dopis složil, na chvíli se zamyslil, poté vzal z náprsní tašky sešitek, otevřel jej a touž tužkou napsal na první stránku tyto řádky:
 
@@ -544,6 +570,10 @@ Gavroche měl nápad, který přispěl k jeho rozhodnutí, ale o němž se nez
 
 „Je sotva půlnoc, ulice Homme-Armé je nedaleko, donesu dopis ihned a vrátím se ještě včas.“
 
-  
+</section>
+
+<section>
 
 [^70]: Postava mstitele z Molièrova _Dona Juana_ (též v Mozartově stejnojmenné opeře).
+
+</section>

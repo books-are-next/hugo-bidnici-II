@@ -3,6 +3,8 @@ title: KNIHA ČTVRTÁPomoc zdola může být pomocí shora
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Rána ještě krvácí, ale zevnitř se hojí_
 
@@ -212,3 +214,5 @@ Peněženka spadla otci Mabeufovi na nohu. To ho probudilo. Shýbl se a peněž
 Pan Mabeuf, celý zděšený, odnesl peněženku hospodyni.
 
 „To přišlo z nebe,“ prohlásila matka Plutarchová.
+
+</section>

@@ -3,6 +3,8 @@ title: KNIHA SEDMÁPatron–Minette
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Podkopy a podkopníci_
 
@@ -137,7 +139,9 @@ Potkáte-li je o půlnoci na liduprázdném bulváru, jsou hrozní. Nevypadají
 
 Jak chceme zahnat tyto nestvůry? Světlem. Přívalem světla. Ani jeden netopýr neodolá úsvitu. Osvětlujte společnost od nejnižších vrstev.
 
-  
+</section>
+
+<section>
 
 [^1]: Italský teolog v 16. stol., popírající některé věroučné články církve.
 
@@ -154,3 +158,5 @@ Jak chceme zahnat tyto nestvůry? Světlem. Přívalem světla. Ani jeden netop�
 [^7]: Velitel oddílu bezpečnostní policie, bývalý zloděj a podvodník.
 
 [^8]: Tlupy flétnistek, obchodníci omamnými jedy, žebráci, komediantky.
+
+</section>

@@ -3,6 +3,8 @@ title: KNIHA TŘINÁCTÁMarius vstupuje do stínu
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Z ulice Plumet do čtvrti Saint-Denis_
 
@@ -114,7 +116,9 @@ Podobně uvažoval Marius.
 
 Přemýšlel, byl sklíčen, ale odhodlán, a přece váhal; zkrátka chvěl se před tím, co chce podniknout, a pohledem bloudil v prostoru barikády. Povstalci tam polohlasně hovořili, ale nehýbali se a bylo cítit ono neúplné „skoroticho“, kterým se vyznačuje poslední odstavec čekání. Nad nimi ve třetím poschodí rozeznával podobu diváka nebo svědka, který mu připadal podivně pozorný. Byl to domovník, kterého zabil Le Cabuc. Zezdola při odlesku pochodně, zastrčené mezi dlažební kameny, bylo matně vidět jeho hlavu. Při nejasném, ponurém světle nic nepůsobilo tak podivně jako zsinalá, nehybná, udivená tvář se zježenými vlasy, s vytřeštěnýma očima a zvědavě upřeným pohledem. Jako by mrtvý pozoroval ty, kteří sami brzy zemřou. Dlouhý potůček krve, jenž mu vytékal z hlavy, odplýval červenými stružkami od okénka až do výše prvního poschodí, a tam se zastavil.
 
-  
+</section>
+
+<section>
 
 [^63]: Bojovník za nezávislost Švýcarska.
 
@@ -129,3 +133,5 @@ Přemýšlel, byl sklíčen, ale odhodlán, a přece váhal; zkrátka chvěl se
 [^68]: Řecký tyranobijce.
 
 [^69]: Obnovitel řecké demokracie po tyranii Třiceti koncem 5. stol. př. n. l.
+
+</section>

@@ -3,6 +3,8 @@ title: KNIHA OSMÁNavečerní stmívání
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Pokoj v přízemí_
 
@@ -368,3 +370,5 @@ Denně vycházel z domu ve stejnou dobu, podnikal stejnou cestu, ale den po dni
 „Prosťáček.“
 
 Děti chodily za ním a posmívaly se mu.
+
+</section>

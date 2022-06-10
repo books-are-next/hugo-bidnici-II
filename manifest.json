@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hugo-bidnici-ii-30ae5f7",
-  "revision": "30ae5f7",
+  "identifier": "hugo-bidnici-ii-7461c63",
+  "revision": "7461c63",
   "readingOrder": [
     "promo.html",
     "bidnici_ii_005.html",
@@ -43,8 +43,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:17:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870640020
+    "date": "Fri Jun 10 2022 17:50:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883459498
   },
   "documents": [
     {
@@ -1831,9 +1831,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 118,
-      "chars": 750,
-      "ideas": 16,
+      "words": 84,
+      "chars": 563,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "bidnici_ii_032.html",
@@ -1851,9 +1851,9 @@
   ],
   "totals": {
     "all": {
-      "words": 210151,
-      "chars": 1303065,
-      "ideas": 7895
+      "words": 210117,
+      "chars": 1302878,
+      "ideas": 7886
     },
     "chapters": {
       "words": 210027,

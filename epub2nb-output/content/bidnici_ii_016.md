@@ -3,6 +3,8 @@ title: KNIHA DEVÁTÁKam jdou?
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Jean Valjean_
 
@@ -16,21 +18,29 @@ To všechno mu působilo starosti.
 
 A pak ho vyvedl z míry a dokonale poplašil nevysvětlitelný objev. Ráno téhož dne byl vzhůru velmi časně a procházel se v zahradě už předtím, než se otevřely Cosettiny okenice, když vtom spatřil na zdi tuto řádku, vyrytou pravděpodobně hřebíkem:
 
-  
+</section>
+
+<section>
 
 __Ulice Verrerie číslo 16.__
 
-  
+</section>
+
+<section>
 
 Nápis byl čerstvý, zářezy v začernalé omítce byly bílé, trs kopřiv u paty zdi byl posypán jemným, bílým vápnem. Bylo to asi napsáno v noci. Co je to? Adresa? Znamení pro druhé? Výstraha jemu? Ať tomu bylo tak či onak, bylo zřejmé, že si někdo zjednal přístup do zahrady a že do ní vnikl. Vzpomněl si na zvláštní příhody, které pobouřily dům. V duchu si dokreslil další. Střežil se o nápisu na zdi promluvit s Cosettou; bál se, aby ji nepolekal.
 
 A jak tak všechno rozebíral, všiml si stínu, který dával tušit, že se někdo právě zastavil na vrcholu svahu přímo nad ním. Už se chtěl otočit, když mu na kolena dopadl čtyřikrát složený kus papíru, jako by mu jej byla něčí ruka hodila přes hlavu. Vzal papír, rozložil jej a četl na něm tato slova, napsaná tužkou velkými písmeny:
 
-  
+</section>
+
+<section>
 
 ODSTĚHUJTE SE!
 
-  
+</section>
+
+<section>
 
 Jean Valjean rychle vstal; na svahu nikdo nebyl; rozhlédl se okolo sebe a spatřil bytost větší než dítě, menší než muž, oděnou v šedou halenu a šedomodré manšestrové kalhoty; překročila zábradlí a sklouzla do příkopu Martova pole.
 
@@ -136,6 +146,10 @@ Starý Mabeuf vstoupil do domu, vzal klobouk, mechanicky hledal knihu, kterou by
 
 A roztržitě odešel.
 
-  
+</section>
+
+<section>
 
 [^37]: Atentátníci.
+
+</section>

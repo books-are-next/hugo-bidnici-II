@@ -3,6 +3,8 @@ title: KNIHA OSMÁZlý chuďas
 contentType: prose
 ---
 
+<section>
+
 ## _(1)  
 Marius hledá dívku s kloboukem  
 a nachází muže s čepicí_
@@ -24,12 +26,16 @@ Marius stále bydlil v Gorbeauově baráku. Nikoho si tam nevšímal. V tu dob
 
 Jednoho zimního dne vysvitlo odpoledne trochu slunce, ale bylo 2. února, starobylý svátek Hromnic, a zrádné slunce, jež toho dne věští půldruhá měsíce mrazů, nadchlo lutyšského kanovníka Matyáše Laensberga k těmto klasickým veršům:
 
-  
+</section>
+
+<section>
 
 _Když na Hromnice svítí slunce,  
 medvěd se schoulí ve špelunce._
 
-  
+</section>
+
+<section>
 
 Marius právě vyšel ze své komůrky. Stmívalo se. Byl čas povečeřet; však už bylo svrchovaně třeba, aby také zasedl k jídlu. Ó, křehkosti ideální lásky!
 
@@ -82,7 +88,9 @@ Marius si řekl, že se snad z obsahu dozví potřebné a že mu nic nebrání
 
 Dopis zněl:
 
-  
+</section>
+
+<section>
 
 _Paní markýzo!_
 
@@ -93,19 +101,27 @@ _S nejhlubší úctou mám čest se znamenat,_
 _milostivá paní,  
 DON ALVAREZ, setník španělské jízdy, roajalista, který utekl do Francie a je právě na cestě do vlasti, ale nemá dostatečných prostředků, aby v cestě pokračoval._
 
-  
+</section>
+
+<section>
 
 K dopisu nebyla připojena adresa. Marius doufal, že ji najde ve druhém dopise, který byl adresován
 
-  
+</section>
+
+<section>
 
 _Paní hraběnce Montvernetové, ulice Casette č. 9._
 
-  
+</section>
+
+<section>
 
 Marius v něm četl:
 
-  
+</section>
+
+<section>
 
 _Paní hraběnko!_
 
@@ -117,7 +133,9 @@ _BALIZARDOVÁ._
 
 Marius přešel ke třetímu listu, který byl jako předešlé prosbou o almužnu, a četl:
 
-  
+</section>
+
+<section>
 
 _Pan Pabourgeot, volič, obchodník s punčochami ve velkém, ulice Saint-Denis na rohu ulice Fers._
 
@@ -139,19 +157,27 @@ _PS. Stačilo by i čtyřicet sou._
 
 _Promiňte, že posílám tceru a že nepřicházím sám, ale smutné nedostatky v oblečení mi bohužel nedovolují vycházet…_
 
-  
+</section>
+
+<section>
 
 Konečně Marius otevřel čtvrtý dopis. Byl adresován:
 
-  
+</section>
+
+<section>
 
 _Panu dobrodinci z kostela Saint-Jacques-du-Haut-Pas._
 
-  
+</section>
+
+<section>
 
 Ten dopis měl jenom několik řádek:
 
-  
+</section>
+
+<section>
 
 _Dobrodinče!_
 
@@ -236,7 +262,9 @@ Když jej Marius otvíral, povšiml si, že velká a široká oplatka na zalepo
 
 _Četl:_
 
-  
+</section>
+
+<section>
 
 _Milý sousede a mladý muži!_
 
@@ -250,7 +278,9 @@ _JONDRETTE_
 
 _PS. Tcera počká na Vaše rozkazy, drahý pane Marie._
 
-  
+</section>
+
+<section>
 
 Tento dopis pomohl rozluštit temnou příhodu, která Mariovi od včerejška nedala pokoje, jako bys rozsvítil ve sklepě svíčku; rázem se všechno vysvětlilo.
 
@@ -310,7 +340,9 @@ Tu se zarazila, upřela vyhaslý zrak na Maria, rozesmála se, a jako by chtěl
 
 A počala si na veselou melodii pobroukávat tato slova:
 
-  
+</section>
+
+<section>
 
 _Tati, mně kručí v bříšku,  
 já ti mám hlad.  
@@ -321,7 +353,9 @@ jde po tělíčku
 a pacholíčku  
 je do pláče._
 
-  
+</section>
+
+<section>
 
 Sotva dozpívala, zvolala:
 
@@ -431,7 +465,9 @@ Jedno lůžko stálo u dveří, druhé u okna. Obě se dotýkala krbu, právě
 
 V rohu vedle otvoru, kterým se Marius díval, visela na zdi barevná rytina v rámu z černého dřeva, pod níž bylo velkými písmeny napsáno: SEN. Na obraze byla dřímající žena se spícím dítětem na klíně a orel v mracích s korunou v drápech. Žena jako by ze sna odsouvala korunu od hlavičky dítěte. V pozadí ve vší slávě stál Napoleon a opíral se o sytě modrý sloup, ozdobený tímto nápisem:
 
-  
+</section>
+
+<section>
 
 MARINGO
 
@@ -443,7 +479,9 @@ WAKRÁM
 
 JÝLOVÉ
 
-  
+</section>
+
+<section>
 
 Pod tímto obrazem byla o zeď opřena dřevěná deska, spíše delší než širší. Vypadala jako obraz obrácený pomalovanou stranou ke stěně, nebo jako zrcadlo, které někdo sundal a zapomněl pověsit.
 
@@ -1512,7 +1550,9 @@ Zamířila přímo k posteli. Marius zakusil chvíli nevýslovné úzkosti; ale
 
 Děvče si dlaní přihladilo vlasy, usmálo se na sebe do zrcadla a zazpívalo si puklým, zastřeným hlasem:
 
-  
+</section>
+
+<section>
 
 _Jen týden lásky! Což i tentokrát se  
 čas blaha odměří tak skrblicky?  
@@ -1521,7 +1561,9 @@ Když milovat, ať je to navždycky,
 ať je to navždycky,  
 ať je to navždycky._
 
-  
+</section>
+
+<section>
 
 Marius se chvěl. Není přece možné, aby neslyšela jeho dech.
 
@@ -1539,12 +1581,16 @@ Holka zamířila k oknu, podívala se ven a řekla nahlas se svým obvyklým v
 
 Prozpěvovala:
 
-  
+</section>
+
+<section>
 
 _Opouštíš mě a jdeš si hledat slávu,  
 můj smutný duch však provází tvůj krok._
 
-  
+</section>
+
+<section>
 
 Ještě jednou pohlédla do zrcátka, vyšla a zavřela za sebou dveře.
 
@@ -2488,13 +2534,17 @@ Chlapec si ji prohlížel.
 
 Šel dál a prozpěvoval si:
 
-  
+</section>
+
+<section>
 
 _Korunu na stranu,  
 na chůdách po svém vkusu  
 si na lov havranů…_
 
-  
+</section>
+
+<section>
 
 Po třech verších ustal. Došel před číslo 50–52, a protože našel dveře zavřené, začal do nich kopat. Rány byly přímo heroicky zvučné a prozrazovaly spíš vzrostlého chlapa než nohu dítěte, která vězela ve velkých mužských botách.
 
@@ -2536,7 +2586,9 @@ Chlapec se poškrábal za uchem, podíval se na matku Bručavou a vzdychl:
 
 Pak se otočil na podpatku a stařena, která zůstala u vrat, zanedlouho slyšela, jak si v aleji černých jilmů, třesoucích se v zimním větru, zpívá jasným hlasem písničku:
 
-  
+</section>
+
+<section>
 
 _Korunu na stranu,  
 na chůdách po svém vkusu  
@@ -2548,6 +2600,10 @@ dal mu groš pro štěstí._
   
   
 
-  
+</section>
+
+<section>
 
 [^9]: Mezi čtyřma očima na odlehlém místě nebudou zamýšlet modlit se Otčenáš (lat.).
+
+</section>

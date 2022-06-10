@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Mořem ochuzená země_
 
-  
-
 Paříž vyhazuje ročně dvacet pět miliónů do vody. A ne obrazně. Cože? A jak? Ve dne v noci. Jaký sleduje cíl? Žádný. S jakým úmyslem? Neúmyslně. Proč? Pro nic za nic. Kudy? Svými vnitřnostmi. Co jsou její vnitřnosti? Její stoka.
 
 Dvacet pět miliónů je nejnižší z přibližných čísel, která nám říkají odborné vědecké odhady.
@@ -67,8 +65,6 @@ Tam se ve vlhké mlze objevuje krysa, jako by ji Paříž porodila.
 ## (2)  
 Dějiny staré stoky
 
-  
-
 Představme si, že nadzvedneme-li Paříž jako víko, objeví se nám podzemní síť stok vypadající z ptačí perspektivy jako silná větev naroubovaná po obou stranách na řeku. Na pravém břehu bude okružní stoka kmenem této větve, vedlejší stoky budou jakýmisi ratolestmi a slepé stoky větvičkami.
 
 Tento obraz je jen povšechný a jen napolo přesný, protože pravý úhel, tak charakteristický při podzemním rozvětvení, je v rostlinstvu velmi vzácný.
@@ -93,8 +89,6 @@ To nás zároveň poučuje. Před chvílí jsme řekli, že stokou procházejí 
 
 ## (3)  
 Bruneseau
-
-  
 
 Ve středověku byla pařížská stoka pověstná. V šestnáctém století se ji pokusil Jindřich II. prozkoumat, ale nepodařilo se mu to. Jak tvrdí Mercier, byla stoka přenechána sama sobě a stala se tím, čím se sama mohla stát.
 
@@ -123,8 +117,6 @@ Ten muž opravdu žil a jmenoval se Bruneseau.
 ## (4)  
 Neznámé podrobnosti
 
-  
-
 Průzkum se uskutečnil. Bylo to hrozné tažení: noční bitva proti moru a zadušení. Byla to zároveň výzkumná cesta. Jeden účastník výzkumu, bystrý dělník, tehdy velmi mladý, o tom vykládal před několika léty velmi zajímavé podrobnosti, které Bruneseau ve své zprávě podávané policejnímu prefektovi považoval za svou povinnost vynechat jakožto nedůstojné úředního slohu. V tehdejší době byly dezinfekční prostředky v úplných začátcích. Sotvaže Bruneseau pronikl prvními částmi podzemní sítě, osm dělníků z dvaceti odmítlo jít dál. Byla to složitá práce; průzkum vyžadoval čištění; musilo se tedy odklizovat a zároveň vyměřovat; musily se zaznamenávat propusti vody, počítat mříže a ústí, označovat přesně rozvětvování, stanovit rychlost proudu na rozvodech, zjišťovat bývalé obvody různých povodí, zkoumat malé stoky, které ústily do stoky hlavní, měřit výšku pod svorníkem každé stoky a šířku jednak při patce klenby, jednak u koryta, konečně nivelovat každou výšku splašků jak od koryta stoky, tak od povrchu ulice. Postupovalo se namáhavě. Často se stávalo, že se žebříky bořily tři stopy do bahna. Lucerny zhasínaly v otravném puchu. Občas musili omdlelého čističe vynést. V některých místech byly propasti. Půda se propadla, dlažba se bořila, stoka se měnila v bezednou studnu; nebylo možno najít pevnou půdu pod nohama; náhle zmizel muž; jen s velkou námahou ho vytáhli. Na Fourcroyův[^98] návrh zapálili v určitých vzdálenostech, v místech dostatečně větraných, velké koše koudele napité smolou. Místy byla zeď pokryta nestvůrnou houbou, mohlo by se říci nádory; zdálo se, že i kámen v tom nedýchatelném prostředí stůně.
 
 Na své výzkumné cestě postupoval Bruneseau odshora po proudu. Na rozvodí dvou vodovodů u Grand-Hurleur rozluštil na vyčnívajícím kameni letopočet 1550; tento kámen označoval mez, kde se zastavil Philibert Delorme, kterého Jindřich II. pověřil průzkumem pařížského podzemního kaliště. Kámen byl stopou šestnáctého století ve stoce; Bruneseau našel dílo sedmnáctého století ve vedení Ponceau a ve stoce v ulici Vieille-du-Temple, jež byla klenuta mezi rokem 1600 a 1650, a dílo osmnáctého století ve východní části sběrného kanálu proraženého a sklenutého v roce 1740. Obě klenby, zejména klenba nejmladší z roku 1740, měly větší trhliny a byly sešlejší než zdivo obvodové stoky z roku 1412, tedy z dob, kdy ménilmontantský potok byl povýšen na velkou stoku pařížskou, což je takové povýšení, jako když se nějaký sedlák stane prvním královským komorníkem; je to něco podobného, jako když jelimánka promění v zámeckého pana France.
@@ -148,8 +140,6 @@ Tak takhle jsme vypadali.
 ## (5)  
 Nynější pokrok
 
-  
-
 Dnes je stoka čistá, chladná, rovná, bezvadná. Je téměř vzorným obrazem toho, co se v Anglii označuje slovem „respectable“. Je přijatelná a našedivělá; tažená podle šňůry; dalo by se říci, že je vyšňořená. Podobá se dodavateli, který se stal státním radou. Je v ní téměř jasno. Bahno se tam chová slušně. Na první pohled by ji člověk měl za podzemní chodby, jež bývaly kdysi, za starých dobrých časů, „kdy národ miloval svého krále“, tak běžné a tak užitečné pro útěk panovníků a princů. Nynější stoka je krásná; vládne v ní čistý sloh; klasický, přímočarý alexandrín, který se po vypuzení z poezie patrně uchýlil do architektury a je jakoby přímíchán do všech kamenů té dlouhé temné a bělavé klenby; každý odtokový žlab je arkáda; ulice Rivoli je školským příkladem stoky. Ostatně je-li geometrická linie někde na svém místě, tedy jistě v kalovém korytu velkého města. Tam má být všechno podřízeno nejkratší cestě. Stoka dnes na sebe vzala úřední vzezření. I policejní zprávy, které se jí někdy týkají, jí prokazují větší úctu. Výrazy, jichž se o ní užívá v administrativním jazyce, jsou nadnesené a důstojné. Tomu, co se dříve nazývalo střevem, se teď říká galerie; čemu se říkalo díra, se dnes říká světlík. Villon by už své příležitostné obydlí nepoznal. Ta podzemní síť má však stále své nepamětné obyvatelstvo hlodavců, které se zde hemží víc než kdy jindy; čas od času se krysa, starý vousáč, odváží vystrčit hlavu z okénka stoky a pozoruje Pařížany; ale i ta havěť si zvyká, spokojená, že má svůj podzemní palác. Stoka ztratila svou původní divokost. Déšť, který dřívější stoku špinil, nynější stoku oplachuje. Ale příliš jí nedůvěřujte. Jsou v ní ještě jedovaté plyny. Je spíše pokrytecká než bezúhonná. Policejní prefektura a zdravotní komise se marně namáhají. Přes všechna větrací a ozdravovací zařízení vydechuje stoka podezřelý zápach jako Tartuffe po zpovědi.
 
 Přiznejme si, že odplavováním odpadků vzdává stoka hold civilizaci, a jako je Tartuffovo svědomí pokrok proti Augiášovu chlévu, tak je jisto, že se pařížská stoka zlepšila.
@@ -160,8 +150,6 @@ Muž, na něhož každý zapomíná a jehož jsme už jmenovali: Bruneseau.
 
 ## (6)  
 Budoucí pokrok
-
-  
 
 Vyhloubit pařížskou stoku nebyla malá námaha. Pracovalo na ní deset posledních století, aniž ji dokončilo, jako nemohlo dokončit Paříž. A vskutku, stoka prodělává všechny nárazy, které prodělával růst Paříže. Leží v podzemí jako ďábelská chobotnice s tisíci chapadly, která se rozrůstá pod městem právě tak, jak roste město nahoře. Kdykoli město razí novou ulici, stoka natáhne nové chapadlo. Stará monarchie vybudovala jen třiadvacet tisíc tři sta metrů stoky; tam to dotáhla Paříž do 1. ledna 1806. Od té doby, k níž se hned vrátíme, se v díle s úspěchem a rázně dále pokračovalo; Napoleon vystavěl – tato čísla jsou zajímavá – čtyři tisíce osm set čtyři metry; Ludvík XVIII. pět tisíc sedm set devět; Karel X. deset tisíc osm set třicet šest; Ludvík Filip devětaosmdesát tisíc dvacet; republika z roku 1848 třiadvacet tisíc tři sta osmdesát jeden; nynější vláda sedmdesát tisíc pět set; celkem dodnes dvě stě dvacet šest tisíc šest set deset metrů; šedesát mil stoky; nesmírné vnitřnosti Paříže. Tajemná větvení, jež bez ustání pracují; neznámá a nesmírná stavba.
 

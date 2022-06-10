@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Z ulice Plumet do čtvrti Saint-Denis_
 
-  
-
 Hlas, který za soumraku zavolal Maria na barikádu v ulici Chanvrerie, mu připadal jako hlas osudu. Chtěl zemřít – a hle, příležitost se naskýtala; klepal na dveře hrobu – a ruka ve stínu mu podávala klíč. Ponuré brány, které se před zoufalstvím otvírají v temnotách, jsou lákavé. Marius odsunul mříž, která mu tolikrát dovolila projít, vyšel ze zahrady a řekl si:
 
 „Pojďme!“
@@ -49,8 +47,6 @@ Ale Marius šel dál svou cestou.
 ## (2)  
 Paříž ze soví perspektivy
 
-  
-
 Kdyby byla v této chvíli nad Paříží poletovala nějaká bytost s netopýřími nebo sovími křídly, byla by se jí naskytla pochmurná po­dívaná.
 
 Celá stará čtvrť kolem tržnice, jakési město v městě, kterou procházejí ulice Saint-Denis a Saint-Martin, kde se kříží tisíce uliček, z nichž si povstalci utvořili pevnost a zbrojnici, byla by té bytosti připadla jako velká tmavá díra, vyhloubená ve středu Paříže, protože tam pohled padal do propasti. Svítilny byly totiž rozbity, okna zavřena, přestalo tam svítit nejen světlo, ale ustal i všechen život, všechen hluk, všechen pohyb. Všude bděla a udržovala pořádek neviditelná policie vzpoury – noc. Ponořit hrstku vzbouřenců do hluboké tmy, znásobit každého bojujícího možnostmi, které tma poskytuje, je potřebnou taktikou povstání. Na sklonku dne se střílelo do každého okna, v němž se rozhořela svíčka. Světlo zhaslo, někdy byl i člověk v bytě zabit. A tak se nic nehýbalo. V domech panovalo zděšení, smutek, tupost; na ulicích jakási posvátná hrůza. Nešlo rozeznat ani dlouhé řady oken a poschodí, ani zubatinu komínů a střech, ani nejasné odlesky, které se obvykle třpytí na zabláceném a vlhkém dláždění. Oko, které by se bylo dívalo na tuto spoustu tmy shora, bylo by snad tu a tam v určitých vzdálenostech zahlédlo, jak nejasný svit zdůrazňuje lomené a podivné čáry, obrysy zvláštních staveb a něco podobného odleskům pohybujícím se na zříceninách; to byly barikády. Ostatek bylo jezero tmy, mlhavé, těžké, smuteční tmy, nad níž trčely nehybné a zlověstné siluety, věž Saint-Jacques, kostel Saint-Merry a dvě nebo tři velké budovy, které člověk staví jako obry a z nichž noc dělá přízraky.
@@ -73,8 +69,6 @@ Hlasu, z něhož jde strach, hlasu posvátného, který se skládá z řevu zv
 
 ## (3)  
 Na samém kraji
-
-  
 
 Marius došel až k tržnici.
 

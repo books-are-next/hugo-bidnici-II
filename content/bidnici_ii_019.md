@@ -6,9 +6,9 @@ contentType: prose
 ## _(1)  
 Dějiny Korintu od jeho založení_
 
-  
-
 Pařížané, kteří dnes vstoupí do tržnice v ulici Rambuteau, zpozorují po pravici, naproti ulici Mondétour, košíkářský krám, za jehož vývěsní štít slouží figurína v podobě císaře Napoleona Velikého s tímto nápisem:
+
+  
 
 NAPOLEON JE CELÝ UPLETEN
 
@@ -30,8 +30,12 @@ Chodec, který se z ulice Saint-Denis dal do ulice Chanvrerie, spatřil, jak se
 
 A v tomto pouze dvoupatrovém domě byla už před třemi sty lety slušně zařízená pověstná krčma. Vesele halasila na místě, které starý Théophile[^57] poznamenal těmito verši:
 
+  
+
 _Strašný kostlivec se tu klátí,  
 Pro nevěrnou se oběsil._
+
+  
 
 Místo bylo dobré, krčma přecházela z otce na syna. Za časů satirika Mathurina Régniera se jmenovala Pot-aux-Roses, a protože si svět liboval v rebusech, měla za štít růžově natřený sloup.
 
@@ -69,11 +73,15 @@ Síň v prvním poschodí, kde byla „restaurace“, byla velká a dlouhá m�
 
 Tuto síň, jež vypadala jako podkrovní komora, osvětlovalo jediné úzké okno a ustavičně rozsvícená lampa. Všechny kusy nábytku, které měly čtyři nohy, si vedly, jako by měly nohy jen tři. Ozdobou zdí obílených vápnem bylo jenom toto pětiverší, napsané k poctě matky Hucheloupové:
 
+  
+
 _Na dálku ujde, zblízka pelichá,  
 na nose, jenž smělostí tě trkne,  
 ční bradavice veliká.  
 Je o strach, že až frkne,  
 jej se vším všudy spolyká._
+
+  
 
 Bylo to napsáno na zdi uhlem.
 
@@ -85,8 +93,6 @@ Hoduj, můžeš-li, a jez, troufáš-li si.
 
 ## (2)  
 Staré veselé kousky
-
-  
 
 Jak víme, Laigle de Meaux bydlil raději u Jolyho než kde jinde. Měl byt, jako pták má větev. Oba přátelé spolu žili, spolu jedli i spali. O všechno se dělili, dokonce i trochu o Musichettu. Byli tím, čemu mniši doprovázející představeného říkají _bini._ Ráno 5. června odešli na snídani do Korintu. Joly měl důkladnou rýmu, kterou Laigle již také dostával. Oblek Laiglův byl ošumělý, ale Joly byl nastrojen.
 
@@ -277,8 +283,6 @@ A na Courfeyracův pokyn se dav nahrnul do ulice Chanvrerie.
 ## (3)  
 Nad Grantairem se sklání noc
 
-  
-
 Místo se skutečně napodiv hodilo, protože vchod do ulice byl rozšířen, pozadí zúženo a končilo slepou uličkou; Korint ji svíral, ulici Mondétour bylo lze zprava i zleva zahradit a útok byl možný jenom z ulice Saint-Denis, to jest nekrytě a zpředu. Podnapilý Bossuet měl bystrozrak jako střízlivý Hannibal.
 
 Když sem dav vtrhl, zděšení zachvátilo celou ulici. Všichni chodci se vytratili. Po pravé i po levé straně i v pozadí se jako bleskem od přízemí až ke střechám zavřely všechny krámy, výklady, vrata, okna, žaluzie, vikýře, okenice všech velikostí. Ustrašená stařenka honem připevnila před okno na dvě příčky k sušení prádla žíněnku, aby zachycovala střely. Jenom hospoda zůstala otevřena, a to z jednoduchého důvodu, že do ní vtrhl dav. „Ach, panebože! Ach, panebože!“ vzdychala matka Hucheloupová.
@@ -354,8 +358,6 @@ Zakoktal ještě několik nesrozumitelných slov, potom mu hlava těžce dopadla
 ## (4)  
 Pokus o uklidnění matky Hucheloupové
 
-  
-
 Bahorel, celý bez sebe nad barikádou, zvolal:
 
 „Podívejte se, jaký má ulice výstřih! A jak jí to sluší!“ Courfeyrac, bouraje tak trochu krčmu, snažil se uklidnit ovdovělou krčmářku.
@@ -429,8 +431,6 @@ Gavroche na něho zavolal:
 ## (5)  
 Přípravy
 
-  
-
 Mýlily se tehdejší noviny, když psaly, že barikáda z ulice Chanvrerie, tato _téměř nedobytná stavba,_ jak ji pojmenovaly, sahala až do prvního patra. Ve skutečnosti nebyla v průměru vyšší než šest sedm stop. Byla vybudována tak, aby bojující mohli podle libosti buď za ní zmizet a střílet, kryti hradbou, nebo vylézt na hřeben po čtyřech stupních, upravených na vnitřní straně z dlažebních kamenů. Průčelí barikády, vytvořené z hromad dlažebního kamene, ze sudů, spojených kládami a prkny zaraženými do kol Anceauovy káry a převráceného dostavníku, vypadalo ježatě a neproniknutelně. Mezi zdí domu a koncem barikády, který byl nejdále od hospody, byl ponechán otvor, kudy se bylo možno protáhnout ven. Nad barikádou poletoval červený prapor, přivázaný k oji dostavníku, která trčela do vzduchu a byla upevněna provazy.
 
 Malou barikádu Mondétour, ukrytou za domem hospody, nebylo vidět. Obě spojené barikády tvořily dokonalou hradbu. Enjolras a Courfeyrac neuznali za vhodné zabarikádovat jiný úsek ulice Mondétour, z které vede ulicí Prêcheurs východ k tržnici, protože si chtěli zachovat možné spojení s vnějškem a neměli valný strach z toho, že by je někdo napadl z nebezpečné a klikaté uličky Prêcheurs.
@@ -454,8 +454,6 @@ A když byly dostavěny barikády, určeny hlídky, nabity pušky a rozestavě
 ## (6)  
 V očekávání
 
-  
-
 Co dělali, zatímco čekali?
 
 Musíme to říci, neboť to patří k dějinám.
@@ -464,90 +462,126 @@ Zatímco muži dělali náboje a ženy cupaninu, zatímco se na rozžhaveném o
 
 Jaké verše? Tu jsou:
 
+  
+
 _Zda vzpomínáš, jak sladko se nám žilo,  
 když tenkráte byl každý z nás tak mlád  
 a srdce v nás po jiném netoužilo  
 než mít co na sebe a míti rád._
+
+  
 
 _Když dohromady smíchavše svá léta,  
 jsme čtyřicet jich spočtli nezcela  
 a v skrovném domově, byt ledokvětá,  
 sama zima jarně voněla._
 
+  
+
 _Čas krásy! Manuel měl moudrou pýchu,  
 Pařížan k svatým hodům pospíchal,  
 Foy hromoval, a o špendlík, trest hříchu,  
 jsem na živůtku tvém se popíchal._
+
+  
 
 _Tvé postavy kdo nevšimnout si může?  
 Když do Prada jsem k obědu tě ved,  
 bylas tak hezká, že se všechny růže  
 za tebou zdály hlavu otáčet._
 
+  
+
 _„Ach, jak je krásná!“, od růží to věje.  
 „Ten proudný vlas. Jak, sestro, voníte!  
 To jistě křídlo vespod složené je!  
 A čapka? Poupě, stěží rozvité.“_
+
+  
 
 _Kdo zřel, ten děl: „To Láska oblíbila  
 si tuhle šťastnou dvojici  
 a něžný duben v těch dvou zaslíbila  
 krásnému máji měsíci.“_
 
+  
+
 _Schováni, rádi, pěkně uzamčeni  
 jedli jsme z lásky zapověděné,  
 ještě má vůle nebyla než snění,  
 už vytušilas ano nebo ne._
+
+  
 
 _Sorbonna byla bukolická strana;  
 od šera k ránu jsem tě zbožňoval,  
 a jako říši Milování, plana,  
 zem latinskou jsem tehdy mapoval._
 
+  
+
 _Náš byt byl díra, jarní, třeba malá,  
 a nežilo se nám v ní nejhůře.  
 Když punčochus na nohu navlékala,  
 spatřil jsem blesknout hvězdu na hůře._
+
+  
 
 _Nadarmo čet jsem Platona a žalmy;  
 než moudrá kniha, ať ta nebo ta,  
 květ, jejžs mi dala, lépe ukázal mi,  
 čemu se říká božská dobrota._
 
+  
+
 _Já byl tvůj man, tys byla podmaněna.  
 Slast, v podkroví tě zapínat a víc!  
 Zřít s úsvitem, jak chodíš rozhalena,  
 v svém zrcátku tvář mládí hledajíc._
+
+  
 
 _Jak zapomenout dobu drahocennou,  
 čas květů, pentlí s pěknou mantilkou,  
 báň oblohy a zoru pozlacenou,  
 kdy láska mluví sladkou hantýrkou?_
 
+  
+
 _Sklo zatemnil kus šátku vlněného,  
 květník byl hezčí než sto záhonů;  
 já pívával rád z hrnku hliněného  
 a tobě jsem dal šálek z japonu._
+
+  
 
 _Co katastrof! Kdo neví, neuvěří:  
 tvé boa pryč a rukáv zničený.  
 A abychom sehnali na večeři,  
 chudinka Shakespeare – zašantročený!_
 
+  
+
 _Já žebrák byl, a tys mi přála trošku.  
 Tvé oblosti jsem nadychtil se dost.  
 Foliant Dantův byl nám za podložku,  
 když kaštany jsme jedli pro radost._
+
+  
 
 _V té šťastné komůrce jsem ponejprve  
 zlíbal tvá ústa. Když čas udeřil  
 a zcuchaná šlas, v tváři stín své krve,  
 tu stál jsem bled a v Boha uvěřil._
 
+  
+
 _Zda vzpomínáš na blaha tolikerá  
 a na fišíčka celá zmuchlaná?  
 Co vzdechů šlo ze srdcí plných šera  
 v hlubinu nebes říci hosanna._
+
+  
 
 Hodina, místo, vzpomínky z mládí, několik hvězd, které se počaly třpytit na nebi, zlověstné ticho opuštěných ulic, neúprosnost hrozícího dobrodružství, které se připravovalo, dodávaly dojemné kouzlo veršům, v šeru polohlasně přednášeným Jeanem Prouvairem, o němž jsme již řekli, že byl lyrický básník.
 
@@ -559,8 +593,6 @@ Její světlo připojovalo k červené barvě praporu zlověstný purpur.
 
 ## (7)  
 Muž, který se přidal k povstalcům v ulici Billettes
-
-  
 
 Nastala noc, byl klid. Bylo slyšet jenom nejasné hlasy a chvílemi výstřely, ale slabé a vzdálené. Toto protahované oddalování věstilo, že si vláda dává načas a sbírá síly. Padesát mužů čekalo na šedesát tisíc vojáků.
 
@@ -658,8 +690,6 @@ Gamén po vojensku pozdravil a vesele proklouzl průchodem velké barikády.
 
 ## (8)  
 Několik otazníků týkajících se jakéhosi Le Cabuka, který se snad ani Le Cabuc nejmenoval
-
-  
 
 Tragický obraz, do kterého jsme se pustili, by nebyl úplný a čtenáři by ušel přesný a skutečný obrys velkolepé chvíle společenských porodních bolestí a revolučního porodu, v němž se křeč mísí s úsilím, kdybychom v této kresbě zde načrtnuté vynechali divokou epickou příhodu plnou hrůzy, která se udála téměř ihned po odchodu Gavroche.
 

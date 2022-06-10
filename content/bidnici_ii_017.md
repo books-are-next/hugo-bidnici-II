@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Povrch otázky_
 
-  
-
 Z čeho vzniká vzbouření? Z ničeho a ze všeho. Z ponenáhlu uvolňovaného napětí, z prudce vyšlehnuvšího plamene, ze síly, která váhá, z větru, který se probudí. Poryv větru ovane myslící hlavy, snící mozky, trpící duše, palčivé vášně, do nebe volající bídu, a strhne všechno s sebou.
 
 Kam?
@@ -48,8 +46,6 @@ Vymezujeme.
 
 ## (2)  
 Podstata otázky
-
-  
 
 Je vzpoura a je povstání; to jsou dva projevy hněvu; jeden chybuje, druhý je v právu. V demokratických státech, jediných, které jsou založeny na spravedlnosti, se často stává, že zlomek společnosti uchvátí moc: tu se. celek zdvihne a v boji za své právo se třeba chopí i zbraně. Všude, kde jde o svrchovanost společnosti, válka celku proti skupině je povstání, kdežto útok skupiny proti celku je vzpoura; podle toho, kdo sídlí v Tuileriích – zda král nebo Konvent –, budou spravedlivě nebo nespravedlivě napadeny. Totéž dělo pochybilo, když bylo namířeno proti davu 10. srpna, a mělo pravdu 14. vendémiairu. Podobnost je zdánlivá, ale podstata je různá; Švýcaři brání bezpráví, Bonaparte brání právo. Ulice nemůže zrušit, co rozhodlo všeobecné hlasování ve své volnosti a svrchovanosti. Stejně je tomu i ve věcech pouhé civilizace; pud davu, včera podezíravý, se může zítra mýlit; táž zloba může být oprávněna proti Terrayovi[^40] a nesmyslná proti Turgotovi. Rozbíjení strojů, plenění skladů, vytrhávání kolejí, boření přístavů, scestné pohyby davů, lid upírající právo pokroku, zavraždění Rama[^41] jeho žáky, kamenování a vyhnání Rousseaua ze Švýcar, to je svévole. Izrael proti Mojžíšovi, Atény proti Fokionovi, Řím proti Scipionovi, to je vzpoura. Ale Paříž proti Bastile, to je povstání. Vojáci proti Alexandrovi, námořníci proti Kryštofu Kolumbovi, to je vzpoura, a bohaprázdná; proč? Protože Alexandros učinil mečem pro Asii to, co Kryštof Kolumbus učinil magnetickou střelkou pro Ameriku. Alexandros jako Kolumbus objevují svět. Tyto světy darované civilizaci rozmnožují světlo tou měrou, že všechna vina je na straně odporu proti němu. Někdy se lid zpronevěří sám sobě. Dav někdy zrazuje lid. Je například něco podivnějšího než dlouhý a krvavý protest podloudníků se solí, zdlouhavé a oprávněné povstání, které se v rozhodné chvíli, v den spásy, v hodině vítězství lidu spolčí s trůnem, obrátí se k chouanství a z odboje _proti_ se stane vzpourou pro? To jsou smutná veledíla nevědomosti. Podloudník se solí unikne královským šibenicím a s provazem na krku vztyčuje bílou kokardu. Zvolání: ‚Pryč s daní ze soli!‘ se změní ve výkřik: ‚Ať žije král!‘
 
@@ -118,8 +114,6 @@ Události, o kterých tu budeme vyprávět, patří k dramatickým a živouc�
 ## (3)  
 Pohřeb – příležitost k obrození
 
-  
-
 Protože už po tři měsíce cholera umrtvovala ducha a jakýmsi chmurným klidem mírnila vření, dozrávala Paříž na jaře 1832 k otřesu. V tom se velkoměsto podobá dělu; je-li nabito, stačí, aby zasršela jiskra, a vyjde rána. V červnu 1832 takovou jiskrou byla smrt generála Lamarqua.
 
 Lamarque byl muž slávy a činu. Osvědčil se postupně za císařství a za restaurace dvojí udatností, potřebnou v obou obdobích, srdnatostí na bojišti i odvážností na řečnické tribuně. Byl výmluvný, jako býval chrabrý; posluchači cítili v jeho slově meč. Jako Foy, jeho předchůdce, tak i Lamarque se po slavném období přísné kázně zastával svobody. Seděl mezi levicí a krajní levicí; dobyl si lásky lidu, protože uznával možnosti budoucího vývoje, a dav si ho oblíbil, protože kdysi věrně sloužil císaři. S hrabaty Gérardem a Drouetem patřil mezi ty, jež Napoleon hodlal povýšit na maršálky; smlouvy z roku 1815 ho pobuřovaly jako osobní urážka. Wellingtona přímo nenáviděl záštím, které se líbilo davu, a po sedmnáct let – sotva si všímaje událostí, které se mezitím zběhly – důstojně truchlil pro Waterloo. V hodince smrti přitiskl k srdci meč, který mu darovali důstojníci stodenní vlády. Napoleonovo poslední slovo bylo _armáda,_ Lamarquovo _vlast._
@@ -154,8 +148,6 @@ Co se stalo v té osudné vteřině? Nikdo to nedovedl říci. Temná chvíle, 
 
 ## (4)  
 Vření dávných dob
-
-  
 
 Nic není podivnějšího nad první rozvíření vzpoury. Všechno vybuchuje najednou. Předpovídalo se to? Ano. Připravovalo se to? Ne. Odkud to tedy vychází? Z dlažby. Odkud to padá? Zčistajasna. Tady má povstání ráz připravenosti, jinde zas je improvizací. Kdokoli se může zmocnit proudu lidí a vést jej, kam se mu zachce. Je to hrůzný počátek, do něhož se mísí jakýsi druh strašné rozjařenosti. Nejdříve hluk, zavírají se krámy, mizí výklady obchodníků; potom osamělé výstřely; lidé utíkají; na vrata dopadají údery pažeb; slyšíte, jak se na dvorech domů smějí služebné a říkají: „_Něco se semele!“_
 
@@ -211,8 +203,6 @@ Tuilerie osaměly. Ludvík Filip byl naprosto klidný.
 
 ## (5)  
 Zvláštnost Paříže
-
-  
 
 Jak jsme již řekli, viděla Paříž v minulých dvou letech nejedno povstání. Odmyslíme-li si vzbouřené čtvrti, tváří se Paříž za vzpoury kupodivu neobyčejně klidně. Paříž si rychle zvyká na všechno – je to pouhé vzbouření – a Paříž má tolik práce, že se pro podobnou maličkost nedá vyrušit. Takovou podívanou mohou poskytnout jenom obrovitá města. Jenom nesmírná prostranství mohou v sobě chovat jak občanskou válku, tak zároveň jakýsi podivný klid. Když pařížský lid povstává, když zarachotí bubny a když nastupuje vojsko a troubí se na poplach, kramář jenom řekne:
 

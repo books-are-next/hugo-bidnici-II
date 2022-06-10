@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Svévolné šibalství větru_
 
-  
-
 Zatímco montfermeilská krčma pomalu upadala a potápěla se, nikoliv do propasti finančního úpadku, ale do stoky dloužků, měli manželé Thénardierovi od roku 1823 ještě dvě děti, dva chlapce. Tedy dohromady pět dětí; dvě děvčata a tři chlapce. To bylo mnoho.
 
 Thénardierová se zbavila dvou posledních ještě v útlém věku, a to se zvláštním štěstím.
@@ -70,8 +68,6 @@ A tak se děti daly na bludnou cestu ulicemi nazdařbůh.
 
 ## (2)  
 Malý Gavroche těží z Napoleona Velikého
-
-  
 
 Pařížské jaro je často doprovázeno ostrými a drsnými větry, při nichž člověk zrovna nemrzne, ale přesto řádně prokřehne; ostré větry znepříjemňují nejkrásnější dny a působí jako průvan ledového vzduchu, který vniká do vyhřátého pokoje štěrbinami oken nebo nedovřenými dveřmi. Vypadá to, jako by nevlídná vrata zimy zůstala pootevřena a jimi táhlo. Na jaře roku 1832, kdy propukla první velká epidemie v Evropě, byly tyto vichřice úpornější a pichlavější než kdy jindy. Byla to vrata ještě ledovější než pootevřená vrata zimy. Byla to brána smrti. V studených větrech bylo cítit dech cholery.
 
@@ -773,8 +769,6 @@ Zelináři, sedící na svých vozech mezi hlávkami salátu a jinou zeleninou,
 
 ## (3)  
 Zvraty útěku
-
-  
 
 Téže noci se ve Force stalo toto:
 

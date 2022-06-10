@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Původ_
 
-  
-
 PIGRITIA (lat. lenost) je strašné slovo.
 
 Zplodila svět sám pro sebe: _la pègre_, rozuměj _krádež_, a peklo _la pégrenne,_ rozuměj _hlad_.
@@ -87,8 +85,6 @@ Až dojdete poznání, až budete milovat, i tehdy ještě budete trpět. Den s
 ## (2)  
 Kořeny
 
-  
-
 Hantýrka je jazyk lidí, kteří se hrozí světla.
 
 Mysl se boří do nejtemnějších hlubin a sociální filozofie je vyprovokována k nejpalčivějším úvahám nad záhadným, zneuctěným a zároveň odbojným dialektem. Zde jsou zřejmé stopy trestu. Každá slabika jako by byla poznamenána. Slova lidové mluvy jsou tam jakoby svraštělá a okoralá pod rozžhaveným katovým železem. Z některých jako by se ještě kouřilo. Některá úsloví na vás působí jako prudce obnažené zlodějovo rameno se vpáleným znamením bourbonské lilie. Myšlenka se téměř vzpouzí, že má být vyjádřena trestaneckými výrazy. Metafora je v nich často tak drzá, jako by kdysi byla na pranýři.
@@ -96,6 +92,8 @@ Mysl se boří do nejtemnějších hlubin a sociální filozofie je vyprovokov�
 Ostatně přes všechno a právě proto má to podivné podřečí právo, aby mu bylo vyhrazeno místo v té velké nestranné pokladnici, které se říká literatura, kde je místo pro talíř pokrytý měděnkou jako pro zlatou pamětní minci. Ať souhlasíme nebo nesouhlasíme, hantýrka má svou skladbu a svou poezii. Je to řeč. Poznáváme-li podle zkomolenin některých slůvek, že ji žvýkal Mandrin[^32], podle jiskrnosti některých metonymií cítíme, že jí mluvil Villon.
 
 Tak skvělý a proslulý verš:
+
+  
 
 _Mais ou sont les neiges ďantan?_
 
@@ -107,19 +105,23 @@ je verš argotický. Antan – _ante annum –_ je slovo z thuneského argotu
 
   
 
-  
-
 _Les dabs ďantan trimaient siempre pour la pierre du Coësre._
 
 Což značí: _Bývalí králové se vždycky dávali korunovat._
+
+  
 
 V mysli toho krále korunovace znamenala galeje.
 
 Slovo _décarade_ vyjadřuje odjezd těžkého vozu tryskem, je přičítáno Villonovi a je ho hodno. To slovo, které uhání, až jiskry létají, vyhovuje, shrnuje všechno, co vyjadřuje La Fontainův mistrný onomatopoický verš:
 
+  
+
 __Six forts chevaux tiraient un coche_._
 
 Šest silných koní táhlo kočár.
+
+  
 
 Z čistě literárního hlediska by bylo málo studií tak zajímavých a plodných jako studium francouzského argotu. Je to jazyk v jazyce, druh zhoubného bujení, nezdravý roub, který vyvolal růst, parazit, který má své kořeny ve starém galském kmeni a jehož příšerné listí se plazí po celé jedné půlce jazyka. A to je jeho první vzhled, hrubý vzhled argotu. Ale těm, kdo studují řeč tak, jak se má studovat, to znamená tak, jako geologové studují zemi, připadá argot jako opravdový nános. Podle toho, vrtáme-li více nebo méně hluboko, nacházíme v argotu pod příkrovem staré lidové mluvy provensálštinu, španělštinu, italštinu, levantštinu, tuto řeč středozemních přístavů, angličtinu, němčinu a románštinu v jejích třech podobách – francouzské, italské a rétorománské, pak latinu a jazyk baskický a keltský. Je to hluboký a prapodivný útvar. Podzemní stavba, kterou stavěli společnými silami všichni bídníci. Každá prokletá rasa tam uložila svou vrstvu, každé utrpení tam odhodilo svůj kámen, každé srdce tam zanechalo svůj oblázek. Davy zlých, nízkých a podrážděných duší, které prošly životem a zmizely v nekonečnu, jsou tu téměř celé a jaksi viditelné ve tvaru příšerného slova.
 
@@ -229,9 +231,15 @@ _„Písně mi dodávaly síly.“_
 
 Neužitečnost poezie! K čemu je rým? V tomto sklepení se zrodily téměř všechny argotické písně. Právě z vězení Grand-Châtelet v Paříži pochází smutný refrén montgomerské galéry:
 
+  
+
 _Timaloumisaine, timoulamison._
 
+  
+
 Většina těch písní je truchlivá; některé jsou veselé; jedna je něžná:
+
+  
 
 __Icicaille est le théâtre  
 du petit dardan._  
@@ -256,8 +264,6 @@ Běda! Což nikdo nepřijde na pomoc lidské duši tonoucí v tomto přítmí? 
 ## (3)  
 Hantýrka, která pláče, a hantýrka, která se směje
 
-  
-
 Jak vidíme, je každá hantýrka, ať se jí hovořilo před čtyřmi sty lety nebo dnes, proniknuta ponurým symbolickým duchem, který všem slovům dává buď žalostnou, nebo hrozivou náplň. Vane z ní dávný plachý smutek tuláků ze Dvora divů, kteří hráli s vlastnoručně vyrobenými kartami, z nichž některé se nám dochovaly. Trefová osma například byl velký strom s osmi obrovskými jetelovými listy, jakési fantastické zosobnění lesa. U kořene toho stromu hořel oheň a na něm tři zajíci opékali na rožni lovce; vzadu, na jiném ohni se kouřilo z hrnce, ze kterého vyčuhovala psí hlava. V blízkosti hranic, na nichž byli upalováni podloudníci, a kotlů, v nichž byli vařeni penězokazi, nemůže být nad tuto namalovanou pomstu nic ponuřejšího. Různé tvary, které na sebe v království hantýrky brala myšlenka, ať to byla písnička nebo posměšek či vyhrůžka, mají všechny ráz malomyslnosti a stísněnosti. Písně, jejichž některé nápěvy byly sebrány, byly pokorné a až k pláči naříkavé. Zloděj si říká _ubohý zloděj_ a je skrývajícím se zajícem, myší, která uteče, ptákem, který uletí. Sotva se čeho dovolává, omezuje se na vzdychání; jeden z jeho nářků dolehl až k nám:
 
 _Je m’entrave que le dail comment meck, le daron des orgues, peut atiger ses mômes et ses momignards et les locher criblant sans être atigé lui-même._ Nechápu, proč Bůh, otec lidí, může trápit své děti a vnoučky a může je slyšet naříkat, aniž se sám trápí.
@@ -266,10 +272,14 @@ Má-li chudák čas přemýšlet, pokaždé se plazí před zákonem a tváří
 
 Asi v polovině minulého století nastala změna. Žalářní písně a zlodějské ritornely dostaly, abychom tak řekli, drzý a bodrý nádech. Plačtivý refrén _maluré_ byl nahrazen veselejším _larifla._ V osmnáctém století se setkáváme téměř ve všech písních, které vznikly na galejích, ve vězeních a na galérách s galejními veslaři, s jakousi ďábelskou a záhadnou rozverností. Slyšíme v nich onen pronikavý skočný refrén, jakoby ozářený fosforeskujícím světlem a vyluzovaný po lese vábivou bludičkou.
 
+  
+
 _Mirlababi surlababo,  
 Mirliton ribon ribette,  
 Surlababi mirlababo,  
 Mirliton ribon ribo._
+
+  
 
 Takhle si zpívali ti, kdo podřezávali někomu někde ve sklepě nebo v lesním zákoutí krk.
 
@@ -305,8 +315,6 @@ S rebeliemi je tedy nadobro konec. Lituji toho za chytráky. Byl to dávný pos
 
 ## (4)  
 Dvě povinnosti: bdít a doufat
-
-  
 
 A je tím všechno sociální nebezpečí zažehnáno? Jistěže není. Už není třeba se bouřit. V tom bodě může být společnost uklidněna, krev jí už nevstoupí do hlavy; teď ať se stará, aby dobře dýchala. Není potřebí bát se mrtvice, ale jsou tu souchotiny. A společenské souchotě se jmenují bída.
 

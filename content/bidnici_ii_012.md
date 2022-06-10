@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Samota a kasárny_
 
-  
-
 Cosettina bolest, ještě před čtyřmi nebo pěti měsíci tak srdcervoucí a živá, počala se hojit i bez jejího vědomí. Příroda, jaro, mládí, láska k otci, ptačí rozpustilost a veselí květin vlévaly do té panenské a tak mladistvé duše pomaloučku, den po dni, kapku po kapce cosi téměř velmi podobného zapomenutí. Uhasínal tento plamen nadobro? Nebo tam uléhaly jenom vrstvy popela? Jisté je, že se bolestný a palčivý osten téměř už neozval.
 
 Jednou si náhle vzpomněla na Maria:
@@ -44,8 +42,6 @@ A tu se přihodilo něco neobyčejného.
 
 ## (2)  
 Cosettiny obavy
-
-  
 
 V první polovině dubna Jean Valjean odcestoval. Dělával to, jak víme, občas, po velmi dlouhých přestávkách. Býval pryč, nanejvýš tři dny. Kam odcházel? Nikdo to nevěděl, ani sama Cosetta. Jen jednou ho doprovázela při odjezdu kočárem až na konec slepé uličky, na jejímž nároží četla: _Ulička Planchette._ Tam sestoupil a kočár odvezl Cosettu zpátky do ulice Babylone. Jean Valjean podnikal takové malé cesty, zejména tehdy, když v domě chyběly peníze.
 
@@ -134,8 +130,6 @@ Ale za několik dní se opět něco přihodilo.
 ## (3)  
 Domněnky obohacené Toussaintčinými poznámkami
 
-  
-
 V zahradě u mříže vedoucí na ulici stála kamenná lavička, chráněná sice habřím před pohledy zvědavců, na kterou však přesto mohla dosáhnout ruka mimojdoucího.
 
 Jednou večer v témž měsíci dubnu Jean Valjean odešel a Cosetta se posadila po západu slunce na lavičku. Vítr svěže čechral stromoví a Cosetta snila; zmocňoval se jí pomalu a beze vší příčiny smutek, onen nepřekonatelný smutek, který na člověka padá s večerem a jejž snad vyvolává – kdož to ví? – tajemství hrobu poodhalující se tou dobou.
@@ -207,49 +201,85 @@ A četla:
 ## (4)  
 Srdce pod kamenem
 
-  
-
 Vejde-li se vesmír do jedné bytosti, vzepne-li se bytost až k samému Bohu, tomu se říká láska.
 
+  
+
 V lásce andělé pozdravují hvězdy.
+
+  
 
 Duše je dvakrát smutná, je-li smutná z lásky.
 
 Jaká prázdnota, chybí-li nám bytost, která jediná naplňuje svět! A jak je pravdivé, že se milovaná bytost stává Bohem. Chápali bychom, že by na ni Otec všehomíra mohl žárlit, kdyby on sám to všechno nebyl stvořil zřejmě pro duši a duši pro lásku.
 
+  
+
 Jediné pousmání, jež zahlédneme pod bílým krepovým kloboučkem s fialovým závojem, stačí, aby duše vešla do krajin snů.
+
+  
 
 Za vším je Bůh, ale všechno Boha skrývá. Věci jsou černé, stvoření neprůhledná. Milujeme-li nějakou bytost, činíme ji průsvitnou.
 
+  
+
 Některé myšlenky jsou modlitbami. Jsou chvíle, kdy duše padne na kolena, ať se k tomu tělo staví jakkoliv.
+
+  
 
 Milenci si dovedou odloučenost nahradit tisíci smyšlenkami, v nichž přese všechno zůstala skutečnost. Nesmějí se vídat, nesmějí si psát; vymýšlejí si však plno tajných možností, aby se dorozuměli. Jejich poslíčkem jsou ptáčci zpěváčci, vůně květin, smích dětí, slunce, které svítí, vzdechy větru, hvězdné paprsky, všechno, co žije. A proč by ne? Všechno, co Bůh stvořil, je stvořeno, aby sloužilo lásce. Láska je dosti mocná, aby pověřila přírodu svými vzkazy.
 
 Ó, jaro, tys milostný dopis, který jí tu právě píšu!
 
+  
+
 Srdce má budoucnost mnohem spíše než hlava. Jedině láska může zaneprázdnit a vyplnit věčnost. K nekonečnosti patří nevyčerpatelnost.
+
+  
 
 Láska je součástí duše. Podstata obou je táž. Obě, duše i láska, jsou výronem božství, které nic nemůže porušit, rozdrobit, zničit. Je to ohnisko v nás, nesmrtelné a nekonečné, jež nic neumenší a neuhasí. Cítíme, jak se propaluje až do morku kostí, a vidíme, jak září až do nejzazších hlubin nebes.
 
+  
+
 Milování! Zbožňování! Milostná shodo dvou duší, které si rozumějí, které jsou zajedno, pohledů, které si vidí až na dno! Blažené chvíle, už nemeškejte! Samotáři, kteří se dva a dva procházíte po večerech! Dnové požehnaní a zářiví! Kolikrát se mi zdálo, že se hodiny občas odlučovaly od života andělů, aby zde na zemi procházely osudem lidí.
+
+  
 
 Bůh nemůže nic přidat ke štěstí milenců, leda by k němu přidal trvání bez konce. Po životě plném lásky – lásku navěky. To je vskutku něco navíc; ale zvětšit intenzitu nevýslovné blaženosti, kterou láska dává duši na tomto světě, toho není mocen ani sám Bůh. Bůh je plnost nebe, láska je plnost člověka.
 
+  
+
 Hledíte na hvězdy z dvojího důvodu: jsou zářivé a neproniknutelné. Ale zde máte na očích něžnější vyzařování a větší mystérium, ženu.
+
+  
 
 Ať jsme, kdo jsme, všichni máme blízké bytosti. Chybějí-li nám, chybí nám vzduch a zalykáme se. A to je smrt. Umřít z nedostatku lásky je věc hrozná. Zalkne se duše!
 
+  
+
 Když láska slila a smísila dvě bytosti v andělskou, posvátnou jednotku, tajemství života je pro ně objeveno; je to pak jen dvojí vyjádření téhož osudu; jsou to vlastně už jen dvě křídla téhož ducha. Milujte se! Buďte v nebi!
+
+  
 
 Od chvíle, kdy mimo vás projde žena, která při chůzi vyzařuje světlo, jste ztraceni, milujete. Nezbude vám než myslit na ni tak, že ji přinutíte, aby sama myslila na lásku.
 
+  
+
 Co láska začala, může dovršit jen Bůh.
+
+  
 
 Pravá láska si zoufá a je okouzlena nad ztracenou rukavicí nebo nad nalezeným kapesníčkem a potřebuje celou věčnost pro svou oddanost a své naděje. Je v ní zároveň něco z nekonečně velikého i z nekonečně malého.
 
+  
+
 Jste-li kámen, buďte magnetem, jste-li rostlina, buďte citlivkou. Jste-li člověk, buďte láskou.
 
+  
+
 Lásky se nedosytíš. Má-li člověk štěstí, chce ráj; má-li ráj, chce nebe. Ó vy, kteří jste zamilováni, to všechno je v lásce. Hleďte se v ní toho všeho dopídit. Podobně jako nebesa, i láska má dar rozjímání a navíc ještě rozkoš.
+
+  
 
 „Chodí ještě do Lucemburské zahrady?“
 
@@ -269,32 +299,52 @@ Lásky se nedosytíš. Má-li člověk štěstí, chce ráj; má-li ráj, chce n
 
 Jak je ponuré, když člověk nezná adresu vlastní duše.
 
+  
+
 Láska má své dětinskosti, ostatní vášně své malichernosti. Hanba vášním, které člověka snižují, čest těm, které ho učí vidět dětskýma očima!
+
+  
 
 Je to podivná věc, slyšeli jste kdy o ní? Jsem ve tmách. Jedna bytost mi vzala na odchodu nebe.
 
+  
+
 Ach, být tak pochováni bok po boku v témž hrobě, ruku v ruce, a chvílemi ve tmách něžně se pohladit, to by stačilo mé věčnosti.
+
+  
 
 Vy, kteří trpíte, protože máte rádi, milujte ještě více. Umírat láskou znamená láskou žít.
 
+  
+
 Milujte! Pochmurné hvězdné proměňování je přimíšeno k těmto mukám. V tomto posledním zápase je zároveň extáze.
+
+  
 
 Šťastní ptáci! Zpívají, protože mají hnízdo.
 
+  
+
 Láska je nebeské vdechování rajského vzduchu.
+
+  
 
 Ó srdce hluboká, moudří duchové, berte život, jak jej Bůh stvořil. Je to dlouhá zkouška, nepochopitelná průprava k osudu, jehož neznáme. Osud, tentokrát opravdový, začíná pro člověka na prvním stupni do hrobu. Tehdy se mu cosi zjeví a začíná rozlišovat konečno. Zastavte se u slova – konečno. Živoucí lidé vidí nekonečno. Konečno se zjeví teprve těm, kdo umřeli. Zatím milujte, trpte, doufejte a rozjímejte! Běda tomu, kdo miloval jen tělo, tvar, zdání! Smrt ho o všechno obere. Pokuste se milovat duši, pak se s ní shledáte.
 
+  
+
 Potkal jsem na ulici chudičkého mladého člověka, který miloval. Měl starý klobouk a jeho šaty byly ošumělé; lokty prodřené; jeho střevíce nabíraly vodu a duší mu prosakovaly hvězdy.
 
+  
+
 Jak veliká věc je být milován! Ale oč větší je milovat! Vášní srdce dospěje až k heroičnosti. Není pak v jeho složení nic nečistého; opírá se jen o vznešenost a velikost. Nedůstojná myšlenka v něm pak už nevzklíčí právě tak jako se kopřiva neuchytí na ledu. Vznešená a zářivě jasná duše, nepřístupná vášním a hrubým vznětům, povznesená nad mraky a stíny vezdejšího světa, nad bláznivostmi, lžemi, nad nenávistmi, marnivostmi a bědami, je ubytována v nebeském azuru a vnímá už jen hluboké záchvěvy v útrobách osudu, jako horští obři vnímají otřesy země.
+
+  
 
 Kdyby už nebylo nikoho, kdo by miloval, slunce by uhaslo.
 
 ## (5)  
 Když si Cosetta přečtla psaní
-
-  
 
 Zatímco Cosetta četla, upadala pomalu v snění. Ve chvíli, kdy zvedla oči od poslední řádky sešitku, kráčel vítězoslavně podle mříže, byla to jeho chvíle, krásný důstojník. Cosetta si řekla, že je ohyzdný.
 
@@ -326,8 +376,6 @@ V nic určitého. Netroufala si nic namlouvat a nechtěla nic odmítat. Chvíle
 
 ## (6)  
 Údělem stáří je včas odejít
-
-  
 
 Když nastal večer, Jean Valjean odešel a Cosetta se ustrojila. Upravila si účes, který jí nejlépe slušel, a oblékla si šaty s poněkud větším výstřihem, odhalujícím kousek hrdla, s výstřihem, jakému dívky říkají ‚trochu odvážný‘. Nebyl však ani trochu ‚odvážný‘, ale slušelo jí to lépe než jindy. Nastrojila se tak, aniž sama věděla proč.
 

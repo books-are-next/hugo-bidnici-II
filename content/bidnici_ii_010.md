@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Tajemný dům_
 
-  
-
 Uprostřed minulého století si prezident pařížského soudního dvora, který měl milenku a tajil se s tím, protože v té době velcí páni své milenky ukazovali a měšťané je skrývali, dal postavit „domeček“ na předměstí Saint-Germain, v opuštěné ulici Blomet, která se teď jmenuje ulice Plumet, nedaleko místa, jemuž tehdy říkali _Combat des Animaux._
 
 Byl to jednopatrový zahradní pavilón; v přízemí byly dva pokoje a v poschodí také dva; dole byla kuchyně, nahoře salónek, pod střechou komora, a před tím vším zahrada s velkou mříží do ulice. Zahrada měla asi jedno jitro. To bylo všechno, co mohli mimojdoucí zahlédnout; ale za pavilónem bylo úzké nádvoří a v hloubi nádvoří stálo nízké stavení se dvěma podsklepenými světnicemi, jakýsi útulek pro nahodilou potřebu, kde by se mohlo ukrýt dítě s kojnou. Do toho bytu vedla zezadu skrytá vrátka otvírající se do úzkého a dlouhého vydlážděného průchodu, který se všelijak kroutil, byl nekrytý, po obou stranách lemovaný vysokými zdmi, s ohromnou dovedností schovaný a téměř ztracený mezi ohradami sadů a školek, jejichž všechny hrany a zákruty sledoval, aby končil stejně tajnými vrátky, která se otvírala čtvrt míle od domu, téměř v jiné čtvrti na konci ulice Babylone.
@@ -59,8 +57,6 @@ Tento vysoce ušlechtilý muž měl v Paříži tři byty, aby unikl policii.
 ## (2)  
 Jean Valjean národním gardistou
 
-  
-
 Jinak žil v ulici Plumet a svůj život si tam uspořádal takto:
 
 Cosetta se služkou bydlila v pavilóně; měla velkou ložnici s malovanými pilíři mezi okny a budoár s pozlacenými lištami, bývalý salón pana předsedy, s čalouny a prostornými křesly; měla zahradu. Jean Valjean dal postavit do Cosettiny ložnice postel s nebesy z trojbarevného damašku a rozložil v něm starý překrásný perský koberec, který koupil v ulici Figuier-Saint-Paul u matky Gaucherové; aby zmírnil přísnost skvělých starožitností, přidal ke starým věcem vlídné a rozkošné kusy dívčího nábytku, etažér, knihovničku s knihami se zlatou ořízkou, psací potřeby s podložkou z pijavého papíru, šicí stolek vykládaný perletí, kartáče, hřebeny a flakóny z pozlaceného stříbra a toaletní stolek z japonského porcelánu. Dlouhé damaškové záclony v trojí barvě, ladící s damaškem nad postelí a s červeným základem, visely v oknech prvního poschodí. V přízemí byly záclony vyšívané. V zimě byl Cosettin domeček odshora dolů vytápěn. Jean Valjean sám bydlel v jakési lóži pro vrátného, která byla vzadu ve dvoře; měl tam popruhové lože s žíněnkou, stůl z měkkého dřeva, dvě židle vypletené slámou, majolikový hrnec na vodu, několik svazků knih na polici, v koutě svůj drahý kufřík, a nikdy teplo. Jídal s Cosettou a pro něho býval na stole režný chléb. Jakmile Toussaint­ka nastoupila, řekl jí:
@@ -94,8 +90,6 @@ V tom se ale mýlil.
 ## (3)  
 Foliis ac frondibus[^25]
 
-  
-
 A tak se zahrada, přenechaná sama sobě víc než půl století, stala neobyčejnou a půvabnou. Před čtyřiceti lety se v té ulici zastavovali mimojdoucí, aby se pohledem na ni potěšili, aniž tušili tajemství, která skrývala za svými svěžími a zelenými houštinami. I nyní se nejeden člověk zasnil a častokrát očima a myšlenkou všetečně zabloudil skrze pruty starodávných mřížových vrat, zavřených na zámek, pokroucených, rozviklaných, připevněných na dvou zelenavých a mechem obrostlých pilířích a malebně korunovaných štítem nerozluštitelných arabesek.
 
 V koutku bylo vidět kamennou lavičku, jednu dvě omšelé sochy, laťkové mřížoví, které se kdysi odtrhlo, jak trouchnivělo na zdi; jinak žádné stromořadí, žádný trávník; všude jen pýr. Zahradnické uspořádání zaniklo a vtrhla sem příroda. Bujel tu plevel, nádherné dobrodružství pro ubohý koutek země. Bílé fialy tu slavily svátky. V téhle zahradě nic nepřekáželo posvátnému úsilí, které všechno pudí k životu; důstojné rozrůstání zde bylo ve svém živlu. Stromy se skláněly k ostružinám, ostružiny se vzpínaly ke stromům, rostlina se šplhala, větev se skláněla, to, co se plazilo po zemi, hledělo se opřít o to, co se rozvíjelo na volném vzduchu, to, co vlaje ve větru, se sklánělo k tomu, co se vleklo v mechu; pně, větve, listí, stébla, houštiny, svlačce, úponky révy, trní, všecko se mísilo, prostupovalo, snoubilo, proplétalo; v té zahradě, která měla tři sta čtverečních stop, pod spokojeným pohledem Stvořitele příroda slavila a v úzkém a vroucím objetí uskutečňovala svaté tajemství sbratření, symbol sbratření lidstva. Zahrada už nebyla zahradou, bylo to ohromné houští; neproniknutelné jako les, zabydlené jako město, chvějící se jako hnízdo, temné jako katedrála, vonné jako kytice, opuštěné jako hrob, živé jako dav.
@@ -116,8 +110,6 @@ Algebra se hodí i na oblaka; hvězdné záření prospívá růži; nikdo by s
 
 ## (4)  
 Výměna mříže
-
-  
 
 Zdálo se, že zahrada, která byla kdysi stvořena ke skrývání tajemných prostopášností, se proměnila: stalo se z ní útočiště cudných tajemství. Nebyly tam už besídky ani pažit ani loubí ani jeskyně; bylo tam vznešené splývavé přítmí, které všude padalo jako závoj. Pafos[^26] se opět proměnil v Eden. Jako by cosi kajícného ozdravilo tento úkryt. Kytice nabízela své květy duši. Koketní zahrádka, kdysi tak pomlouvaná, se teď vrátila k panenství a cudnosti. Předseda v součinnosti se zahradníkem – bodrý muž, který se domníval, že kráčí ve stopách Lamoignonových[^27], s dalším naivkou, který věřil, že pokračuje v úsilí Lenôtrově[^28], ji obehnali, ostříhali, vystrojili a vyparádili pro milostné zálety; příroda se jí však opět zmocnila, naplnila ji stínem a připravila pro lásku.
 
@@ -209,8 +201,6 @@ Když s ním Cosetta vycházívala, opírala se o jeho rámě a srdce jí př
 
 ## (5)  
 Růže shledává, že je nebezpečnou zbraní
-
-  
 
 Jednou se Cosetta náhodou uviděla v zrcadle a řekla si: „No ne!“ Zdálo se jí, že je téměř hezká. Uvrhlo ji to do divného zmatku. Do té chvíle na svou tvář nemyslila. Vídala se v zrcadle, ale neprohlížela se. A potom, často jí říkávali, že je ošklivá. Jediný Jean Valjean říkával jemně:
 
@@ -321,8 +311,6 @@ A právě v té době, po šesti měsících, ji opět spatřil Marius v Luce
 ## (6)  
 Bitva začíná
 
-  
-
 Cosetta byla ve svém zátiší, právě tak jako Marius ve svém, přichystána vzplanout. S tajemnou a fatální trpělivostí přibližoval osud obě dvě bytosti, nabité a zemdlené bouřlivou elektřinou vášně, obě dvě duše, které přinášely lásku, jako mraky nesou blesk, a mají se jednou srazit a splynout v jediném pohledu jako mračna v jediném blesku.
 
 V milostných románech je pohled tak často zneužíván, že nakonec pozbyl vážnosti. Stěží si dnes troufáme říci, že se dvě bytosti do sebe zamilovaly na první pohled. A přece jen tak a jenom tak se lidé zamilují. To ostatní je jen to ostatní a přichází později. Nic není skutečnější než ohromné otřesy, kterým podlehnou duše při výměně osudové jiskry.
@@ -355,11 +343,19 @@ Cosetta nevěděla, co to je láska. Nikdy v životě neslyšela přikládat to
 
 Tím vznikaly hádanky, které velice zaměstnávaly obraznost _velkých,_ jako například:
 
+  
+
 __Ach! jak je páska krásná!__
+
+  
 
 Nebo:
 
+  
+
 __Soucit není sázka.__
+
+  
 
 Ale Cosetta odešla z kláštera ještě příliš mladá, než aby se hlouběji zabývala _páskou._ Nevěděla, jak pojmenovat to, co teď zakoušela. Ale jsme proto méně nemocni, neumíme-li svou nemoc pojmenovat?
 
@@ -385,8 +381,6 @@ Tak se v Cosettě ponenáhlu probouzela a rozvíjela u vědomí vlastní krá
 
 ## (7)  
 K jednomu smutku se přidruží ještě větší smutek
-
-  
 
 V každé situaci je člověk veden pudem. Stará věčná matka příroda kradmo upozorňovala Jeana Valjeana na Mariovu přítomnost. Jean Valjean se zachvíval v nejtajnější hloubi své myšlenky. Jean Valjean nic neviděl, nic nevěděl, a přece zkoumal tmu, ve které tápal, usilovně a pozorně, jako by cítil, že se z jedné strany něco buduje a z druhé cosi hroutí. Marius, poslušný zákona božího řízení, dělal rovněž na ponuknutí matky přírody, co mohl, aby se vyhnul „otci“. Ale někdy se stalo, že ho přece Jean Valjean spatřil. Mariovo chování nebylo ani trochu přirozené. Byl podezřele opatrný a nešikovně odvážný.
 
@@ -498,8 +492,6 @@ Obě tyto bytosti, které se milovaly tak dojemně, že tomu nebylo obdoby, a k
 
 ## (8)  
 Galejní řetěz
-
-  
 
 Jean Valjean byl nešťastnější než Cosetta. Mládí i v zármutku vidí všechno jednodušeji.
 

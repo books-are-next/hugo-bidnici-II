@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Podkopy a podkopníci_
 
-  
-
 V každé lidské společnosti najdeme to, čemu se na divadle říká třetí propadliště. Společenská půda je všude poddolována – buď k dobrému, nebo k zlému. Úsilí se vrší jedno na druhé. Jsou štoly horní a dolní. Někdy se horní i spodní vrstvy v temném podzemí hroutí pod tlakem civilizace a my po nich lhostejně a bezstarostně šlapeme. Encyklopedie minulého století byla dolem téměř odkrytým. Temnoty, ponuré kolébky prvního křesťanství, čekaly jenom na příležitost, aby vybuchly pod nohama Caesarů a zaplavily lidstvo světlem. Neboť v posvátných tmách je utajeno světlo. Sopky jsou plny dýmu, z něhož mohou vyšlehnout plameny. Valící se láva je nejdříve nocí. Katakomby, v nichž byla sloužena první mše, nebyly jenom římskými sklepy, nýbrž podzemím celého světa.
 
 Pod stavbou společenských řádů, pod tímto zázrakem, jenž je zároveň zbořeništěm, jsou štoly nejrůznější. Je tu sloj náboženská, sloj filozofická, sloj politická, sloj hospodářská, sloj revoluční. Ten kutá myšlenkou, onen číslem, třetí hněvem. Všichni na sebe navzájem volají a odpovídají si z jedné štoly do druhé. Utopie se šíří pod zemí štolami, které se tu větví na všechny strany. Někdy se tu setkávají a sbratřují. Jean Jacques Rousseau půjčuje svůj rýč Diogenovi a ten mu půjčuje lampu. Někdy se pouštějí do křížku. Kalvín kráká Socina[^1] za vlasy. Nic však nezastaví a nepřeruší napětí všech sil směřujících k cíli a nic neztlumí rozsáhlou a souběžnou činnost, která vře, vzdouvá se a klesá a opět se dme v temnotách a pomalu se přetváří navrch i vespod, zvenčí i zevnitř. Nesmírné, tajuplné hemžení. Společnost nemá ani tušení o tom hloubení pod zemí, které mění její útroby, kdežto povrch nechává nedotčen. Kolik podzemních slojí, tolik různého úsilí, tolik odlišných výsledků. Co vzchází z ražení těchto hlubinných chodeb? Budoucnost.
@@ -35,8 +33,6 @@ Odtud se jde k propastem.
 ## (2)  
 Mravní spodina
 
-  
-
 Tady mizí nezištnost. Matně se tu rýsuje démon; každý na svou pěst. Bezoké já tu vyje, hledá, hmatá a hlodá. V této propasti je sociální Ugolino[^3].
 
 Nelidské stíny, zpola zvířata, zpola příšery, se v této jámě plouží, nezajímají se o světový pokrok, neznají to slovo, ani jeho význam, a mají jedinou starost – jak ukojit své osobní potřeby. Žijí téměř neuvědoměle a v jejich duších je jakési příšerné odcizení. Mají dvě matky, dvě macechy: nevědomost a bídu. Mají jen jednoho našeptávače – potřebu, a jedinou formu uspokojení – plný žaludek. Jsou hrubě žraví, to znamená divocí, ne snad jako tyran, ale jako tygr. Utrpení vede tyto příšery ke zločinu; osudová souvislost, závratné plození, logika stínu. Příšery plazící se ve třetím společenském propadlišti nejsou již přidušeným voláním po absolutnu, nýbrž protestem hmoty. Člověk se tam stává netvorem. Začíná to hladem a žízní, končí přeměnou v Satana. Z tohoto sklepení vychází Lacenaire[^4].
@@ -60,8 +56,6 @@ Lidstvo, to je naprostá rovnost. Všichni jsme uhněteni z téže hlíny. Žá
 ## (3)  
 Babet, Gueulemer, Claquesous a Montparnasse
 
-  
-
 Čtyři lupiči, Claquesous, Gueulemer, Babet a Montparnasse, ovládali v letech 1830–1835 třetí pařížské propadliště.
 
 Gueulemer byl padlý Herkules. Jeho jeskyní byla stoka Arche-Ma­rion. Měl šest stop výšky, hrudník z mramoru a ocelové svaly, dech jako kovářský měch, tělo obra a slepičí mozek. Každý by si byl řekl, že vidí fameského Herkula v cvilinkových kalhotách a bavlněné kazaj­ce. Gueulemer se svou sošnou postavou by byl mohl krotit netvory; raději se však stal jedním z nich. Měl nízké čelo, široké spánky, a ač mu bylo teprve čtyřicet let, i vrásky u očních koutků; vlasy měl krátké a drsné, na tváři zježené vousisko, na bradě štětiny; to je jeho věrný obraz. Svaly toužily po práci, ale hloupost ji odmítala. Jeho obrovská síla ležela ladem. Byl vrahem z pohodlnosti. Byl považován za kreola. Pravděpodobně měl prsty ve vraždě maršálka Bruna[^6], protože v roce 1815 byl nosičem v Avignonu. Po tomto křtu se stal lupičem.
@@ -78,8 +72,6 @@ Montparnasse byl neblahé stvoření, téměř ještě dítě; nebylo mu ještě
 
 ## (4)  
 Složení tlupy
-
-  
 
 Ti čtyři zločinci tvořili dohromady jakéhosi Prótea; jako hadi uhýbali policii a snažili se uniknout nešetrným pohledům Vidocqovým[^7] v různých podobách, „v podobě stromu, plamene, studánky“. Propůjčovali si jména a dovednosti, ukrývali se ve vlastním stínu, vzájemně si byli kouzelnou skříňkou i útočištěm, odvrhovali svou osobnost, jako se odkládá falešný nos na maškarním plese, často se odosobnili do té míry, že byli jedinou bytostí, a jindy se tak rozmnožili, že i Coco-Lacour je považoval za velkou bandu.
 

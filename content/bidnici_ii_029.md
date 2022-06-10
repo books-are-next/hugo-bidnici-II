@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Dne 16. února 1833_
 
-  
-
 Noc z 16. na 17. února 1833 byla požehnaná. Nad svou tmou měla otevřená nebesa. Byla to svatební noc Maria a Cosetty.
 
 Den byl k pomilování krásný.
@@ -32,8 +30,12 @@ Stalo se – to poznamenáváme jedině ze snahy po přesnosti –, že 16. �
 
 „Masopustní úterý,“ zvolal děd, „tím lépe. Máme přísloví:
 
+  
+
 _Sňatek na masopustní úterý  
 na děti štědrý je kdekterý._
+
+  
 
 Nemluvme o tom. Tedy 16. února. Chceš to snad později, Marie?“
 
@@ -262,8 +264,6 @@ Obě řady po obou stranách bulváru se zase daly do pohybu a maškarní vůz 
 ## (2)  
 Jean Valjean má stále ruku na pásce
 
-  
-
 Uskutečnit svůj sen! Komu je to popřáno? Proto se asi v nebi konají volby; všichni jsme kandidáty, aniž o tom víme; andělé hlasují. Cosetta a Marius byli vyvoleni.
 
 Na radnici i v kostele byla Cosetta skvělá a dojemná. Oblékala ji Toussaintka s Nicolettou.
@@ -369,8 +369,6 @@ Stačí, když milujeme nebo když jsme milovali. Nechtějme víc. V temných z
 ## (3)  
 Nerozlučný
 
-  
-
 Kam se poděl Jean Valjean?
 
 Jakmile s úsměvem vyhověl roztomilému vyzvání Cosettinu, Jean Valjean se zvedl, a když si ho nikdo nevšímal, nepozorovaně odešel do předsíně. Byla to táž místnost, do které před osmi měsíci vstoupil, když umazaný od bahna, krve a prachu přinášel dědovi polomrtvého vnuka. Staré táflování stěn bylo dnes ověnčeno listím a květy; hudebníci seděli na pohovce, na kterou tehdy položili Maria. Bask ve fraku, v krátkých kalhotách, bílých punčochách a bílých rukavicích kladl věnce růží na mísy, které se měly nést na stůl. Jean Valjean ukázal svou ruku na pásce, požádal ho, aby vysvětlil jeho nepřítomnost, a odešel.
@@ -399,8 +397,6 @@ Tu ctihodná bílá hlava Jeana Valjeana padla na lůžko, staré, statečné sr
 
 ## (4)  
 Immortale jecur[^114]
-
-  
 
 Znovu se rozpoutal nelítostný boj; však jsme už byli svědky několika podobných střetnutí.
 

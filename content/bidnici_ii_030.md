@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Sedmý kruh a osmé nebe_
 
-  
-
 Den po svatbě trávívají lidé sami pro sebe. K soukromí šťastných lidí býváme obvykle šetrní. A také k tomu, když si trochu pospí. Ruch návštěv a gratulací začíná až později. Dne 17. února bylo už něco po polednách, když Bask s prachovkou a s péřovým smetáčkem pod paží „dělal předsíň“ a zaslechl lehké zaklepání na dveře. Zvonek se neozval, což je v takový den velmi ohleduplné. Bask otevřel a spatřil pana Faucheleventa. Uvedl ho do salónu, kde bylo ještě neuklizeno a všechno vzhůru nohama a kde to po včerejších radovánkách vypadalo jako na bojišti.
 
 „Božínku, pane,“ poznamenal Bask, „dneska jsme si poleželi.“
@@ -356,8 +354,6 @@ Marius se uklonil Jeanu Valjeanovi, štěstí vyprovodilo zoufalství až ke dve
 
 ## (2)  
 Nejasnosti, které mohou být v odhalení
-
-  
 
 Marius byl rozrušen.
 

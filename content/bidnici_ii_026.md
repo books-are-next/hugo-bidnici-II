@@ -6,8 +6,6 @@ contentType: prose
 ## _(1)  
 Stoka a její překvapení_
 
-  
-
 A právě v takové pařížské stoce se Jean Valjean octl.
 
 Zase jedna podobnost Paříže s mořem. Potápěč v ní může zmizet jako v oceánu.
@@ -71,8 +69,6 @@ Za světlem se matně míhalo osm nebo deset černých, nejasně a hrozivě se 
 ## (2)  
 Vysvětlení
 
-  
-
 Dne 6. června byla nařízena prohlídka stok. Policie se obávala, aby se tam neutekli poražení. Prefekt Gisquet měl prohledat pařížské podzemí, zatímco generál Bugeaud zametal Paříž na povrchu; dvě vzájemně se doplňující tažení, která vyžadovala dvojí strategii veřejné moci, nahoře zastupované vojskem a v podzemí policií. Tři čety policistů a stokařů prohledávaly pařížské podzemní smetiště, první prohledávala pravý břeh, druhá levý břeh a třetí střed města.
 
 Policisté byli ozbrojeni karabinami, obušky, šavlemi a dýkami.
@@ -105,8 +101,6 @@ Odměřené a volné kroky zaznívaly ještě nějaký čas v korytě tím ti�
 
 ## (3)  
 Stopovaný muž
-
-  
 
 Tehdejší policii se musí přiznat, že i za nejtěžších okolností veřejného života plnila neochvějně svou povinnost dozoru nad cestami i osobní bezpečností občanů. Nějaká vzpoura nebyla v jejích očích záminkou, aby nechávala bez povšimnutí zločince a zanedbávala společnost jen proto, že byla ohrožena vláda. Obvyklá služba se konala přesně i se službou mimořádnou a nebyla jí nijak rušena. Uprostřed nevypočitatelných politických událostí, pod tlakem možné revoluce stopoval policista zloděje, aniž se dal rušit povstáním a barikádou.
 
@@ -199,8 +193,6 @@ Fiakr, který se řídil všemi jeho pohyby, se zastavil nad ním blíže zábra
 ## (4)  
 Také on nese kříž
 
-  
-
 Jean Valjean znovu vykročil a už se nezastavil.
 
 Chůze byla stále namáhavější. Výška klenby se mění; průměrná výška je přibližně pět stop šest palců a byla vypočtena na výšku muže; Jean Valjean se musel shýbat, aby nenarazil s Mariem o klenbu; každou chvíli se musil sklonit a zase napřímit, bez ustání ohmatával zeď. Vlhkost kamenů a sliz na dně byly špatnými opěrnými body jak pro ruku, tak pro nohy. Klopýtal v odporném hnojišti města. Střídavé záblesky šachtic se objevovaly jen zřídka a byly tak slabé, že plné sluneční záření tam vypadalo jako měsíční světlo; všechno ostatní bylo ponořeno v mlze, v jedovatých výparech, v neproniknutelnosti a černi. Jean Valjean měl hlad a žízeň; zejména žízeň, a bylo mu jako člověku na moři, kde je také plno vody, ale není možno se napít. Měl úžasnou sílu, jak víme, která stářím neslábla, protože žil cudně a střídmě, a přece nyní počala ochabovat. Začínal pociťovat únavu a umdlévající síla zvětšovala tíhu břemene. Marius, který byl možná mrtev, byl těžký, jako jsou těžká bezvládná těla. Jean Valjean ho nesl tak, aby mu nestlačoval hrudník a aby Marius mohl volně dýchat. Cítil, jak mu kolem nohou proklouzávají krysy. Jedna se tak poděsila, že ho kousla. Občas ho otvorem stoky ovanul osvěžující čerstvý vzduch.
@@ -236,8 +228,6 @@ A ta tma se náhle proměnila v hrůzu.
 ## (5)  
 Jemnost písku a jemnost ženy bývá někdy zrádná
 
-  
-
 Ucítil, že vstoupil do vody a že už nemá pod nohama dlažbu, ale bahno.
 
 Na některých částech bretaňského nebo skotského pobřeží se stává, že muž, poutník nebo rybář, který se prochází za odlivu dále od břehu, náhle zpozoruje, že se mu jde obtížněji; jako by šel po smůle, která se mu lepí na podešve; to už není písek, je to lep. Pobřeží je dokonale suché, ale chodec, jakmile zvedne nohu, vidí, že jeho stopy zalila voda. jinak oko změnu nepozoruje; nesmírné pobřeží je jednolité a klidné, všechen písek má stejné vzezření, pevná půda se v ničem neliší od půdy, která už pevná není; veselé hejníčko vodních blech ani tam nepřestává jaře poskakovat kolem nohou chodce. Muž jde, kráčí kupředu, míří k pevnině, snaží se dostat ke břehu. Neznepokojuje se. Proč by se znepokojoval? Jen se mu při každém kroku zdá, že mu víc a víc těžknou nohy. Náhle se propadá. Propadá se do hloubky dvou tří palců. Zřejmě není na správné cestě; zastavuje se a rozhlíží. Tu se najednou podívá na své nohy. Chodidla zmizela. Vytáhne je, chce se vrátit zpátky, obrací se dozadu a boří se tím hloub, písek mu už sahá po kotníky; vyprostí se a vrhne se doleva, písek mu sahá do polou lýtek, vrhne se doprava a písek mu jde až po kolena. S nevýslovnou hrůzou zjišťuje, že se dostal do kuřavky a že má pod nohama prostředí, v němž nemůže člověk jít a ryba plavat. Odhodí svůj náklad, má-li nějaký, zbavuje se vší přítěže jako loď v nebezpečí; ale už je pozdě, písek mu sahá nad kolena.
@@ -267,8 +257,6 @@ Tak zahynul i mladý a půvabný vikomt Escoubleau, o němž jsme se před ch
 ## (6)  
 Fontis
 
-  
-
 Jean Valjean se octl u takového propadliště.
 
 Sesuv půdy byl dosti častý v podzemí Champs-Élysées, v němž se špatně prováděly vodovodní stavby a těžko se uchovávaly podzemní konstrukce, protože půda byla prosáklá vodou. Taková nasáklá půda je horší než tekuté písky pod čtvrtí Saint-George, které mohly být zvládnuty jen betonovými základy, a horší než jílové, plynem prosycené vrstvy ve čtvrti Martyrs, tak řídké, že tam mohli vést vodovodní potrubí jen litinovými rourami. Když v roce 1836 zbořili pod předměstím Saint-Honoré starou stoku, kde právě v této chvíli vidíme Jeana Valjeana, aby ji znovu vybudovali, tekuté písky, které jsou v podzemí pod Champs-Élysées až k Seině, působily takové obtíže, že stavba k velké nelibosti obyvatel nábřeží, a zejména majitelů hotelů a kočárů, trvala celých šest měsíců. Byla víc než nesnadná; byla nebezpečná. Je ovšem pravda, že tenkrát půlpáta měsíce pršelo a Seina se třikrát rozvodnila.
@@ -291,8 +279,6 @@ Nakonec se vztyčil, roztřesený, zmrzlý, špinavý, ohnutý pod umírajícím
 
 ## (7)  
 Někdy člověk ztroskotá právě tam, kde chtěl přistát
-
-  
 
 A znovu se vydal na cestu.
 
@@ -330,8 +316,6 @@ Na koho myslil v té hluboké sklíčenosti? Ani na sebe, ani na Maria. Myslil 
 
 ## (8)  
 Utržený kus kabátu
-
-  
 
 Ve chvíli největšího vysílení se čísi ruka dotkla jeho ramene a nějaký hlas zašeptal:
 
@@ -467,8 +451,6 @@ Jean Valjean se octl venku.
 Marius je pokládán za mrtvého někým,  
 kdo se v tom vyzná
 
-  
-
 Spustil Maria na svah břehu.
 
 Byli na svobodě!
@@ -575,8 +557,6 @@ Opustili nábřeží a vnikli do ulic. Černá silueta kočího na kozlíku šl
 Návrat ztraceného syna,  
 který promarnil svůj život
 
-  
-
 Při každém nárazu o dlažbu skanula z Mariových vlasů kapka krve.
 
 Byla už temná noc, když kočár předjel k číslu 6 v ulici Filles­-du-Calvaire.
@@ -640,8 +620,6 @@ Javert chvíli mlčel, brada mu klesla do límce kabátu, pak spustil přední o
 ## (11)  
 Zviklání svrchované moci
 
-  
-
 Cestou už neotevřeli ústa.
 
 Co vlastně Jean Valjean chtěl? Dokončit to, co začal; chtěl upozornit Cosettu, povědět jí, kde je Marius, chtěl snad i poradit, a bude-li moci, ještě zařídit, co sám uzná za nutné. Pokud šlo o něho osobně, věděl, že je všemu konec; byl zadržen Javertem a nijak se tomu nebránil; jiný v jeho postavení by si snad maně vzpomněl na provaz, který mu Thénardier podstrčil, a na mříže vězení, které ho čeká; jenže od chvíle, co se setkal s biskupem, který na něho hluboce zapůsobil svými mravními zásadami, Jean Valjean váhal před každým násilím, byť by je páchal sám na sobě.
@@ -682,8 +660,6 @@ Javert odešel.
 
 ## (12)  
 Děd
-
-  
 
 Bask a vrátný přenesli Maria do salónu. Marius ležel stále nehybně na pohovce, na kterou ho uložili. Lékař, pro kterého poslali, byl za krátkou chvíli u raněného. Teta Gillenormandová vstala.
 

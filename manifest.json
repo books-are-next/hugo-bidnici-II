@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hugo-bidnici-ii-7461c63",
-  "revision": "7461c63",
+  "identifier": "hugo-bidnici-ii-525aced",
+  "revision": "525aced",
   "readingOrder": [
     "promo.html",
     "bidnici_ii_005.html",
@@ -43,8 +43,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 17:50:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654883459498
+    "date": "Sat Jun 11 2022 12:03:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654949006878
   },
   "documents": [
     {

@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-525aced';
+const CACHE = 'cache-1d6987a';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./bidnici_ii_005.html","./bidnici_ii_006.html","./bidnici_ii_007.html","./bidnici_ii_008.html","./bidnici_ii_009.html","./bidnici_ii_010.html","./bidnici_ii_011.html","./bidnici_ii_012.html","./bidnici_ii_013.html","./bidnici_ii_014.html","./bidnici_ii_015.html","./bidnici_ii_016.html","./bidnici_ii_017.html","./bidnici_ii_018.html","./bidnici_ii_019.html","./bidnici_ii_020.html","./bidnici_ii_021.html","./bidnici_ii_022.html","./bidnici_ii_023.html","./bidnici_ii_024.html","./bidnici_ii_025.html","./bidnici_ii_026.html","./bidnici_ii_027.html","./bidnici_ii_028.html","./bidnici_ii_029.html","./bidnici_ii_031.html","./bidnici_ii_030.html","./bidnici_ii_032.html","./favicon.png","./colophon.html","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png","./resources/image001_fmt.png","./resources/image002_fmt.png","./resources/obalka_bidnici_ii_fmt.png","./resources/upoutavka_eknihy_fmt.png"]);
+        return cache.addAll(["./","./bidnici_ii_005.html","./bidnici_ii_006.html","./bidnici_ii_007.html","./bidnici_ii_008.html","./bidnici_ii_009.html","./bidnici_ii_010.html","./bidnici_ii_011.html","./bidnici_ii_012.html","./bidnici_ii_013.html","./bidnici_ii_014.html","./bidnici_ii_015.html","./bidnici_ii_017.html","./bidnici_ii_016.html","./bidnici_ii_018.html","./bidnici_ii_019.html","./bidnici_ii_021.html","./bidnici_ii_020.html","./bidnici_ii_023.html","./bidnici_ii_024.html","./bidnici_ii_025.html","./bidnici_ii_022.html","./bidnici_ii_026.html","./bidnici_ii_027.html","./bidnici_ii_028.html","./bidnici_ii_030.html","./bidnici_ii_029.html","./bidnici_ii_031.html","./bidnici_ii_032.html","./favicon.png","./colophon.html","./index.html","./manifest.json","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image002_fmt.png","./resources/image001_fmt.png","./resources/obalka_bidnici_ii_fmt.png","./resources/upoutavka_eknihy_fmt.png","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

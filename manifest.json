@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hugo-bidnici-ii-d8f8d1a",
-  "revision": "d8f8d1a",
+  "identifier": "hugo-bidnici-ii-a935f34",
+  "revision": "a935f34",
   "readingOrder": [
     "promo.html",
     "bidnici_ii_005.html",
@@ -40,11 +40,11 @@
     "bidnici_ii_030.html",
     "bidnici_ii_031.html",
     "bidnici_ii_032.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:08:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978889773
+    "date": "Thu Jul 07 2022 08:28:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182493519
   },
   "documents": [
     {
@@ -541,7 +541,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KNIHA PÁTÁKonec se nepodobá začátku",
+          "name": "KNIHA PÁTÁKonec se nepodobá začátku",
           "id": null,
           "children": [
             {
@@ -863,7 +863,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KNIHA JEDENÁCTÁAtom se bratří s uragánem",
+          "name": "KNIHA JEDENÁCTÁAtom se bratří s uragánem",
           "id": null,
           "children": [
             {
@@ -1003,7 +1003,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "KNIHA TŘINÁCTÁMarius vstupuje do stínu",
+          "name": "KNIHA TŘINÁCTÁMarius vstupuje do stínu",
           "id": null,
           "children": [
             {
@@ -1774,7 +1774,7 @@
       "role": "chapter",
       "order": 28,
       "prev": "bidnici_ii_031.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1830,11 +1830,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 132,
-      "chars": 857,
+      "chars": 856,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "bidnici_ii_032.html",
       "next": null,
@@ -1852,7 +1852,7 @@
   "totals": {
     "all": {
       "words": 210165,
-      "chars": 1303172,
+      "chars": 1303171,
       "ideas": 7895
     },
     "chapters": {
